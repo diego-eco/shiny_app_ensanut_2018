@@ -28,8 +28,9 @@ ensanut_ap <- read.csv(file = "data/ensanut_areas_peq.csv",
                        sep=",", 
                        colClasses=c(rep('factor', 6), 'numeric','numeric','numeric')
 )
+
 ensanut_ap <- ensanut_ap %>%
-    rename(CVEGEO = mun,Obesidad=obesidad,Hipertensión=hipertension,Diabetes=diabetes)
+    dplyr::rename(CVEGEO = mun,Obesidad=obesidad,Hipertensión=hipertension,Diabetes=diabetes)
 
 #Unir ambas bases
 datos<-merge(x=mun_nac,y=ensanut_ap,by=c("CVEGEO"))
