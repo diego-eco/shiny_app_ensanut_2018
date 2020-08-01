@@ -32,7 +32,7 @@ ensanut_ap <- read.csv(file = "data/ensanut_areas_peq.csv",
 #    dplyr::rename(CVEGEO = mun,Obesidad=obesidad,Hipertensión=hipertension,Diabetes=diabetes)
 
 #Unir ambas bases
-datos<-merge(x=mun_nac,y=ensanut_ap,by=c("CVEGEO"))
+datos<-base::merge(x=mun_nac,y=ensanut_ap,by=c("CVEGEO"))
 
 #### End Global R frame 
 
