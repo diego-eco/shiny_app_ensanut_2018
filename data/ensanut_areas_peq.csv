@@ -1,0 +1,2458 @@
+﻿mun,ent,ent_nom,mun_clave,mun_nom,estimador,obesidad,hipertension,diabetes
+01001,1,Aguascalientes,1,Aguascalientes,Valor,31.5,14.9,7.5
+01002,1,Aguascalientes,2,Asientos,Valor,32.3,15.3,8
+01003,1,Aguascalientes,3,Calvillo,Valor,40,13.8,9.2
+01004,1,Aguascalientes,4,Cosío,Valor,32.6,16.4,7.4
+01005,1,Aguascalientes,5,Jesús María,Valor,34.7,12.4,6.7
+01006,1,Aguascalientes,6,Pabellón de Arteaga,Valor,24.1,12.8,7.4
+01007,1,Aguascalientes,7,Rincón de Romos,Valor,31.7,14.3,6.9
+01008,1,Aguascalientes,8,San José de Gracia,Valor,31.3,14.9,6.2
+01009,1,Aguascalientes,9,Tepezalá,Valor,32,14.7,7.2
+01010,1,Aguascalientes,10,El Llano,Valor,35.1,16.6,7.6
+01011,1,Aguascalientes,11,San Francisco de los Romo,Valor,39.3,11.9,7.2
+02001,2,Baja California,1,Ensenada,Valor,50.2,22.2,9.8
+02002,2,Baja California,2,Mexicali,Valor,57.8,25.1,11.5
+02003,2,Baja California,3,Tecate,Valor,56.1,20.1,10.1
+02004,2,Baja California,4,Tijuana,Valor,48.2,21.2,10.5
+02005,2,Baja California,5,Playas de Rosarito,Valor,49.9,20.4,10.6
+03001,3,Baja California Sur,1,Comondú,Valor,57.7,24.5,14.8
+03002,3,Baja California Sur,2,Mulegé,Valor,44.1,18.1,10.3
+03003,3,Baja California Sur,3,La Paz,Valor,48.5,23.9,9.7
+03008,3,Baja California Sur,8,Los Cabos,Valor,46.6,11.7,7.5
+03009,3,Baja California Sur,9,Loreto,Valor,50.9,22.1,9.6
+04001,4,Campeche,1,Calkiní,Valor,43.7,23.3,14.1
+04002,4,Campeche,2,Campeche,Valor,43.2,30.9,15
+04003,4,Campeche,3,Carmen,Valor,50.3,27,14.4
+04004,4,Campeche,4,Champotón,Valor,47.3,23.6,13.4
+04005,4,Campeche,5,Hecelchakán,Valor,41.3,20.3,13.1
+04006,4,Campeche,6,Hopelchén,Valor,40.7,20.6,12.2
+04007,4,Campeche,7,Palizada,Valor,44.2,22.2,12.6
+04008,4,Campeche,8,Tenabo,Valor,44.4,29.3,16.1
+04009,4,Campeche,9,Escárcega,Valor,39.5,21.3,13.4
+04010,4,Campeche,10,Calakmul,Valor,36.8,16.2,11.1
+04011,4,Campeche,11,Candelaria,Valor,51,22.2,13.6
+05001,5,Coahuila de Zaragoza,1,Abasolo,Valor,38.4,30,13.2
+05002,5,Coahuila de Zaragoza,2,Acuña,Valor,43.2,18.5,12
+05003,5,Coahuila de Zaragoza,3,Allende,Valor,36.9,20.6,11.2
+05004,5,Coahuila de Zaragoza,4,Arteaga,Valor,42.5,20.8,12.5
+05005,5,Coahuila de Zaragoza,5,Candela,Valor,41.5,24.7,12.9
+05006,5,Coahuila de Zaragoza,6,Castaños,Valor,67,20.4,13.9
+05007,5,Coahuila de Zaragoza,7,Cuatro Ciénegas,Valor,39.2,21.3,11.8
+05008,5,Coahuila de Zaragoza,8,Escobedo,Valor,39.1,21.8,11.2
+05009,5,Coahuila de Zaragoza,9,Francisco I. Madero,Valor,38.3,21.6,12.5
+05010,5,Coahuila de Zaragoza,10,Frontera,Valor,43.9,18.9,11.2
+05011,5,Coahuila de Zaragoza,11,General Cepeda,Valor,43.8,23.9,12.7
+05012,5,Coahuila de Zaragoza,12,Guerrero,Valor,52.4,23.8,12.5
+05013,5,Coahuila de Zaragoza,13,Hidalgo,Valor,43.4,19.2,9.7
+05014,5,Coahuila de Zaragoza,14,Jiménez,Valor,42.3,21.4,11.4
+05015,5,Coahuila de Zaragoza,15,Juárez,Valor,40,23.1,11.4
+05016,5,Coahuila de Zaragoza,16,Lamadrid,Valor,40.4,26.6,12.2
+05017,5,Coahuila de Zaragoza,17,Matamoros,Valor,40,22.5,12.3
+05018,5,Coahuila de Zaragoza,18,Monclova,Valor,41.1,20.4,13.7
+05019,5,Coahuila de Zaragoza,19,Morelos,Valor,39.4,20.5,11.3
+05020,5,Coahuila de Zaragoza,20,Múzquiz,Valor,31.8,21.2,14
+05021,5,Coahuila de Zaragoza,21,Nadadores,Valor,43.6,24,11.4
+05022,5,Coahuila de Zaragoza,22,Nava,Valor,43.2,18.8,9.3
+05023,5,Coahuila de Zaragoza,23,Ocampo,Valor,44.4,20.9,11.1
+05024,5,Coahuila de Zaragoza,24,Parras,Valor,41.7,21.5,13.6
+05025,5,Coahuila de Zaragoza,25,Piedras Negras,Valor,41.4,18.2,11.8
+05026,5,Coahuila de Zaragoza,26,Progreso,Valor,40.3,22.1,11.7
+05027,5,Coahuila de Zaragoza,27,Ramos Arizpe,Valor,43.6,20.4,9.9
+05028,5,Coahuila de Zaragoza,28,Sabinas,Valor,38.6,22.5,12.1
+05029,5,Coahuila de Zaragoza,29,Sacramento,Valor,44.4,22.4,11
+05030,5,Coahuila de Zaragoza,30,Saltillo,Valor,36.6,24.5,11.8
+05031,5,Coahuila de Zaragoza,31,San Buenaventura,Valor,40.6,23.6,13.7
+05032,5,Coahuila de Zaragoza,32,San Juan de Sabinas,Valor,40.2,22.5,17.1
+05033,5,Coahuila de Zaragoza,33,San Pedro,Valor,36.8,22.9,12.2
+05034,5,Coahuila de Zaragoza,34,Sierra Mojada,Valor,43.8,18.3,10
+05035,5,Coahuila de Zaragoza,35,Torreón,Valor,34.9,25.6,13.8
+05036,5,Coahuila de Zaragoza,36,Viesca,Valor,38.8,22.6,12.8
+05037,5,Coahuila de Zaragoza,37,Villa Unión,Valor,42.1,20.9,11
+05038,5,Coahuila de Zaragoza,38,Zaragoza,Valor,40.6,21.2,11.8
+06001,6,Colima,1,Armería,Valor,45.9,17.8,11.4
+06002,6,Colima,2,Colima,Valor,45.2,21.7,12.4
+06003,6,Colima,3,Comala,Valor,43.2,19.8,11.1
+06004,6,Colima,4,Coquimatlán,Valor,46,18.5,11.5
+06005,6,Colima,5,Cuauhtémoc,Valor,44,24.4,11.3
+06006,6,Colima,6,Ixtlahuacán,Valor,38.2,20.6,11.4
+06007,6,Colima,7,Manzanillo,Valor,51,15.9,11.7
+06008,6,Colima,8,Minatitlán,Valor,47.3,19.5,10.3
+06009,6,Colima,9,Tecomán,Valor,43,14.8,10.7
+06010,6,Colima,10,Villa de Álvarez,Valor,41.9,18.1,10.7
+07001,7,Chiapas,1,Acacoyagua,Valor,35.1,15.8,7.8
+07002,7,Chiapas,2,Acala,Valor,34.1,16.5,9.8
+07003,7,Chiapas,3,Acapetahua,Valor,30.7,17.2,9.4
+07004,7,Chiapas,4,Altamirano,Valor,27,14,6.7
+07005,7,Chiapas,5,Amatán,Valor,26.9,14.9,8.1
+07006,7,Chiapas,6,Amatenango de la Frontera,Valor,28.6,18.7,7.8
+07007,7,Chiapas,7,Amatenango del Valle,Valor,19.1,12.3,7.4
+07008,7,Chiapas,8,Angel Albino Corzo,Valor,29.1,14.2,7.5
+07009,7,Chiapas,9,Arriaga,Valor,32.7,19.3,10.3
+07010,7,Chiapas,10,Bejucal de Ocampo,Valor,27,14.3,7.3
+07011,7,Chiapas,11,Bella Vista,Valor,25.7,17,7.6
+07012,7,Chiapas,12,Berriozábal,Valor,35.2,16,7.6
+07013,7,Chiapas,13,Bochil,Valor,29.7,13.3,7
+07014,7,Chiapas,14,El Bosque,Valor,25.9,11.7,6.8
+07015,7,Chiapas,15,Cacahoatán,Valor,31.8,15.2,7.6
+07016,7,Chiapas,16,Catazajá,Valor,36.8,19,11.5
+07017,7,Chiapas,17,Cintalapa,Valor,33.3,26.5,8.7
+07018,7,Chiapas,18,Coapilla,Valor,32.1,15.8,8.7
+07019,7,Chiapas,19,Comitán de Domínguez,Valor,30.9,17.7,9.3
+07020,7,Chiapas,20,La Concordia,Valor,31.6,14.5,7.9
+07021,7,Chiapas,21,Copainalá,Valor,27.8,17.4,9.1
+07022,7,Chiapas,22,Chalchihuitán,Valor,23.5,9,6.4
+07023,7,Chiapas,23,Chamula,Valor,13.5,8.4,7
+07024,7,Chiapas,24,Chanal,Valor,25.1,12.5,4.5
+07025,7,Chiapas,25,Chapultenango,Valor,21.5,20.7,7.5
+07026,7,Chiapas,26,Chenalhó,Valor,23.1,10.9,6.1
+07027,7,Chiapas,27,Chiapa de Corzo,Valor,51.6,18.8,8.2
+07028,7,Chiapas,28,Chiapilla,Valor,34.4,14.8,9.1
+07029,7,Chiapas,29,Chicoasén,Valor,36.6,14.7,7.9
+07030,7,Chiapas,30,Chicomuselo,Valor,27.3,15.7,7.6
+07031,7,Chiapas,31,Chilón,Valor,22.5,10.5,5.8
+07032,7,Chiapas,32,Escuintla,Valor,26.8,17.3,7.7
+07033,7,Chiapas,33,Francisco León,Valor,27.9,13.7,6.9
+07034,7,Chiapas,34,Frontera Comalapa,Valor,28.4,17.1,8.3
+07035,7,Chiapas,35,Frontera Hidalgo,Valor,27.8,17,7.6
+07036,7,Chiapas,36,La Grandeza,Valor,29.6,16.2,6.1
+07037,7,Chiapas,37,Huehuetán,Valor,15.9,6.5,7.9
+07038,7,Chiapas,38,Huixtán,Valor,24.3,16.9,7.3
+07039,7,Chiapas,39,Huitiupán,Valor,24.9,13.9,7.1
+07040,7,Chiapas,40,Huixtla,Valor,29.6,17.6,9.1
+07041,7,Chiapas,41,La Independencia,Valor,28.7,14.6,9.3
+07042,7,Chiapas,42,Ixhuatán,Valor,30.9,16.7,8.3
+07043,7,Chiapas,43,Ixtacomitán,Valor,31.5,16.5,8
+07044,7,Chiapas,44,Ixtapa,Valor,31.7,13.4,8.2
+07045,7,Chiapas,45,Ixtapangajoya,Valor,29.7,16.7,8
+07046,7,Chiapas,46,Jiquipilas,Valor,30,20.2,9.3
+07047,7,Chiapas,47,Jitotol,Valor,29.8,12.6,6.2
+07048,7,Chiapas,48,Juárez,Valor,35.5,17.7,9.4
+07049,7,Chiapas,49,Larráinzar,Valor,25.4,10.3,5.2
+07050,7,Chiapas,50,La Libertad,Valor,33,19.5,9.2
+07051,7,Chiapas,51,Mapastepec,Valor,34.8,38.9,9.4
+07052,7,Chiapas,52,Las Margaritas,Valor,24.9,2.8,7.5
+07053,7,Chiapas,53,Mazapa de Madero,Valor,27.5,16.7,7.4
+07054,7,Chiapas,54,Mazatán,Valor,31.5,17.8,10.1
+07055,7,Chiapas,55,Metapa,Valor,29.6,19.1,7.5
+07056,7,Chiapas,56,Mitontic,Valor,19.9,14.9,6.9
+07057,7,Chiapas,57,Motozintla,Valor,26.9,16.9,7.1
+07058,7,Chiapas,58,Nicolás Ruíz,Valor,26.9,10.5,6.8
+07059,7,Chiapas,59,Ocosingo,Valor,27.8,13.5,6
+07060,7,Chiapas,60,Ocotepec,Valor,19.2,13.5,7
+07061,7,Chiapas,61,Ocozocoautla de Espinosa,Valor,30.8,15.6,7.6
+07062,7,Chiapas,62,Ostuacán,Valor,34,15.3,7.9
+07063,7,Chiapas,63,Osumacinta,Valor,33.5,15.6,7.1
+07064,7,Chiapas,64,Oxchuc,Valor,26.3,13.3,5.8
+07065,7,Chiapas,65,Palenque,Valor,29.8,15.3,8
+07066,7,Chiapas,66,Pantelhó,Valor,24.9,9.3,6.5
+07067,7,Chiapas,67,Pantepec,Valor,26.3,13.5,8.3
+07068,7,Chiapas,68,Pichucalco,Valor,33.2,19.8,10.2
+07069,7,Chiapas,69,Pijijiapan,Valor,31.7,18.3,9.7
+07070,7,Chiapas,70,El Porvenir,Valor,22.3,16.1,6.5
+07071,7,Chiapas,71,Villa Comaltitlán,Valor,29.7,16.7,8.6
+07072,7,Chiapas,72,Pueblo Nuevo Solistahuacán,Valor,23.7,12.7,6.4
+07073,7,Chiapas,73,Rayón,Valor,32.7,15.9,6.7
+07074,7,Chiapas,74,Reforma,Valor,38.9,19.7,8.7
+07075,7,Chiapas,75,Las Rosas,Valor,29.9,15.2,9.1
+07076,7,Chiapas,76,Sabanilla,Valor,23.3,11.9,6.7
+07077,7,Chiapas,77,Salto de Agua,Valor,20.3,14.4,6.9
+07078,7,Chiapas,78,San Cristóbal de las Casas,Valor,31.6,15.9,7.8
+07079,7,Chiapas,79,San Fernando,Valor,39.5,17.1,9.5
+07080,7,Chiapas,80,Siltepec,Valor,27.3,15.3,6
+07081,7,Chiapas,81,Simojovel,Valor,25.5,9.9,5.8
+07082,7,Chiapas,82,Sitalá,Valor,23.1,9.7,6.8
+07083,7,Chiapas,83,Socoltenango,Valor,32.2,16.3,9.8
+07084,7,Chiapas,84,Solosuchiapa,Valor,32.4,15.7,7.5
+07085,7,Chiapas,85,Soyaló,Valor,35.8,16.4,8.5
+07086,7,Chiapas,86,Suchiapa,Valor,37,18.5,7.2
+07087,7,Chiapas,87,Suchiate,Valor,30.7,14.9,9.3
+07088,7,Chiapas,88,Sunuapa,Valor,27.4,17.2,7.4
+07089,7,Chiapas,89,Tapachula,Valor,32.8,18.8,8.8
+07090,7,Chiapas,90,Tapalapa,Valor,19.6,17.3,7.5
+07091,7,Chiapas,91,Tapilula,Valor,32.5,16.7,10
+07092,7,Chiapas,92,Tecpatán,Valor,26.7,16.4,7.7
+07093,7,Chiapas,93,Tenejapa,Valor,18.8,11.5,6.4
+07094,7,Chiapas,94,Teopisca,Valor,29.1,13.4,7.6
+07096,7,Chiapas,96,Tila,Valor,24.2,13.7,6.6
+07097,7,Chiapas,97,Tonalá,Valor,25.6,21.1,9.4
+07098,7,Chiapas,98,Totolapa,Valor,28.1,9.9,8.4
+07099,7,Chiapas,99,La Trinitaria,Valor,28.2,17.3,9.1
+07100,7,Chiapas,100,Tumbalá,Valor,17.6,14.3,7.1
+07101,7,Chiapas,101,Tuxtla Gutiérrez,Valor,33.8,23.2,8.5
+07102,7,Chiapas,102,Tuxtla Chico,Valor,27.9,17.5,8
+07103,7,Chiapas,103,Tuzantán,Valor,28,14.4,7.8
+07104,7,Chiapas,104,Tzimol,Valor,31.3,18.3,10.2
+07105,7,Chiapas,105,Unión Juárez,Valor,31.3,17,8.3
+07106,7,Chiapas,106,Venustiano Carranza,Valor,31.8,16,9.2
+07107,7,Chiapas,107,Villa Corzo,Valor,31.8,16,9
+07108,7,Chiapas,108,Villaflores,Valor,32.8,17.1,9.5
+07109,7,Chiapas,109,Yajalón,Valor,26.8,13.7,7.3
+07110,7,Chiapas,110,San Lucas,Valor,29.4,12,8.9
+07111,7,Chiapas,111,Zinacantán,Valor,18.9,11.5,8.2
+07112,7,Chiapas,112,San Juan Cancuc,Valor,21.1,10.1,5.3
+07113,7,Chiapas,113,Aldama,Valor,18.7,11,4.9
+07114,7,Chiapas,114,Benemérito de las Américas,Valor,34.9,13.5,6.5
+07115,7,Chiapas,115,Maravilla Tenejapa,Valor,28.7,12.7,6.9
+07116,7,Chiapas,116,Marqués de Comillas,Valor,27.3,14.2,6.9
+07117,7,Chiapas,117,Montecristo de Guerrero,Valor,33.7,13.6,6.9
+07118,7,Chiapas,118,San Andrés Duraznal,Valor,19.4,11.7,5.8
+07119,7,Chiapas,119,Santiago el Pinar,Valor,27.3,14.1,4.9
+08001,8,Chihuahua,1,Ahumada,Valor,45.2,20.7,10
+08002,8,Chihuahua,2,Aldama,Valor,40.9,23.7,9.5
+08003,8,Chihuahua,3,Allende,Valor,41.7,28.4,11.1
+08004,8,Chihuahua,4,Aquiles Serdán,Valor,57.1,18.1,6.8
+08005,8,Chihuahua,5,Ascensión,Valor,47.4,20.8,9.8
+08006,8,Chihuahua,6,Bachíniva,Valor,45.5,28.7,11.9
+08007,8,Chihuahua,7,Balleza,Valor,37.9,20.9,8.8
+08008,8,Chihuahua,8,Batopilas de Manuel Gómez Morín,Valor,30.3,15.3,8.7
+08009,8,Chihuahua,9,Bocoyna,Valor,33.9,19.4,9.8
+08010,8,Chihuahua,10,Buenaventura,Valor,24.3,26.8,25.1
+08011,8,Chihuahua,11,Camargo,Valor,38.8,24.1,10
+08012,8,Chihuahua,12,Carichí,Valor,27.5,29,25.2
+08013,8,Chihuahua,13,Casas Grandes,Valor,44.4,24.9,9.8
+08014,8,Chihuahua,14,Coronado,Valor,45.1,29,11.1
+08015,8,Chihuahua,15,Coyame del Sotol,Valor,57.5,27.3,11.5
+08016,8,Chihuahua,16,La Cruz,Valor,44.1,27.3,9.3
+08017,8,Chihuahua,17,Cuauhtémoc,Valor,36,20.9,10.6
+08018,8,Chihuahua,18,Cusihuiriachi,Valor,47.5,27.5,12
+08019,8,Chihuahua,19,Chihuahua,Valor,39.3,25.2,8.7
+08020,8,Chihuahua,20,Chínipas,Valor,41.6,20.2,8.6
+08021,8,Chihuahua,21,Delicias,Valor,41.6,23.2,10.7
+08022,8,Chihuahua,22,Dr. Belisario Domínguez,Valor,40.6,35.4,13.9
+08023,8,Chihuahua,23,Galeana,Valor,42.6,19.2,7.8
+08024,8,Chihuahua,24,Santa Isabel,Valor,22.4,30.2,24.8
+08025,8,Chihuahua,25,Gómez Farías,Valor,39,26,10.9
+08026,8,Chihuahua,26,Gran Morelos,Valor,42.2,32.7,12.7
+08027,8,Chihuahua,27,Guachochi,Valor,31.6,18.4,10
+08028,8,Chihuahua,28,Guadalupe,Valor,40.5,25.2,9.7
+08029,8,Chihuahua,29,Guadalupe y Calvo,Valor,35,17,7.8
+08030,8,Chihuahua,30,Guazapares,Valor,39.9,21.7,8.9
+08031,8,Chihuahua,31,Guerrero,Valor,43.1,26,10.6
+08032,8,Chihuahua,32,Hidalgo del Parral,Valor,38,25.9,10.3
+08033,8,Chihuahua,33,Huejotitán,Valor,43.2,30.3,11.6
+08034,8,Chihuahua,34,Ignacio Zaragoza,Valor,43.9,27.8,11.7
+08035,8,Chihuahua,35,Janos,Valor,48.3,22.9,9
+08036,8,Chihuahua,36,Jiménez,Valor,40.6,27.4,9
+08037,8,Chihuahua,37,Juárez,Valor,42.4,23.2,9.6
+08038,8,Chihuahua,38,Julimes,Valor,47.1,25.4,10.4
+08039,8,Chihuahua,39,López,Valor,46.1,27.7,10.2
+08040,8,Chihuahua,40,Madera,Valor,42.6,36.4,10.4
+08041,8,Chihuahua,41,Maguarichi,Valor,43.7,16.9,9.7
+08042,8,Chihuahua,42,Manuel Benavides,Valor,41,27,11.9
+08043,8,Chihuahua,43,Matachí,Valor,42,30,11
+08044,8,Chihuahua,44,Matamoros,Valor,41.4,26.9,9.9
+08045,8,Chihuahua,45,Meoqui,Valor,42,24.3,9.4
+08046,8,Chihuahua,46,Morelos,Valor,30.8,18.8,8.2
+08047,8,Chihuahua,47,Moris,Valor,41.4,22.5,9.7
+08048,8,Chihuahua,48,Namiquipa,Valor,46.1,28.3,11.4
+08049,8,Chihuahua,49,Nonoava,Valor,47.6,25.6,10.6
+08050,8,Chihuahua,50,Nuevo Casas Grandes,Valor,41.5,14.7,9.2
+08051,8,Chihuahua,51,Ocampo,Valor,46.9,17.3,8.3
+08052,8,Chihuahua,52,Ojinaga,Valor,46.4,19.8,10.9
+08053,8,Chihuahua,53,Praxedis G. Guerrero,Valor,42.4,24.4,10.3
+08054,8,Chihuahua,54,Riva Palacio,Valor,47.9,23.8,10.5
+08055,8,Chihuahua,55,Rosales,Valor,44.6,24.5,10
+08056,8,Chihuahua,56,Rosario,Valor,42.7,29.7,12.3
+08057,8,Chihuahua,57,San Francisco de Borja,Valor,46.8,32.1,12.7
+08058,8,Chihuahua,58,San Francisco de Conchos,Valor,45,29.7,10.6
+08059,8,Chihuahua,59,San Francisco del Oro,Valor,41.2,25.9,10
+08060,8,Chihuahua,60,Santa Bárbara,Valor,42,25.1,9.8
+08061,8,Chihuahua,61,Satevó,Valor,45.4,32,12.8
+08062,8,Chihuahua,62,Saucillo,Valor,45.8,24.7,2.8
+08063,8,Chihuahua,63,Temósachic,Valor,28.3,29.9,25.3
+08064,8,Chihuahua,64,El Tule,Valor,44.2,29.9,11.4
+08065,8,Chihuahua,65,Urique,Valor,24.8,26.8,24.4
+08066,8,Chihuahua,66,Uruachi,Valor,35.7,20.4,9.7
+08067,8,Chihuahua,67,Valle de Zaragoza,Valor,41.9,28.7,11.6
+09002,9,Ciudad de México,2,Azcapotzalco,Valor,35.3,18.8,13.7
+09003,9,Ciudad de México,3,Coyoacán,Valor,33.3,21.7,11.4
+09004,9,Ciudad de México,4,Cuajimalpa de Morelos,Valor,34.7,18.3,9.1
+09005,9,Ciudad de México,5,Gustavo A. Madero,Valor,35.7,20.6,13.5
+09006,9,Ciudad de México,6,Iztacalco,Valor,34.2,22.1,13.1
+09007,9,Ciudad de México,7,Iztapalapa,Valor,35.7,19.6,12.8
+09008,9,Ciudad de México,8,La Magdalena Contreras,Valor,34.1,18.4,10.9
+09009,9,Ciudad de México,9,Milpa Alta,Valor,36.2,16.6,11.5
+09010,9,Ciudad de México,10,Álvaro Obregón,Valor,35.4,17.2,11.8
+09011,9,Ciudad de México,11,Tláhuac,Valor,34.3,17,10.9
+09012,9,Ciudad de México,12,Tlalpan,Valor,36.1,20.3,10.1
+09013,9,Ciudad de México,13,Xochimilco,Valor,37.5,18.1,10.7
+09014,9,Ciudad de México,14,Benito Juárez,Valor,34,23.1,14.1
+09015,9,Ciudad de México,15,Cuauhtémoc,Valor,37.1,19.9,14.9
+09016,9,Ciudad de México,16,Miguel Hidalgo,Valor,44,21.3,13.3
+09017,9,Ciudad de México,17,Venustiano Carranza,Valor,35.7,20.9,12.7
+10001,10,Durango,1,Canatlán,Valor,40.9,25.4,10.9
+10002,10,Durango,2,Canelas,Valor,35.2,16.7,10.1
+10003,10,Durango,3,Coneto de Comonfort,Valor,37.9,21.3,10
+10004,10,Durango,4,Cuencamé,Valor,42,22.9,11.7
+10005,10,Durango,5,Durango,Valor,34.2,20.3,10.1
+10006,10,Durango,6,General Simón Bolívar,Valor,37.9,19.8,12.8
+10007,10,Durango,7,Gómez Palacio,Valor,43.6,21.3,13.6
+10008,10,Durango,8,Guadalupe Victoria,Valor,38,21.2,11.2
+10009,10,Durango,9,Guanaceví,Valor,43.1,18.9,12.6
+10010,10,Durango,10,Hidalgo,Valor,41,25.6,12.2
+10011,10,Durango,11,Indé,Valor,41.8,24.9,13.1
+10012,10,Durango,12,Lerdo,Valor,46.5,22,11.5
+10013,10,Durango,13,Mapimí,Valor,41.5,18.2,10.6
+10014,10,Durango,14,Mezquital,Valor,22.7,12.5,7.5
+10015,10,Durango,15,Nazas,Valor,41,23.2,12.7
+10016,10,Durango,16,Nombre de Dios,Valor,38,22.7,11.8
+10017,10,Durango,17,Ocampo,Valor,40.9,27.6,13.5
+10018,10,Durango,18,El Oro,Valor,41,26.6,15.2
+10019,10,Durango,19,Otáez,Valor,36.9,16.2,8.6
+10020,10,Durango,20,Pánuco de Coronado,Valor,37.2,23.3,13.2
+10021,10,Durango,21,Peñón Blanco,Valor,39.8,23.3,12.5
+10022,10,Durango,22,Poanas,Valor,36.2,23.7,11.9
+10023,10,Durango,23,Pueblo Nuevo,Valor,37.2,15.7,8.1
+10024,10,Durango,24,Rodeo,Valor,38,22.3,11.4
+10025,10,Durango,25,San Bernardo,Valor,42.9,25.5,14.3
+10026,10,Durango,26,San Dimas,Valor,38.1,17.1,9.2
+10027,10,Durango,27,San Juan de Guadalupe,Valor,31.8,23,10.9
+10028,10,Durango,28,San Juan del Río,Valor,42.5,22,12.7
+10029,10,Durango,29,San Luis del Cordero,Valor,40.9,23.2,11.4
+10030,10,Durango,30,San Pedro del Gallo,Valor,36.3,23.3,11.8
+10031,10,Durango,31,Santa Clara,Valor,37.4,23.5,11
+10032,10,Durango,32,Santiago Papasquiaro,Valor,38.8,19.9,11
+10033,10,Durango,33,Súchil,Valor,31.2,22.8,11.1
+10034,10,Durango,34,Tamazula,Valor,43.2,15,8.8
+10035,10,Durango,35,Tepehuanes,Valor,34.4,22.2,11.6
+10036,10,Durango,36,Tlahualilo,Valor,40.7,21.8,10.6
+10037,10,Durango,37,Topia,Valor,37,16.1,10.4
+10038,10,Durango,38,Vicente Guerrero,Valor,38.2,21.6,9.8
+10039,10,Durango,39,Nuevo Ideal,Valor,40.3,20.7,10.2
+11001,11,Guanajuato,1,Abasolo,Valor,25.2,17.5,9
+11002,11,Guanajuato,2,Acámbaro,Valor,30.6,23,11.8
+11003,11,Guanajuato,3,San Miguel de Allende,Valor,24.2,17.3,8.3
+11004,11,Guanajuato,4,Apaseo el Alto,Valor,30.7,17.7,9.7
+11005,11,Guanajuato,5,Apaseo el Grande,Valor,29.3,18.7,8.5
+11006,11,Guanajuato,6,Atarjea,Valor,17.8,21.6,9.3
+11007,11,Guanajuato,7,Celaya,Valor,29.8,19.5,10.1
+11008,11,Guanajuato,8,Manuel Doblado,Valor,26.5,18.8,10.4
+11009,11,Guanajuato,9,Comonfort,Valor,27.4,10.3,8.6
+11010,11,Guanajuato,10,Coroneo,Valor,25.9,20.8,10.3
+11011,11,Guanajuato,11,Cortazar,Valor,31.2,18.8,10.9
+11012,11,Guanajuato,12,Cuerámaro,Valor,27.4,19.1,10.8
+11013,11,Guanajuato,13,Doctor Mora,Valor,26.6,17.1,8.2
+11014,11,Guanajuato,14,Dolores Hidalgo Cuna de la Independencia Nacional,Valor,26.6,18.2,9.2
+11015,11,Guanajuato,15,Guanajuato,Valor,31.6,19.6,9.1
+11016,11,Guanajuato,16,Huanímaro,Valor,25.4,20.2,11.2
+11017,11,Guanajuato,17,Irapuato,Valor,31.7,18.1,9.6
+11018,11,Guanajuato,18,Jaral del Progreso,Valor,28.5,19.5,10.4
+11019,11,Guanajuato,19,Jerécuaro,Valor,24.1,19.9,11.3
+11020,11,Guanajuato,20,León,Valor,32.4,17.6,9.2
+11021,11,Guanajuato,21,Moroleón,Valor,27.9,22,12.6
+11022,11,Guanajuato,22,Ocampo,Valor,28.2,19,8.9
+11023,11,Guanajuato,23,Pénjamo,Valor,26.9,17.2,10.6
+11024,11,Guanajuato,24,Pueblo Nuevo,Valor,26.6,20.1,12.4
+11025,11,Guanajuato,25,Purísima del Rincón,Valor,36.9,13.9,9
+11026,11,Guanajuato,26,Romita,Valor,27.6,19.1,8.5
+11027,11,Guanajuato,27,Salamanca,Valor,24.1,17.2,10
+11028,11,Guanajuato,28,Salvatierra,Valor,27.3,21.4,12.6
+11029,11,Guanajuato,29,San Diego de la Unión,Valor,22.3,18.4,9.7
+11030,11,Guanajuato,30,San Felipe,Valor,27.9,17.9,8.4
+11031,11,Guanajuato,31,San Francisco del Rincón,Valor,31.6,14.5,9.9
+11032,11,Guanajuato,32,San José Iturbide,Valor,33.7,22.3,8.3
+11033,11,Guanajuato,33,San Luis de la Paz,Valor,25.8,17.6,9.3
+11034,11,Guanajuato,34,Santa Catarina,Valor,21.8,21.3,8.3
+11035,11,Guanajuato,35,Santa Cruz de Juventino Rosas,Valor,28.6,17.9,9.6
+11036,11,Guanajuato,36,Santiago Maravatío,Valor,23.1,23.7,11.7
+11037,11,Guanajuato,37,Silao de la Victoria,Valor,21.7,17.7,9.8
+11038,11,Guanajuato,38,Tarandacuao,Valor,27.5,21.3,11.3
+11039,11,Guanajuato,39,Tarimoro,Valor,27.8,20.9,12
+11040,11,Guanajuato,40,Tierra Blanca,Valor,23.4,17.2,8.4
+11041,11,Guanajuato,41,Uriangato,Valor,29.5,19.7,11.6
+11042,11,Guanajuato,42,Valle de Santiago,Valor,24.2,8.1,9.6
+11043,11,Guanajuato,43,Victoria,Valor,18.3,20.6,8.6
+11044,11,Guanajuato,44,Villagrán,Valor,31.8,17.8,9.7
+11045,11,Guanajuato,45,Xichú,Valor,14.5,20.2,9.4
+11046,11,Guanajuato,46,Yuriria,Valor,26.8,19.6,10.7
+12001,12,Guerrero,1,Acapulco de Juárez,Valor,40,18.7,12.2
+12002,12,Guerrero,2,Ahuacuotzingo,Valor,22.6,15.2,10.3
+12003,12,Guerrero,3,Ajuchitlán del Progreso,Valor,28.7,18.7,17.8
+12004,12,Guerrero,4,Alcozauca de Guerrero,Valor,15.8,16.2,8.7
+12005,12,Guerrero,5,Alpoyeca,Valor,26.4,19.3,10.2
+12006,12,Guerrero,6,Apaxtla,Valor,29.6,21.2,11.9
+12007,12,Guerrero,7,Arcelia,Valor,32.8,19.5,11.4
+12008,12,Guerrero,8,Atenango del Río,Valor,28.9,19.2,12.3
+12009,12,Guerrero,9,Atlamajalcingo del Monte,Valor,14.5,15.6,8.3
+12010,12,Guerrero,10,Atlixtac,Valor,18.1,13.5,8.8
+12011,12,Guerrero,11,Atoyac de Álvarez,Valor,34.2,20,11.2
+12012,12,Guerrero,12,Ayutla de los Libres,Valor,29.9,9.5,8.7
+12013,12,Guerrero,13,Azoyú,Valor,30,18.6,10.5
+12014,12,Guerrero,14,Benito Juárez,Valor,37.6,22.1,12.7
+12015,12,Guerrero,15,Buenavista de Cuéllar,Valor,33.6,23.1,11.4
+12016,12,Guerrero,16,Coahuayutla de José María Izazaga,Valor,34.6,17,11.2
+12017,12,Guerrero,17,Cocula,Valor,33.9,22.9,12.2
+12018,12,Guerrero,18,Copala,Valor,35.6,19.1,10.8
+12019,12,Guerrero,19,Copalillo,Valor,24.9,14.2,12
+12020,12,Guerrero,20,Copanatoyac,Valor,22.4,13.6,9.3
+12021,12,Guerrero,21,Coyuca de Benítez,Valor,40.1,20.9,11.2
+12022,12,Guerrero,22,Coyuca de Catalán,Valor,34.9,20.8,13.1
+12023,12,Guerrero,23,Cuajinicuilapa,Valor,37,19.4,10.1
+12024,12,Guerrero,24,Cualác,Valor,21.5,17.3,10.4
+12025,12,Guerrero,25,Cuautepec,Valor,31.9,16.3,9.5
+12026,12,Guerrero,26,Cuetzala del Progreso,Valor,26.1,22,13.8
+12027,12,Guerrero,27,Cutzamala de Pinzón,Valor,30.6,22,13.4
+12028,12,Guerrero,28,Chilapa de Álvarez,Valor,29.3,14.9,10.2
+12029,12,Guerrero,29,Chilpancingo de los Bravo,Valor,39.7,17.7,10.4
+12030,12,Guerrero,30,Florencio Villarreal,Valor,35.2,17.7,9.4
+12031,12,Guerrero,31,General Canuto A. Neri,Valor,22,22.9,10.5
+12032,12,Guerrero,32,General Heliodoro Castillo,Valor,32.1,12.3,7.6
+12033,12,Guerrero,33,Huamuxtitlán,Valor,26.6,19.3,11.8
+12034,12,Guerrero,34,Huitzuco de los Figueroa,Valor,32.1,23.3,14
+12035,12,Guerrero,35,Iguala de la Independencia,Valor,40,23.6,12
+12036,12,Guerrero,36,Igualapa,Valor,28.9,16.5,8.4
+12037,12,Guerrero,37,Ixcateopan de Cuauhtémoc,Valor,22.2,22.4,11.6
+12038,12,Guerrero,38,Zihuatanejo de Azueta,Valor,42.7,17.2,10.6
+12039,12,Guerrero,39,Juan R. Escudero,Valor,34.9,18.3,11.7
+12040,12,Guerrero,40,Leonardo Bravo,Valor,32.1,13.1,9.1
+12041,12,Guerrero,41,Malinaltepec,Valor,15.3,14.7,8
+12042,12,Guerrero,42,Mártir de Cuilapan,Valor,25.8,15.3,11
+12043,12,Guerrero,43,Metlatónoc,Valor,13.5,14.3,7.7
+12044,12,Guerrero,44,Mochitlán,Valor,33.3,17.5,12.5
+12045,12,Guerrero,45,Olinalá,Valor,27,15.5,9.2
+12046,12,Guerrero,46,Ometepec,Valor,34.5,18.2,8.7
+12047,12,Guerrero,47,Pedro Ascencio Alquisiras,Valor,21.1,18.2,10.2
+12048,12,Guerrero,48,Petatlán,Valor,38.6,17.4,10.4
+12049,12,Guerrero,49,Pilcaya,Valor,33.8,20.7,11.7
+12050,12,Guerrero,50,Pungarabato,Valor,36.4,17.8,11.5
+12051,12,Guerrero,51,Quechultenango,Valor,30.7,15.5,10
+12052,12,Guerrero,52,San Luis Acatlán,Valor,31.1,8.8,9.3
+12053,12,Guerrero,53,San Marcos,Valor,33,18,11.3
+12054,12,Guerrero,54,San Miguel Totolapan,Valor,27,15.6,9.3
+12055,12,Guerrero,55,Taxco de Alarcón,Valor,34.8,20.8,12.6
+12056,12,Guerrero,56,Tecoanapa,Valor,32,16,11.2
+12057,12,Guerrero,57,Técpan de Galeana,Valor,37.3,18.6,12.5
+12058,12,Guerrero,58,Teloloapan,Valor,29,20.3,11.5
+12059,12,Guerrero,59,Tepecoacuilco de Trujano,Valor,29,24.2,13
+12060,12,Guerrero,60,Tetipac,Valor,33.9,19.3,11.7
+12061,12,Guerrero,61,Tixtla de Guerrero,Valor,36.1,18.8,12.2
+12062,12,Guerrero,62,Tlacoachistlahuaca,Valor,20.7,13.2,9.1
+12063,12,Guerrero,63,Tlacoapa,Valor,11.8,15.2,7.9
+12064,12,Guerrero,64,Tlalchapa,Valor,34.3,15.4,12.3
+12065,12,Guerrero,65,Tlalixtaquilla de Maldonado,Valor,24.3,20,9.8
+12066,12,Guerrero,66,Tlapa de Comonfort,Valor,30.5,17,8.9
+12067,12,Guerrero,67,Tlapehuala,Valor,34.2,19,12.5
+12068,12,Guerrero,68,La Unión de Isidoro Montes de Oca,Valor,45.1,18.5,11
+12069,12,Guerrero,69,Xalpatláhuac,Valor,19,16.2,9.8
+12070,12,Guerrero,70,Xochihuehuetlán,Valor,22.8,21.2,12.8
+12071,12,Guerrero,71,Xochistlahuaca,Valor,32.4,12.6,11.9
+12072,12,Guerrero,72,Zapotitlán Tablas,Valor,18.5,13,8.4
+12073,12,Guerrero,73,Zirándaro,Valor,33.3,19.2,12.1
+12074,12,Guerrero,74,Zitlala,Valor,26.4,15,10.8
+12075,12,Guerrero,75,Eduardo Neri,Valor,37.5,14.8,11.4
+12076,12,Guerrero,76,Acatepec,Valor,19.1,12.5,6.9
+12077,12,Guerrero,77,Marquelia,Valor,37.9,17.4,10.1
+12078,12,Guerrero,78,Cochoapa el Grande,Valor,17.2,12.4,8.2
+12079,12,Guerrero,79,José Joaquín de Herrera,Valor,23.2,10.5,8
+12080,12,Guerrero,80,Juchitán,Valor,35.3,19.5,10.2
+12081,12,Guerrero,81,Iliatenco,Valor,19.3,16.7,8.6
+13001,13,Hidalgo,1,Acatlán,Valor,31.4,16.7,12.5
+13002,13,Hidalgo,2,Acaxochitlán,Valor,26.3,14.7,12.6
+13003,13,Hidalgo,3,Actopan,Valor,29.7,16.9,13.7
+13004,13,Hidalgo,4,Agua Blanca de Iturbide,Valor,26.6,18.1,12.1
+13005,13,Hidalgo,5,Ajacuba,Valor,33,20.5,13.7
+13006,13,Hidalgo,6,Alfajayucan,Valor,30.4,19.5,13.4
+13007,13,Hidalgo,7,Almoloya,Valor,32.9,16.7,12.6
+13008,13,Hidalgo,8,Apan,Valor,31.4,20.9,13.3
+13009,13,Hidalgo,9,El Arenal,Valor,29.8,17.8,11.3
+13010,13,Hidalgo,10,Atitalaquia,Valor,36.6,19,12.4
+13011,13,Hidalgo,11,Atlapexco,Valor,23.2,19.1,11.9
+13012,13,Hidalgo,12,Atotonilco el Grande,Valor,27.3,18.4,13
+13013,13,Hidalgo,13,Atotonilco de Tula,Valor,34.1,17.3,11.1
+13014,13,Hidalgo,14,Calnali,Valor,26.8,20.3,15.6
+13015,13,Hidalgo,15,Cardonal,Valor,27.9,18.8,14.4
+13016,13,Hidalgo,16,Cuautepec de Hinojosa,Valor,28.5,16,12.1
+13017,13,Hidalgo,17,Chapantongo,Valor,32.7,17.6,14.8
+13018,13,Hidalgo,18,Chapulhuacán,Valor,31.7,18.4,12.5
+13019,13,Hidalgo,19,Chilcuautla,Valor,28.7,19.6,11.2
+13020,13,Hidalgo,20,Eloxochitlán,Valor,22.3,22.7,14.3
+13021,13,Hidalgo,21,Emiliano Zapata,Valor,29.5,19.5,12.7
+13022,13,Hidalgo,22,Epazoyucan,Valor,31.3,18.9,12.3
+13023,13,Hidalgo,23,Francisco I. Madero,Valor,29.7,20.4,11.9
+13024,13,Hidalgo,24,Huasca de Ocampo,Valor,29.2,18.8,12.4
+13025,13,Hidalgo,25,Huautla,Valor,22.6,24.6,14.5
+13026,13,Hidalgo,26,Huazalingo,Valor,24.5,16.9,10.8
+13027,13,Hidalgo,27,Huehuetla,Valor,21.1,17.1,13.3
+13028,13,Hidalgo,28,Huejutla de Reyes,Valor,27.7,12.7,11
+13029,13,Hidalgo,29,Huichapan,Valor,27.9,18.4,13.4
+13030,13,Hidalgo,30,Ixmiquilpan,Valor,28.7,16.8,13.8
+13031,13,Hidalgo,31,Jacala de Ledezma,Valor,25.6,21.1,15.1
+13032,13,Hidalgo,32,Jaltocán,Valor,31.4,19.3,12.7
+13033,13,Hidalgo,33,Juárez Hidalgo,Valor,23.3,21.1,13.3
+13034,13,Hidalgo,34,Lolotla,Valor,27.3,19.7,11.9
+13035,13,Hidalgo,35,Metepec,Valor,28.3,16.9,12.8
+13036,13,Hidalgo,36,San Agustín Metzquititlán,Valor,26.9,20.8,13.8
+13037,13,Hidalgo,37,Metztitlán,Valor,25.4,20.8,14.7
+13038,13,Hidalgo,38,Mineral del Chico,Valor,29.7,18.4,11.7
+13039,13,Hidalgo,39,Mineral del Monte,Valor,28.8,18.1,12
+13040,13,Hidalgo,40,La Misión,Valor,25.9,19.5,13.4
+13041,13,Hidalgo,41,Mixquiahuala de Juárez,Valor,48.1,17.8,17.3
+13042,13,Hidalgo,42,Molango de Escamilla,Valor,30,20.3,12
+13043,13,Hidalgo,43,Nicolás Flores,Valor,13.8,20.8,12.7
+13044,13,Hidalgo,44,Nopala de Villagrán,Valor,31.2,21.4,12.9
+13045,13,Hidalgo,45,Omitlán de Juárez,Valor,27.5,16.7,10.3
+13046,13,Hidalgo,46,San Felipe Orizatlán,Valor,29.3,18.8,12.8
+13047,13,Hidalgo,47,Pacula,Valor,14.6,20.3,13.6
+13048,13,Hidalgo,48,Pachuca de Soto,Valor,32.4,18.8,14.9
+13049,13,Hidalgo,49,Pisaflores,Valor,27.9,18.2,10.9
+13050,13,Hidalgo,50,Progreso de Obregón,Valor,29,20.2,14.5
+13051,13,Hidalgo,51,Mineral de la Reforma,Valor,32.4,18.8,11.1
+13052,13,Hidalgo,52,San Agustín Tlaxiaca,Valor,33.8,17.3,12.1
+13053,13,Hidalgo,53,San Bartolo Tutotepec,Valor,24.3,14.7,13.5
+13054,13,Hidalgo,54,San Salvador,Valor,27.8,19.7,11.4
+13055,13,Hidalgo,55,Santiago de Anaya,Valor,28.6,20,11.9
+13056,13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,Valor,32.6,18.1,15.9
+13057,13,Hidalgo,57,Singuilucan,Valor,31.1,17.4,13
+13058,13,Hidalgo,58,Tasquillo,Valor,21.3,20.5,14.5
+13059,13,Hidalgo,59,Tecozautla,Valor,28.4,16.1,12.9
+13060,13,Hidalgo,60,Tenango de Doria,Valor,25.4,17.7,12.6
+13061,13,Hidalgo,61,Tepeapulco,Valor,33.7,20.1,14.3
+13062,13,Hidalgo,62,Tepehuacán de Guerrero,Valor,31.2,16.5,11.2
+13063,13,Hidalgo,63,Tepeji del Río de Ocampo,Valor,35.5,16,11.2
+13064,13,Hidalgo,64,Tepetitlán,Valor,29.7,21.3,13.6
+13065,13,Hidalgo,65,Tetepango,Valor,35.8,19.4,15.5
+13066,13,Hidalgo,66,Villa de Tezontepec,Valor,34.7,16.7,13.2
+13067,13,Hidalgo,67,Tezontepec de Aldama,Valor,32.9,17.7,11.8
+13068,13,Hidalgo,68,Tianguistengo,Valor,25.8,18,11.6
+13069,13,Hidalgo,69,Tizayuca,Valor,47.4,16.3,11
+13070,13,Hidalgo,70,Tlahuelilpan,Valor,30.4,19.2,12
+13071,13,Hidalgo,71,Tlahuiltepa,Valor,30.6,20.3,14.6
+13072,13,Hidalgo,72,Tlanalapa,Valor,32.9,19.4,12.4
+13073,13,Hidalgo,73,Tlanchinol,Valor,27.6,15.4,11.3
+13074,13,Hidalgo,74,Tlaxcoapan,Valor,34.6,18.2,13.1
+13075,13,Hidalgo,75,Tolcayuca,Valor,33.4,17.6,11.7
+13076,13,Hidalgo,76,Tula de Allende,Valor,39.7,19.7,14.8
+13077,13,Hidalgo,77,Tulancingo de Bravo,Valor,30,18.3,13.2
+13078,13,Hidalgo,78,Xochiatipan,Valor,23.4,15.6,11.9
+13079,13,Hidalgo,79,Xochicoatlán,Valor,29.4,21.9,13.8
+13080,13,Hidalgo,80,Yahualica,Valor,21.9,16.6,11.3
+13081,13,Hidalgo,81,Zacualtipán de Ángeles,Valor,29.5,15.7,12.6
+13082,13,Hidalgo,82,Zapotlán de Juárez,Valor,26.5,23,15.4
+13083,13,Hidalgo,83,Zempoala,Valor,32.8,18.8,11.6
+13084,13,Hidalgo,84,Zimapán,Valor,24.4,19.2,12.7
+14001,14,Jalisco,1,Acatic,Valor,32.3,15.6,7.5
+14002,14,Jalisco,2,Acatlán de Juárez,Valor,36.1,16.2,7.5
+14003,14,Jalisco,3,Ahualulco de Mercado,Valor,35.5,16.9,7.9
+14004,14,Jalisco,4,Amacueca,Valor,27.9,18.4,7.5
+14005,14,Jalisco,5,Amatitán,Valor,36.1,15.6,6.5
+14006,14,Jalisco,6,Ameca,Valor,31.4,15.9,8.3
+14007,14,Jalisco,7,San Juanito de Escobedo,Valor,35.7,18,7.9
+14008,14,Jalisco,8,Arandas,Valor,29.1,15.7,7.7
+14009,14,Jalisco,9,El Arenal,Valor,35.9,15.9,7
+14010,14,Jalisco,10,Atemajac de Brizuela,Valor,32.8,14.3,6.8
+14011,14,Jalisco,11,Atengo,Valor,34.4,18.6,8.1
+14012,14,Jalisco,12,Atenguillo,Valor,32,21.3,8.5
+14013,14,Jalisco,13,Atotonilco el Alto,Valor,33,17,8.2
+14014,14,Jalisco,14,Atoyac,Valor,25.8,18.1,8.7
+14015,14,Jalisco,15,Autlán de Navarro,Valor,36.9,17.1,9.2
+14016,14,Jalisco,16,Ayotlán,Valor,30.8,15.5,8.7
+14017,14,Jalisco,17,Ayutla,Valor,35.1,19,8.7
+14018,14,Jalisco,18,La Barca,Valor,31.9,16.9,9.9
+14019,14,Jalisco,19,Bolaños,Valor,30.6,11.7,5.5
+14020,14,Jalisco,20,Cabo Corrientes,Valor,43,16.3,8.1
+14021,14,Jalisco,21,Casimiro Castillo,Valor,35.3,14.7,9.1
+14022,14,Jalisco,22,Cihuatlán,Valor,36.9,12.5,7.8
+14023,14,Jalisco,23,Zapotlán el Grande,Valor,34.2,18,10.3
+14024,14,Jalisco,24,Cocula,Valor,31.7,18.6,8.7
+14025,14,Jalisco,25,Colotlán,Valor,31.2,19.8,8.4
+14026,14,Jalisco,26,Concepción de Buenos Aires,Valor,37.1,16.8,8.8
+14027,14,Jalisco,27,Cuautitlán de García Barragán,Valor,28.7,16.1,7.2
+14028,14,Jalisco,28,Cuautla,Valor,28,20.3,8.2
+14029,14,Jalisco,29,Cuquío,Valor,27.9,17.8,8.3
+14030,14,Jalisco,30,Chapala,Valor,32.3,14.8,8.4
+14031,14,Jalisco,31,Chimaltitán,Valor,30.3,17.1,6.5
+14032,14,Jalisco,32,Chiquilistlán,Valor,30.6,17.1,6.4
+14033,14,Jalisco,33,Degollado,Valor,29.3,16.6,8.8
+14034,14,Jalisco,34,Ejutla,Valor,36.6,21.1,9
+14035,14,Jalisco,35,Encarnación de Díaz,Valor,30.7,16.3,8.3
+14036,14,Jalisco,36,Etzatlán,Valor,32.3,17.5,7.4
+14037,14,Jalisco,37,El Grullo,Valor,34.3,13.2,8.6
+14038,14,Jalisco,38,Guachinango,Valor,35,19.8,8.4
+14039,14,Jalisco,39,Guadalajara,Valor,34.3,15.7,9.5
+14040,14,Jalisco,40,Hostotipaquillo,Valor,45.8,16.4,7.7
+14041,14,Jalisco,41,Huejúcar,Valor,24.5,22.2,8.4
+14042,14,Jalisco,42,Huejuquilla el Alto,Valor,27.7,18.7,7.7
+14043,14,Jalisco,43,La Huerta,Valor,36.8,17,8.3
+14044,14,Jalisco,44,Ixtlahuacán de los Membrillos,Valor,36.3,13.1,6.8
+14045,14,Jalisco,45,Ixtlahuacán del Río,Valor,30.7,17.2,8.6
+14046,14,Jalisco,46,Jalostotitlán,Valor,32.9,16.4,7.4
+14047,14,Jalisco,47,Jamay,Valor,35.6,14.9,7.6
+14048,14,Jalisco,48,Jesús María,Valor,27.1,18.4,9.5
+14049,14,Jalisco,49,Jilotlán de los Dolores,Valor,37.2,16.4,8.1
+14050,14,Jalisco,50,Jocotepec,Valor,36.3,14.2,7.3
+14051,14,Jalisco,51,Juanacatlán,Valor,38.2,15.3,6.6
+14052,14,Jalisco,52,Juchitlán,Valor,28.8,18.8,7.5
+14053,14,Jalisco,53,Lagos de Moreno,Valor,32.9,14.9,7.5
+14054,14,Jalisco,54,El Limón,Valor,33.5,22.8,9.4
+14055,14,Jalisco,55,Magdalena,Valor,35.2,16,7.4
+14056,14,Jalisco,56,Santa María del Oro,Valor,24.9,18.6,8.7
+14057,14,Jalisco,57,La Manzanilla de la Paz,Valor,30.1,18.8,8.1
+14058,14,Jalisco,58,Mascota,Valor,34.3,18.7,8.8
+14059,14,Jalisco,59,Mazamitla,Valor,31.2,15.5,8.4
+14060,14,Jalisco,60,Mexticacán,Valor,23.9,20.2,9.2
+14061,14,Jalisco,61,Mezquitic,Valor,24.5,14.5,6
+14062,14,Jalisco,62,Mixtlán,Valor,30.7,19.8,8.4
+14063,14,Jalisco,63,Ocotlán,Valor,35.1,16.4,7.9
+14064,14,Jalisco,64,Ojuelos de Jalisco,Valor,30.3,15.8,6.8
+14065,14,Jalisco,65,Pihuamo,Valor,33.7,19.3,10
+14066,14,Jalisco,66,Poncitlán,Valor,32.6,12.9,6.4
+14067,14,Jalisco,67,Puerto Vallarta,Valor,41.6,13.9,7.1
+14068,14,Jalisco,68,Villa Purificación,Valor,36.6,18.9,8.2
+14069,14,Jalisco,69,Quitupan,Valor,24.5,19.9,11.4
+14070,14,Jalisco,70,El Salto,Valor,37.3,10.9,6.1
+14071,14,Jalisco,71,San Cristóbal de la Barranca,Valor,32.6,17.9,8
+14072,14,Jalisco,72,San Diego de Alejandría,Valor,28.9,15.6,7.1
+14073,14,Jalisco,73,San Juan de los Lagos,Valor,34.8,14.6,7.5
+14074,14,Jalisco,74,San Julián,Valor,30.7,15.7,9.4
+14075,14,Jalisco,75,San Marcos,Valor,36.8,18.4,6.7
+14076,14,Jalisco,76,San Martín de Bolaños,Valor,38.3,18.4,7.2
+14077,14,Jalisco,77,San Martín Hidalgo,Valor,31,19.5,8.8
+14078,14,Jalisco,78,San Miguel el Alto,Valor,31.3,16.4,8.5
+14079,14,Jalisco,79,Gómez Farías,Valor,30.3,16.4,8.4
+14080,14,Jalisco,80,San Sebastián del Oeste,Valor,37.4,19.4,8.9
+14081,14,Jalisco,81,Santa María de los Ángeles,Valor,21.9,22.6,8.5
+14082,14,Jalisco,82,Sayula,Valor,32.2,16.1,8.1
+14083,14,Jalisco,83,Tala,Valor,30.3,11.7,8.5
+14084,14,Jalisco,84,Talpa de Allende,Valor,33.9,17.7,8.3
+14085,14,Jalisco,85,Tamazula de Gordiano,Valor,31.9,18.4,9.7
+14086,14,Jalisco,86,Tapalpa,Valor,30.5,14,7
+14087,14,Jalisco,87,Tecalitlán,Valor,31.1,18.7,9
+14088,14,Jalisco,88,Tecolotlán,Valor,35.9,18.1,8.8
+14089,14,Jalisco,89,Techaluta de Montenegro,Valor,30,18.7,7.8
+14090,14,Jalisco,90,Tenamaxtlán,Valor,31.7,18.8,8.3
+14091,14,Jalisco,91,Teocaltiche,Valor,26.3,17.3,8.2
+14092,14,Jalisco,92,Teocuitatlán de Corona,Valor,32.8,18.5,10.7
+14093,14,Jalisco,93,Tepatitlán de Morelos,Valor,35.3,14.8,7.8
+14094,14,Jalisco,94,Tequila,Valor,35.4,14.9,6.4
+14095,14,Jalisco,95,Teuchitlán,Valor,32.5,18.1,9.2
+14096,14,Jalisco,96,Tizapán el Alto,Valor,32.2,16.3,8.7
+14097,14,Jalisco,97,Tlajomulco de Zúñiga,Valor,37.7,6.6,6.2
+14098,14,Jalisco,98,San Pedro Tlaquepaque,Valor,40.9,12.8,6.6
+14099,14,Jalisco,99,Tolimán,Valor,30.5,18,8.4
+14100,14,Jalisco,100,Tomatlán,Valor,38.5,14.1,8
+14101,14,Jalisco,101,Tonalá,Valor,39.4,12.5,6
+14102,14,Jalisco,102,Tonaya,Valor,33.3,19.6,8.6
+14103,14,Jalisco,103,Tonila,Valor,34.3,17.2,8.5
+14104,14,Jalisco,104,Totatiche,Valor,27.9,23,8.5
+14105,14,Jalisco,105,Tototlán,Valor,34.2,16.5,8.8
+14106,14,Jalisco,106,Tuxcacuesco,Valor,35.3,18.9,8.2
+14107,14,Jalisco,107,Tuxcueca,Valor,30.9,17.8,7.1
+14108,14,Jalisco,108,Tuxpan,Valor,31.7,17.1,7.3
+14109,14,Jalisco,109,Unión de San Antonio,Valor,29.4,16.1,8.3
+14110,14,Jalisco,110,Unión de Tula,Valor,29.7,20,9.5
+14111,14,Jalisco,111,Valle de Guadalupe,Valor,34.8,17.7,7.3
+14112,14,Jalisco,112,Valle de Juárez,Valor,28.5,18.3,8.7
+14113,14,Jalisco,113,San Gabriel,Valor,31.9,17.8,8.2
+14114,14,Jalisco,114,Villa Corona,Valor,34.4,17.4,9.1
+14115,14,Jalisco,115,Villa Guerrero,Valor,29.9,19.9,7.3
+14116,14,Jalisco,116,Villa Hidalgo,Valor,29.8,15.4,8.7
+14117,14,Jalisco,117,Cañadas de Obregón,Valor,29.7,20.5,9.1
+14118,14,Jalisco,118,Yahualica de González Gallo,Valor,29.4,19.7,9.7
+14119,14,Jalisco,119,Zacoalco de Torres,Valor,33.7,16.9,8.2
+14120,14,Jalisco,120,Zapopan,Valor,34.2,13,6.5
+14121,14,Jalisco,121,Zapotiltic,Valor,34.1,17.2,8.5
+14122,14,Jalisco,122,Zapotitlán de Vadillo,Valor,29.6,17.9,7.4
+14123,14,Jalisco,123,Zapotlán del Rey,Valor,33.9,15.7,8.5
+14124,14,Jalisco,124,Zapotlanejo,Valor,36.6,13.1,7.8
+14125,14,Jalisco,125,San Ignacio Cerro Gordo,Valor,32,15.9,7.5
+15001,15,México,1,Acambay de Ruíz Castañeda,Valor,28.4,18.7,9
+15002,15,México,2,Acolman,Valor,38.1,17.4,8.3
+15003,15,México,3,Aculco,Valor,33.8,17.7,9.8
+15004,15,México,4,Almoloya de Alquisiras,Valor,28.2,19.1,9.2
+15005,15,México,5,Almoloya de Juárez,Valor,34.1,15.7,8.1
+15006,15,México,6,Almoloya del Río,Valor,33.5,18.4,11.7
+15007,15,México,7,Amanalco,Valor,29.4,17.6,8.8
+15008,15,México,8,Amatepec,Valor,32.2,23.1,10.2
+15009,15,México,9,Amecameca,Valor,35.2,18,11.6
+15010,15,México,10,Apaxco,Valor,34.8,19.3,9.2
+15011,15,México,11,Atenco,Valor,39.9,16.8,8.9
+15012,15,México,12,Atizapán,Valor,35.5,15.9,11.3
+15013,15,México,13,Atizapán de Zaragoza,Valor,31.4,15.3,8.6
+15014,15,México,14,Atlacomulco,Valor,30.4,18.5,9.3
+15015,15,México,15,Atlautla,Valor,33.3,16.8,10.6
+15016,15,México,16,Axapusco,Valor,36.1,18.9,10.4
+15017,15,México,17,Ayapango,Valor,36.1,17.2,8.9
+15018,15,México,18,Calimaya,Valor,35.5,18.2,8.8
+15019,15,México,19,Capulhuac,Valor,34.6,18.4,9.8
+15020,15,México,20,Coacalco de Berriozábal,Valor,40.5,18.6,10.7
+15021,15,México,21,Coatepec Harinas,Valor,30.3,16.7,9.3
+15022,15,México,22,Cocotitlán,Valor,35.6,17.4,9.6
+15023,15,México,23,Coyotepec,Valor,36.3,16.8,9.4
+15024,15,México,24,Cuautitlán,Valor,39.2,18.2,9.1
+15025,15,México,25,Chalco,Valor,36.2,15.3,8
+15026,15,México,26,Chapa de Mota,Valor,33.6,17.5,8.4
+15027,15,México,27,Chapultepec,Valor,35.9,17.6,8.1
+15028,15,México,28,Chiautla,Valor,37.1,17.9,10.9
+15029,15,México,29,Chicoloapan,Valor,34.6,10.7,8.1
+15030,15,México,30,Chiconcuac,Valor,36.4,16.2,10
+15031,15,México,31,Chimalhuacán,Valor,36.6,12.2,8.9
+15032,15,México,32,Donato Guerra,Valor,27.9,14.9,7.9
+15033,15,México,33,Ecatepec de Morelos,Valor,34.9,15.6,10.7
+15034,15,México,34,Ecatzingo,Valor,32.9,15.5,8.3
+15035,15,México,35,Huehuetoca,Valor,37.4,14.4,7.8
+15036,15,México,36,Hueypoxtla,Valor,37,17.8,10.4
+15037,15,México,37,Huixquilucan,Valor,33.9,17.7,8.4
+15038,15,México,38,Isidro Fabela,Valor,35.6,16.5,8.5
+15039,15,México,39,Ixtapaluca,Valor,35.4,14.9,8
+15040,15,México,40,Ixtapan de la Sal,Valor,32.6,18.1,9.7
+15041,15,México,41,Ixtapan del Oro,Valor,30.1,16.7,8.8
+15042,15,México,42,Ixtlahuaca,Valor,30,17.9,9.4
+15043,15,México,43,Xalatlaco,Valor,31.8,16.1,9.9
+15044,15,México,44,Jaltenco,Valor,34.6,18.3,9.1
+15045,15,México,45,Jilotepec,Valor,34.7,19.1,9.7
+15046,15,México,46,Jilotzingo,Valor,32.9,16.6,8.3
+15047,15,México,47,Jiquipilco,Valor,29.6,15.7,9.3
+15048,15,México,48,Jocotitlán,Valor,29.3,19.7,8.9
+15049,15,México,49,Joquicingo,Valor,29.5,17.1,10.5
+15050,15,México,50,Juchitepec,Valor,35.7,15.8,9.5
+15051,15,México,51,Lerma,Valor,36.2,17.4,8.9
+15052,15,México,52,Malinalco,Valor,30.8,18,9.4
+15053,15,México,53,Melchor Ocampo,Valor,35.3,15.6,8.6
+15054,15,México,54,Metepec,Valor,34.8,19.1,11.8
+15055,15,México,55,Mexicaltzingo,Valor,35.3,18.2,9.9
+15056,15,México,56,Morelos,Valor,26.1,18.5,10.6
+15057,15,México,57,Naucalpan de Juárez,Valor,35.5,13.8,9.8
+15058,15,México,58,Nezahualcóyotl,Valor,32,17.4,11.1
+15059,15,México,59,Nextlalpan,Valor,35.1,14.4,7.7
+15060,15,México,60,Nicolás Romero,Valor,34.9,16.6,8.4
+15061,15,México,61,Nopaltepec,Valor,37.2,19.6,8.9
+15062,15,México,62,Ocoyoacac,Valor,36.2,18.8,9.2
+15063,15,México,63,Ocuilan,Valor,32.2,15.3,9.5
+15064,15,México,64,El Oro,Valor,29.3,18.2,8.7
+15065,15,México,65,Otumba,Valor,38.9,18.8,10
+15066,15,México,66,Otzoloapan,Valor,31.8,20.3,8.3
+15067,15,México,67,Otzolotepec,Valor,34,16.4,8.3
+15068,15,México,68,Ozumba,Valor,31.6,17.7,9.6
+15069,15,México,69,Papalotla,Valor,34.2,19.9,8
+15070,15,México,70,La Paz,Valor,36.1,13.6,10.5
+15071,15,México,71,Polotitlán,Valor,33,19,9.4
+15072,15,México,72,Rayón,Valor,34.4,18.8,8.5
+15073,15,México,73,San Antonio la Isla,Valor,37.8,17.5,8.1
+15074,15,México,74,San Felipe del Progreso,Valor,24.1,16.4,8.1
+15075,15,México,75,San Martín de las Pirámides,Valor,37.6,18.7,9.5
+15076,15,México,76,San Mateo Atenco,Valor,36.1,17.7,8.8
+15077,15,México,77,San Simón de Guerrero,Valor,28.9,20.8,7.2
+15078,15,México,78,Santo Tomás,Valor,33.1,18.3,9.7
+15079,15,México,79,Soyaniquilpan de Juárez,Valor,35.2,19.2,9.7
+15080,15,México,80,Sultepec,Valor,26.6,19.8,9.4
+15081,15,México,81,Tecámac,Valor,36.4,16.4,8
+15082,15,México,82,Tejupilco,Valor,31.8,20,9.5
+15083,15,México,83,Temamatla,Valor,36.1,16.9,10.2
+15084,15,México,84,Temascalapa,Valor,36.6,18,8.7
+15085,15,México,85,Temascalcingo,Valor,27.6,19.4,9.6
+15086,15,México,86,Temascaltepec,Valor,30,17.4,8.6
+15087,15,México,87,Temoaya,Valor,30.9,13,9.3
+15088,15,México,88,Tenancingo,Valor,29.4,16.4,9.6
+15089,15,México,89,Tenango del Aire,Valor,36.2,17.8,9.8
+15090,15,México,90,Tenango del Valle,Valor,32.1,15.3,9.6
+15091,15,México,91,Teoloyucan,Valor,36.7,16.6,8.3
+15092,15,México,92,Teotihuacán,Valor,36.2,19.3,8.8
+15093,15,México,93,Tepetlaoxtoc,Valor,36.7,17.5,9.9
+15094,15,México,94,Tepetlixpa,Valor,36.7,17.8,12.6
+15095,15,México,95,Tepotzotlán,Valor,36.2,17.9,8.8
+15096,15,México,96,Tequixquiac,Valor,37.3,19.5,9
+15097,15,México,97,Texcaltitlán,Valor,29.6,17.4,8.1
+15098,15,México,98,Texcalyacac,Valor,32.7,18.4,8.1
+15099,15,México,99,Texcoco,Valor,40.1,18.6,13.8
+15100,15,México,100,Tezoyuca,Valor,37,29.5,8.5
+15101,15,México,101,Tianguistenco,Valor,30.8,15.4,9.4
+15102,15,México,102,Timilpan,Valor,29.1,21.5,9.2
+15103,15,México,103,Tlalmanalco,Valor,34,18.7,9.4
+15104,15,México,104,Tlalnepantla de Baz,Valor,35.2,15.7,10.2
+15105,15,México,105,Tlatlaya,Valor,31.7,23.4,10
+15106,15,México,106,Toluca,Valor,31.2,17.9,9.6
+15107,15,México,107,Tonatico,Valor,34,22,11.2
+15108,15,México,108,Tultepec,Valor,36.5,16,8.4
+15109,15,México,109,Tultitlán,Valor,39,18.9,9.2
+15110,15,México,110,Valle de Bravo,Valor,35.1,18.1,9.9
+15111,15,México,111,Villa de Allende,Valor,29.2,15.4,8.4
+15112,15,México,112,Villa del Carbón,Valor,34,16.3,8.4
+15113,15,México,113,Villa Guerrero,Valor,33.1,16,8.6
+15114,15,México,114,Villa Victoria,Valor,31.6,14.2,7.8
+15115,15,México,115,Xonacatlán,Valor,38.6,18.1,10.8
+15116,15,México,116,Zacazonapan,Valor,34.4,19.4,7.4
+15117,15,México,117,Zacualpan,Valor,27.9,18.2,10.1
+15118,15,México,118,Zinacantepec,Valor,34.6,17.2,8.3
+15119,15,México,119,Zumpahuacán,Valor,24.3,17.2,8.9
+15120,15,México,120,Zumpango,Valor,35.2,14.9,7.9
+15121,15,México,121,Cuautitlán Izcalli,Valor,36.6,20.7,8.7
+15122,15,México,122,Valle de Chalco Solidaridad,Valor,39.4,13.4,9.2
+15123,15,México,123,Luvianos,Valor,32.6,20.9,9.3
+15124,15,México,124,San José del Rincón,Valor,30.1,14.6,8.1
+15125,15,México,125,Tonanitla,Valor,35.7,16.2,8.3
+16001,16,Michoacán de Ocampo,1,Acuitzio,Valor,28.9,18.8,8.9
+16002,16,Michoacán de Ocampo,2,Aguililla,Valor,36.2,19.2,9.3
+16003,16,Michoacán de Ocampo,3,Álvaro Obregón,Valor,31.4,19.5,10.8
+16004,16,Michoacán de Ocampo,4,Angamacutiro,Valor,25,21.7,11.4
+16005,16,Michoacán de Ocampo,5,Angangueo,Valor,28.3,17.5,8.6
+16006,16,Michoacán de Ocampo,6,Apatzingán,Valor,37.7,16.7,10.5
+16007,16,Michoacán de Ocampo,7,Aporo,Valor,24.6,18,7.6
+16008,16,Michoacán de Ocampo,8,Aquila,Valor,28.4,16.6,8
+16009,16,Michoacán de Ocampo,9,Ario,Valor,31,19.2,9.3
+16010,16,Michoacán de Ocampo,10,Arteaga,Valor,35.1,20.8,9.7
+16011,16,Michoacán de Ocampo,11,Briseñas,Valor,28.4,18.8,9.7
+16012,16,Michoacán de Ocampo,12,Buenavista,Valor,41.5,15.9,9.9
+16013,16,Michoacán de Ocampo,13,Carácuaro,Valor,34.3,19.6,9.4
+16014,16,Michoacán de Ocampo,14,Coahuayana,Valor,38.9,18.5,9.9
+16015,16,Michoacán de Ocampo,15,Coalcomán de Vázquez Pallares,Valor,33.3,19.5,9.8
+16016,16,Michoacán de Ocampo,16,Coeneo,Valor,26.5,23.3,13.9
+16017,16,Michoacán de Ocampo,17,Contepec,Valor,31.2,19.4,10.3
+16018,16,Michoacán de Ocampo,18,Copándaro,Valor,28.9,20.7,11.6
+16019,16,Michoacán de Ocampo,19,Cotija,Valor,28.4,22.6,10.9
+16020,16,Michoacán de Ocampo,20,Cuitzeo,Valor,25.4,20.2,12.2
+16021,16,Michoacán de Ocampo,21,Charapan,Valor,23.5,17,10.6
+16022,16,Michoacán de Ocampo,22,Charo,Valor,51.7,19,18.3
+16023,16,Michoacán de Ocampo,23,Chavinda,Valor,30.1,20.3,11.2
+16024,16,Michoacán de Ocampo,24,Cherán,Valor,27.9,19.2,9
+16025,16,Michoacán de Ocampo,25,Chilchota,Valor,25.3,18.2,10.3
+16026,16,Michoacán de Ocampo,26,Chinicuila,Valor,36.2,19.5,9.1
+16027,16,Michoacán de Ocampo,27,Chucándiro,Valor,22,23.5,12.1
+16028,16,Michoacán de Ocampo,28,Churintzio,Valor,22.2,24.4,11.7
+16029,16,Michoacán de Ocampo,29,Churumuco,Valor,29.3,15.8,9
+16030,16,Michoacán de Ocampo,30,Ecuandureo,Valor,18.9,23.6,12.3
+16031,16,Michoacán de Ocampo,31,Epitacio Huerta,Valor,29.9,20.2,9.8
+16032,16,Michoacán de Ocampo,32,Erongarícuaro,Valor,28.6,20.9,10.3
+16033,16,Michoacán de Ocampo,33,Gabriel Zamora,Valor,37.2,17.3,11.2
+16034,16,Michoacán de Ocampo,34,Hidalgo,Valor,30.4,18.9,9.3
+16035,16,Michoacán de Ocampo,35,La Huacana,Valor,31.3,18.4,9.7
+16036,16,Michoacán de Ocampo,36,Huandacareo,Valor,27.3,22.1,13.1
+16037,16,Michoacán de Ocampo,37,Huaniqueo,Valor,25.7,23.8,13.6
+16038,16,Michoacán de Ocampo,38,Huetamo,Valor,30,19.3,11.7
+16039,16,Michoacán de Ocampo,39,Huiramba,Valor,29.8,17.8,8.9
+16040,16,Michoacán de Ocampo,40,Indaparapeo,Valor,29.1,18.7,8.9
+16041,16,Michoacán de Ocampo,41,Irimbo,Valor,27.7,18.2,8.5
+16042,16,Michoacán de Ocampo,42,Ixtlán,Valor,31.6,19.5,12.4
+16043,16,Michoacán de Ocampo,43,Jacona,Valor,31.5,16.9,10
+16044,16,Michoacán de Ocampo,44,Jiménez,Valor,31,23.3,13.9
+16045,16,Michoacán de Ocampo,45,Jiquilpan,Valor,28.6,22.7,11.6
+16046,16,Michoacán de Ocampo,46,Juárez,Valor,31.8,19.2,9.4
+16047,16,Michoacán de Ocampo,47,Jungapeo,Valor,34.1,16.8,9
+16048,16,Michoacán de Ocampo,48,Lagunillas,Valor,29.8,20.6,8.6
+16049,16,Michoacán de Ocampo,49,Madero,Valor,32.7,17.3,9.3
+16050,16,Michoacán de Ocampo,50,Maravatío,Valor,29.6,19.1,10
+16051,16,Michoacán de Ocampo,51,Marcos Castellanos,Valor,29.9,19.1,9.7
+16052,16,Michoacán de Ocampo,52,Lázaro Cárdenas,Valor,39.8,16.8,9.4
+16053,16,Michoacán de Ocampo,53,Morelia,Valor,29.6,20.2,8.5
+16054,16,Michoacán de Ocampo,54,Morelos,Valor,20.4,23.1,10.7
+16055,16,Michoacán de Ocampo,55,Múgica,Valor,38.7,18,11.7
+16056,16,Michoacán de Ocampo,56,Nahuatzen,Valor,26.4,17.8,8.9
+16057,16,Michoacán de Ocampo,57,Nocupétaro,Valor,32.2,19.3,8.7
+16058,16,Michoacán de Ocampo,58,Nuevo Parangaricutiro,Valor,34.6,17.3,9.5
+16059,16,Michoacán de Ocampo,59,Nuevo Urecho,Valor,38.9,19,9.7
+16060,16,Michoacán de Ocampo,60,Numarán,Valor,25.5,19.9,10.4
+16061,16,Michoacán de Ocampo,61,Ocampo,Valor,32,15.5,7.7
+16062,16,Michoacán de Ocampo,62,Pajacuarán,Valor,28.6,18.1,10.5
+16063,16,Michoacán de Ocampo,63,Panindícuaro,Valor,26.5,21.9,11.9
+16064,16,Michoacán de Ocampo,64,Parácuaro,Valor,38.4,15.9,9.6
+16065,16,Michoacán de Ocampo,65,Paracho,Valor,26.3,19.4,9.3
+16066,16,Michoacán de Ocampo,66,Pátzcuaro,Valor,27.6,18.3,9.7
+16067,16,Michoacán de Ocampo,67,Penjamillo,Valor,22.7,22.2,14
+16068,16,Michoacán de Ocampo,68,Peribán,Valor,36,15.9,9.2
+16069,16,Michoacán de Ocampo,69,La Piedad,Valor,30.4,17.9,10.5
+16070,16,Michoacán de Ocampo,70,Purépero,Valor,34.4,21.7,12.6
+16071,16,Michoacán de Ocampo,71,Puruándiro,Valor,27.6,19.9,10.9
+16072,16,Michoacán de Ocampo,72,Queréndaro,Valor,30.3,19.8,9.4
+16073,16,Michoacán de Ocampo,73,Quiroga,Valor,28.1,19,10.1
+16074,16,Michoacán de Ocampo,74,Cojumatlán de Régules,Valor,32.3,18.8,11.2
+16075,16,Michoacán de Ocampo,75,Los Reyes,Valor,32,18.5,10.2
+16076,16,Michoacán de Ocampo,76,Sahuayo,Valor,33.6,19,10.9
+16077,16,Michoacán de Ocampo,77,San Lucas,Valor,31.9,19.5,10.9
+16078,16,Michoacán de Ocampo,78,Santa Ana Maya,Valor,24.2,22.1,11
+16079,16,Michoacán de Ocampo,79,Salvador Escalante,Valor,28.1,15.7,9.3
+16080,16,Michoacán de Ocampo,80,Senguio,Valor,28.6,18.3,8.2
+16081,16,Michoacán de Ocampo,81,Susupuato,Valor,30.2,17.9,9.5
+16082,16,Michoacán de Ocampo,82,Tacámbaro,Valor,33.9,20.1,8.9
+16083,16,Michoacán de Ocampo,83,Tancítaro,Valor,33.9,15.8,8.5
+16084,16,Michoacán de Ocampo,84,Tangamandapio,Valor,26.3,16.3,9.2
+16085,16,Michoacán de Ocampo,85,Tangancícuaro,Valor,31,19.5,12
+16086,16,Michoacán de Ocampo,86,Tanhuato,Valor,31.1,20,12.1
+16087,16,Michoacán de Ocampo,87,Taretan,Valor,35.9,18.9,9
+16088,16,Michoacán de Ocampo,88,Tarímbaro,Valor,31.1,16.8,7.9
+16089,16,Michoacán de Ocampo,89,Tepalcatepec,Valor,38.5,17.6,10.4
+16090,16,Michoacán de Ocampo,90,Tingambato,Valor,31.2,17.7,9.4
+16091,16,Michoacán de Ocampo,91,Tingüindín,Valor,28.1,20.7,8.7
+16092,16,Michoacán de Ocampo,92,Tiquicheo de Nicolás Romero,Valor,30.9,19.1,9.9
+16093,16,Michoacán de Ocampo,93,Tlalpujahua,Valor,25.2,17.8,8.2
+16094,16,Michoacán de Ocampo,94,Tlazazalca,Valor,28.5,23,12.4
+16095,16,Michoacán de Ocampo,95,Tocumbo,Valor,32.8,20.7,11.7
+16096,16,Michoacán de Ocampo,96,Tumbiscatío,Valor,29.6,19,8.7
+16097,16,Michoacán de Ocampo,97,Turicato,Valor,29.1,20.8,9.6
+16098,16,Michoacán de Ocampo,98,Tuxpan,Valor,29,17.6,9.4
+16099,16,Michoacán de Ocampo,99,Tuzantla,Valor,30.9,20,10.1
+16100,16,Michoacán de Ocampo,100,Tzintzuntzan,Valor,28.7,20.3,10.8
+16101,16,Michoacán de Ocampo,101,Tzitzio,Valor,32.7,19.4,8.5
+16102,16,Michoacán de Ocampo,102,Uruapan,Valor,35.7,19.5,9.5
+16103,16,Michoacán de Ocampo,103,Venustiano Carranza,Valor,30.8,18.9,10.4
+16104,16,Michoacán de Ocampo,104,Villamar,Valor,29.2,25.1,12.6
+16105,16,Michoacán de Ocampo,105,Vista Hermosa,Valor,33.8,19,11.6
+16106,16,Michoacán de Ocampo,106,Yurécuaro,Valor,30.7,18.3,10.1
+16107,16,Michoacán de Ocampo,107,Zacapu,Valor,33.4,21.8,11.6
+16108,16,Michoacán de Ocampo,108,Zamora,Valor,34.3,19.4,12.5
+16109,16,Michoacán de Ocampo,109,Zináparo,Valor,19.5,24.1,11.2
+16110,16,Michoacán de Ocampo,110,Zinapécuaro,Valor,29.6,19.9,10.9
+16111,16,Michoacán de Ocampo,111,Ziracuaretiro,Valor,23.1,21.4,9.6
+16112,16,Michoacán de Ocampo,112,Zitácuaro,Valor,30.4,17.9,9.3
+16113,16,Michoacán de Ocampo,113,José Sixto Verduzco,Valor,26.1,22.2,12.1
+17001,17,Morelos,1,Amacuzac,Valor,30.3,18,12.3
+17002,17,Morelos,2,Atlatlahucan,Valor,35.6,16.3,10.9
+17003,17,Morelos,3,Axochiapan,Valor,37.3,12,13.3
+17004,17,Morelos,4,Ayala,Valor,34.4,17.2,11.8
+17005,17,Morelos,5,Coatlán del Río,Valor,31,19.5,12.5
+17006,17,Morelos,6,Cuautla,Valor,32.8,17,13.3
+17007,17,Morelos,7,Cuernavaca,Valor,33.3,20.2,13.9
+17008,17,Morelos,8,Emiliano Zapata,Valor,37.6,17.2,11.7
+17009,17,Morelos,9,Huitzilac,Valor,36.6,15.8,10.6
+17010,17,Morelos,10,Jantetelco,Valor,33.7,15.9,18
+17011,17,Morelos,11,Jiutepec,Valor,30.8,19.5,9.9
+17012,17,Morelos,12,Jojutla,Valor,33.1,17.4,13.9
+17013,17,Morelos,13,Jonacatepec de Leandro Valle,Valor,32,17.6,13.2
+17014,17,Morelos,14,Mazatepec,Valor,30,19.3,11
+17015,17,Morelos,15,Miacatlán,Valor,31.5,16.8,12.1
+17016,17,Morelos,16,Ocuituco,Valor,33.6,15.1,12.5
+17017,17,Morelos,17,Puente de Ixtla,Valor,35.2,16.7,11
+17018,17,Morelos,18,Temixco,Valor,34.9,16.6,12.1
+17019,17,Morelos,19,Tepalcingo,Valor,33.9,16.9,12.8
+17020,17,Morelos,20,Tepoztlán,Valor,33.9,18.6,10.6
+17021,17,Morelos,21,Tetecala,Valor,34.6,19.6,15.1
+17022,17,Morelos,22,Tetela del Volcán,Valor,32.3,15,7.6
+17023,17,Morelos,23,Tlalnepantla,Valor,35.8,15.2,9.7
+17024,17,Morelos,24,Tlaltizapán de Zapata,Valor,30.5,15.9,11.3
+17025,17,Morelos,25,Tlaquiltenango,Valor,33.3,16.8,12.6
+17026,17,Morelos,26,Tlayacapan,Valor,36.1,16.7,10.5
+17027,17,Morelos,27,Totolapan,Valor,37.4,15.1,10.8
+17028,17,Morelos,28,Xochitepec,Valor,52,16.8,11.2
+17029,17,Morelos,29,Yautepec,Valor,34,16.7,11.1
+17030,17,Morelos,30,Yecapixtla,Valor,35,15.3,10.2
+17031,17,Morelos,31,Zacatepec,Valor,35.9,20.1,16.5
+17032,17,Morelos,32,Zacualpan de Amilpas,Valor,27,17.7,10.7
+17033,17,Morelos,33,Temoac,Valor,30.1,16.7,12.1
+18001,18,Nayarit,1,Acaponeta,Valor,40.6,21.5,12
+18002,18,Nayarit,2,Ahuacatlán,Valor,41.4,23.9,12
+18003,18,Nayarit,3,Amatlán de Cañas,Valor,42.8,24.3,13.4
+18004,18,Nayarit,4,Compostela,Valor,40.1,21.7,10.6
+18005,18,Nayarit,5,Huajicori,Valor,38.1,16.3,8
+18006,18,Nayarit,6,Ixtlán del Río,Valor,36,22.5,11.4
+18007,18,Nayarit,7,Jala,Valor,34.1,20,9.3
+18008,18,Nayarit,8,Xalisco,Valor,39.9,20.9,8.2
+18009,18,Nayarit,9,Del Nayar,Valor,22.5,12.3,7.2
+18010,18,Nayarit,10,Rosamorada,Valor,50.7,20.8,12.8
+18011,18,Nayarit,11,Ruíz,Valor,41.6,19.7,10.9
+18012,18,Nayarit,12,San Blas,Valor,49.9,14.9,11.4
+18013,18,Nayarit,13,San Pedro Lagunillas,Valor,39.6,24.9,11.7
+18014,18,Nayarit,14,Santa María del Oro,Valor,32,21.7,10.8
+18015,18,Nayarit,15,Santiago Ixcuintla,Valor,42.7,23,12.4
+18016,18,Nayarit,16,Tecuala,Valor,41.6,23.4,13
+18017,18,Nayarit,17,Tepic,Valor,39.5,19.6,9.9
+18018,18,Nayarit,18,Tuxpan,Valor,36.4,22.6,12.9
+18019,18,Nayarit,19,La Yesca,Valor,36.6,16.7,9.4
+18020,18,Nayarit,20,Bahía de Banderas,Valor,43.1,16,9
+19001,19,Nuevo León,1,Abasolo,Valor,45.7,20.1,11.2
+19002,19,Nuevo León,2,Agualeguas,Valor,40.7,26.4,15.7
+19003,19,Nuevo León,3,Los Aldamas,Valor,45.1,28.7,16.2
+19004,19,Nuevo León,4,Allende,Valor,48.7,19.4,14.6
+19005,19,Nuevo León,5,Anáhuac,Valor,41,20.7,12.8
+19006,19,Nuevo León,6,Apodaca,Valor,45.4,17.5,10.6
+19007,19,Nuevo León,7,Aramberri,Valor,37.3,23.6,14
+19008,19,Nuevo León,8,Bustamante,Valor,40.7,22.6,12.3
+19009,19,Nuevo León,9,Cadereyta Jiménez,Valor,46.9,18.2,13.3
+19010,19,Nuevo León,10,El Carmen,Valor,43.6,13.5,8.9
+19011,19,Nuevo León,11,Cerralvo,Valor,45.3,21.2,14.8
+19012,19,Nuevo León,12,Ciénega de Flores,Valor,46,17.2,9.9
+19013,19,Nuevo León,13,China,Valor,44,20.8,13.4
+19014,19,Nuevo León,14,Doctor Arroyo,Valor,34.3,23.3,13.7
+19015,19,Nuevo León,15,Doctor Coss,Valor,43.9,27.3,14.7
+19016,19,Nuevo León,16,Doctor González,Valor,45.4,21.3,12.6
+19017,19,Nuevo León,17,Galeana,Valor,36.2,22.5,13.8
+19018,19,Nuevo León,18,García,Valor,48.3,13.9,8.9
+19019,19,Nuevo León,19,San Pedro Garza García,Valor,35.2,24.1,11
+19020,19,Nuevo León,20,General Bravo,Valor,45.9,21.9,13.2
+19021,19,Nuevo León,21,General Escobedo,Valor,42.7,18.1,9.8
+19022,19,Nuevo León,22,General Terán,Valor,41.6,23,16
+19023,19,Nuevo León,23,General Treviño,Valor,41.7,25.3,15.2
+19024,19,Nuevo León,24,General Zaragoza,Valor,42.7,21.7,12.2
+19025,19,Nuevo León,25,General Zuazua,Valor,44.3,13.8,9.2
+19026,19,Nuevo León,26,Guadalupe,Valor,44.3,20.6,14.3
+19027,19,Nuevo León,27,Los Herreras,Valor,37.6,27.6,16.1
+19028,19,Nuevo León,28,Higueras,Valor,42.6,19.3,12.5
+19029,19,Nuevo León,29,Hualahuises,Valor,37.9,22.5,13.1
+19030,19,Nuevo León,30,Iturbide,Valor,37,21.9,12.7
+19031,19,Nuevo León,31,Juárez,Valor,44.5,14.3,10.1
+19032,19,Nuevo León,32,Lampazos de Naranjo,Valor,43,20.8,13
+19033,19,Nuevo León,33,Linares,Valor,40.9,36.4,14.6
+19034,19,Nuevo León,34,Marín,Valor,45.7,16.1,11.8
+19035,19,Nuevo León,35,Melchor Ocampo,Valor,45,25.4,14.5
+19036,19,Nuevo León,36,Mier y Noriega,Valor,31.9,22,12.5
+19037,19,Nuevo León,37,Mina,Valor,44.5,18.7,11.5
+19038,19,Nuevo León,38,Montemorelos,Valor,41.3,20.9,14.2
+19039,19,Nuevo León,39,Monterrey,Valor,42.3,20.8,16.1
+19040,19,Nuevo León,40,Parás,Valor,39.8,26.3,14.5
+19041,19,Nuevo León,41,Pesquería,Valor,44.5,14.9,9.1
+19042,19,Nuevo León,42,Los Ramones,Valor,40.6,26.2,15.7
+19043,19,Nuevo León,43,Rayones,Valor,37.6,23.9,14.1
+19044,19,Nuevo León,44,Sabinas Hidalgo,Valor,38.9,22.6,12.8
+19045,19,Nuevo León,45,Salinas Victoria,Valor,45.4,19.2,11.2
+19046,19,Nuevo León,46,San Nicolás de los Garza,Valor,41.2,24,16
+19047,19,Nuevo León,47,Hidalgo,Valor,41.8,18.8,12.7
+19048,19,Nuevo León,48,Santa Catarina,Valor,36.9,20.1,11.6
+19049,19,Nuevo León,49,Santiago,Valor,41.8,20,12.8
+19050,19,Nuevo León,50,Vallecillo,Valor,48.3,24.8,15.1
+19051,19,Nuevo León,51,Villaldama,Valor,36.5,24.7,13.5
+20001,20,Oaxaca,1,Abejones,Valor,7.7,20.4,7.7
+20002,20,Oaxaca,2,Acatlán de Pérez Figueroa,Valor,34.4,16.7,11.3
+20003,20,Oaxaca,3,Asunción Cacalotepec,Valor,16.2,20.4,11
+20004,20,Oaxaca,4,Asunción Cuyotepeji,Valor,15.3,22.6,8.8
+20005,20,Oaxaca,5,Asunción Ixtaltepec,Valor,39.9,22.6,13.9
+20006,20,Oaxaca,6,Asunción Nochixtlán,Valor,31.7,17.7,11
+20007,20,Oaxaca,7,Asunción Ocotlán,Valor,16.7,22.3,12.6
+20008,20,Oaxaca,8,Asunción Tlacolulita,Valor,30.4,24.9,11.2
+20009,20,Oaxaca,9,Ayotzintepec,Valor,29.9,16.3,9.4
+20010,20,Oaxaca,10,El Barrio de la Soledad,Valor,36.7,21.9,11.2
+20011,20,Oaxaca,11,Calihualá,Valor,19.4,20.1,9.3
+20012,20,Oaxaca,12,Candelaria Loxicha,Valor,30.6,12.3,7.8
+20013,20,Oaxaca,13,Ciénega de Zimatlán,Valor,27.7,24.2,10.8
+20014,20,Oaxaca,14,Ciudad Ixtepec,Valor,38.2,19.4,11.9
+20015,20,Oaxaca,15,Coatecas Altas,Valor,15.8,15,10.4
+20016,20,Oaxaca,16,Coicoyán de las Flores,Valor,13.2,10,7
+20017,20,Oaxaca,17,La Compañía,Valor,16.7,17.4,10.4
+20018,20,Oaxaca,18,Concepción Buenavista,Valor,25.8,22.5,10.2
+20019,20,Oaxaca,19,Concepción Pápalo,Valor,25.8,17.7,11.2
+20020,20,Oaxaca,20,Constancia del Rosario,Valor,21.4,14,6.6
+20021,20,Oaxaca,21,Cosolapa,Valor,37.4,16.2,12.6
+20022,20,Oaxaca,22,Cosoltepec,Valor,18,29.6,13.7
+20023,20,Oaxaca,23,Cuilápam de Guerrero,Valor,37.4,18.3,9
+20024,20,Oaxaca,24,Cuyamecalco Villa de Zaragoza,Valor,22.9,16.9,10.8
+20025,20,Oaxaca,25,Chahuites,Valor,40.9,21,11.5
+20026,20,Oaxaca,26,Chalcatongo de Hidalgo,Valor,25,20.5,11.3
+20027,20,Oaxaca,27,Chiquihuitlán de Benito Juárez,Valor,11.3,19.7,12.3
+20028,20,Oaxaca,28,Heroica Ciudad de Ejutla de Crespo,Valor,29.5,17.9,12.1
+20029,20,Oaxaca,29,Eloxochitlán de Flores Magón,Valor,15.7,16.1,9.3
+20030,20,Oaxaca,30,El Espinal,Valor,40.7,20.9,11.5
+20031,20,Oaxaca,31,Tamazulápam del Espíritu Santo,Valor,21.4,18.1,10.5
+20032,20,Oaxaca,32,Fresnillo de Trujano,Valor,14.5,22,10.4
+20033,20,Oaxaca,33,Guadalupe Etla,Valor,32.8,19.5,9
+20034,20,Oaxaca,34,Guadalupe de Ramírez,Valor,23.1,22.7,10.2
+20035,20,Oaxaca,35,Guelatao de Juárez,Valor,36.4,21.8,7.8
+20036,20,Oaxaca,36,Guevea de Humboldt,Valor,26.1,14.4,9.1
+20037,20,Oaxaca,37,Mesones Hidalgo,Valor,14.5,17.3,8.6
+20038,20,Oaxaca,38,Villa Hidalgo,Valor,18.2,18.6,10.9
+20039,20,Oaxaca,39,Heroica Ciudad de Huajuapan de León,Valor,32.1,19,9.8
+20040,20,Oaxaca,40,Huautepec,Valor,14.3,11.4,9.1
+20041,20,Oaxaca,41,Huautla de Jiménez,Valor,20.7,15,11.5
+20042,20,Oaxaca,42,Ixtlán de Juárez,Valor,28.2,17.6,9.2
+20043,20,Oaxaca,43,Juchitán de Zaragoza,Valor,38,16.7,11.5
+20044,20,Oaxaca,44,Loma Bonita,Valor,33.6,19.1,12.6
+20045,20,Oaxaca,45,Magdalena Apasco,Valor,35.1,18.7,8.2
+20046,20,Oaxaca,46,Magdalena Jaltepec,Valor,17.1,23.2,11.3
+20047,20,Oaxaca,47,Santa Magdalena Jicotlán,Valor,17.1,25.1,11.6
+20048,20,Oaxaca,48,Magdalena Mixtepec,Valor,22,10.6,5.8
+20049,20,Oaxaca,49,Magdalena Ocotlán,Valor,25.7,17.4,8.8
+20050,20,Oaxaca,50,Magdalena Peñasco,Valor,14,17,9.3
+20051,20,Oaxaca,51,Magdalena Teitipac,Valor,28,12,9.9
+20052,20,Oaxaca,52,Magdalena Tequisistlán,Valor,33,20.8,10
+20053,20,Oaxaca,53,Magdalena Tlacotepec,Valor,33.5,22,11.5
+20054,20,Oaxaca,54,Magdalena Zahuatlán,Valor,20.6,24.2,10
+20055,20,Oaxaca,55,Mariscala de Juárez,Valor,25.6,20.5,9.8
+20056,20,Oaxaca,56,Mártires de Tacubaya,Valor,18.2,17.4,8.5
+20057,20,Oaxaca,57,Matías Romero Avendaño,Valor,20.1,22.9,26.7
+20058,20,Oaxaca,58,Mazatlán Villa de Flores,Valor,25.3,16.4,12.6
+20059,20,Oaxaca,59,Miahuatlán de Porfirio Díaz,Valor,36.4,15.7,10.8
+20060,20,Oaxaca,60,Mixistlán de la Reforma,Valor,23,16.7,9.8
+20061,20,Oaxaca,61,Monjas,Valor,24.6,17.9,9.4
+20062,20,Oaxaca,62,Natividad,Valor,17.7,22.5,9.9
+20063,20,Oaxaca,63,Nazareno Etla,Valor,35.3,19.7,8.6
+20064,20,Oaxaca,64,Nejapa de Madero,Valor,30.6,17.6,9.8
+20065,20,Oaxaca,65,Ixpantepec Nieves,Valor,15.7,24,13.2
+20066,20,Oaxaca,66,Santiago Niltepec,Valor,37.8,21.9,11.3
+20067,20,Oaxaca,67,Oaxaca de Juárez,Valor,36.2,18.6,12.4
+20068,20,Oaxaca,68,Ocotlán de Morelos,Valor,32.9,18,9.6
+20069,20,Oaxaca,69,La Pe,Valor,19.1,12.2,7.5
+20070,20,Oaxaca,70,Pinotepa de Don Luis,Valor,34.6,16.9,10.4
+20071,20,Oaxaca,71,Pluma Hidalgo,Valor,26.8,14.7,8.8
+20072,20,Oaxaca,72,San José del Progreso,Valor,28.8,12.9,8
+20073,20,Oaxaca,73,Putla Villa de Guerrero,Valor,26,17.1,10.9
+20074,20,Oaxaca,74,Santa Catarina Quioquitani,Valor,10.8,16.4,8.5
+20075,20,Oaxaca,75,Reforma de Pineda,Valor,35.9,23.8,11.6
+20076,20,Oaxaca,76,La Reforma,Valor,12.6,17.5,7.6
+20077,20,Oaxaca,77,Reyes Etla,Valor,34.8,17,8.7
+20078,20,Oaxaca,78,Rojas de Cuauhtémoc,Valor,36.1,23,10.4
+20079,20,Oaxaca,79,Salina Cruz,Valor,41,18.2,13.9
+20080,20,Oaxaca,80,San Agustín Amatengo,Valor,15,23.6,12.5
+20081,20,Oaxaca,81,San Agustín Atenango,Valor,16.7,24.3,12.1
+20082,20,Oaxaca,82,San Agustín Chayuco,Valor,19.9,15.6,8.6
+20083,20,Oaxaca,83,San Agustín de las Juntas,Valor,37.9,15.4,8
+20084,20,Oaxaca,84,San Agustín Etla,Valor,33,19.5,8.5
+20085,20,Oaxaca,85,San Agustín Loxicha,Valor,28.5,9.8,7.6
+20086,20,Oaxaca,86,San Agustín Tlacotepec,Valor,7.8,25.6,10.2
+20087,20,Oaxaca,87,San Agustín Yatareni,Valor,27.4,14.8,9
+20088,20,Oaxaca,88,San Andrés Cabecera Nueva,Valor,21,16.9,9
+20089,20,Oaxaca,89,San Andrés Dinicuiti,Valor,19.8,19,9.9
+20090,20,Oaxaca,90,San Andrés Huaxpaltepec,Valor,35,16.6,9.9
+20091,20,Oaxaca,91,San Andrés Huayápam,Valor,34.8,18.2,7.6
+20092,20,Oaxaca,92,San Andrés Ixtlahuaca,Valor,29.6,21.3,10.1
+20093,20,Oaxaca,93,San Andrés Lagunas,Valor,13.2,26.4,11.5
+20094,20,Oaxaca,94,San Andrés Nuxiño,Valor,23.1,19,9.3
+20095,20,Oaxaca,95,San Andrés Paxtlán,Valor,24,11.8,9.1
+20096,20,Oaxaca,96,San Andrés Sinaxtla,Valor,25.5,22.2,9.4
+20097,20,Oaxaca,97,San Andrés Solaga,Valor,23.2,23.8,11.2
+20098,20,Oaxaca,98,San Andrés Teotilálpam,Valor,19.2,15.7,9.2
+20099,20,Oaxaca,99,San Andrés Tepetlapa,Valor,8.5,18.8,9.2
+20100,20,Oaxaca,100,San Andrés Yaá,Valor,17.6,25.4,14
+20101,20,Oaxaca,101,San Andrés Zabache,Valor,10.1,22.1,10.2
+20102,20,Oaxaca,102,San Andrés Zautla,Valor,34.8,19.2,8.2
+20103,20,Oaxaca,103,San Antonino Castillo Velasco,Valor,32,16.5,9.8
+20104,20,Oaxaca,104,San Antonino el Alto,Valor,18.8,15.4,7.8
+20105,20,Oaxaca,105,San Antonino Monte Verde,Valor,15.5,15.4,8
+20106,20,Oaxaca,106,San Antonio Acutla,Valor,16.8,23.6,12.1
+20107,20,Oaxaca,107,San Antonio de la Cal,Valor,37.2,13,8.9
+20108,20,Oaxaca,108,San Antonio Huitepec,Valor,9.4,18.6,8.2
+20109,20,Oaxaca,109,San Antonio Nanahuatípam,Valor,32.7,19.9,8.5
+20110,20,Oaxaca,110,San Antonio Sinicahua,Valor,12.2,15.8,7.8
+20111,20,Oaxaca,111,San Antonio Tepetlapa,Valor,22.4,16.5,7.9
+20112,20,Oaxaca,112,San Baltazar Chichicápam,Valor,30.5,19.8,12.9
+20113,20,Oaxaca,113,San Baltazar Loxicha,Valor,32.5,13.8,8.7
+20114,20,Oaxaca,114,San Baltazar Yatzachi el Bajo,Valor,22.3,28,12.5
+20115,20,Oaxaca,115,San Bartolo Coyotepec,Valor,38.5,18.7,12
+20116,20,Oaxaca,116,San Bartolomé Ayautla,Valor,16.5,14,8.9
+20117,20,Oaxaca,117,San Bartolomé Loxicha,Valor,24.2,13.2,9.1
+20118,20,Oaxaca,118,San Bartolomé Quialana,Valor,11.2,19,10.7
+20119,20,Oaxaca,119,San Bartolomé Yucuañe,Valor,0,25.2,11.9
+20120,20,Oaxaca,120,San Bartolomé Zoogocho,Valor,17.6,29.5,12.6
+20121,20,Oaxaca,121,San Bartolo Soyaltepec,Valor,16.7,24.4,11.5
+20122,20,Oaxaca,122,San Bartolo Yautepec,Valor,23.9,22.9,10.9
+20123,20,Oaxaca,123,San Bernardo Mixtepec,Valor,22.1,18.5,8.8
+20124,20,Oaxaca,124,San Blas Atempa,Valor,41.1,15.2,16.5
+20125,20,Oaxaca,125,San Carlos Yautepec,Valor,26.9,16.6,8.8
+20126,20,Oaxaca,126,San Cristóbal Amatlán,Valor,14.3,13.7,8.3
+20127,20,Oaxaca,127,San Cristóbal Amoltepec,Valor,13.9,17,8.6
+20128,20,Oaxaca,128,San Cristóbal Lachirioag,Valor,18.3,23.6,12.7
+20129,20,Oaxaca,129,San Cristóbal Suchixtlahuaca,Valor,29.4,22.6,10.6
+20130,20,Oaxaca,130,San Dionisio del Mar,Valor,28.5,17.6,9.8
+20131,20,Oaxaca,131,San Dionisio Ocotepec,Valor,31.4,13.9,13.6
+20132,20,Oaxaca,132,San Dionisio Ocotlán,Valor,33.4,21,9.8
+20133,20,Oaxaca,133,San Esteban Atatlahuca,Valor,20.9,19.5,9.2
+20134,20,Oaxaca,134,San Felipe Jalapa de Díaz,Valor,31,9.9,9.2
+20135,20,Oaxaca,135,San Felipe Tejalápam,Valor,29.3,17,9.5
+20136,20,Oaxaca,136,San Felipe Usila,Valor,28.2,17.3,10.4
+20137,20,Oaxaca,137,San Francisco Cahuacuá,Valor,20.6,15.2,7.9
+20138,20,Oaxaca,138,San Francisco Cajonos,Valor,17.9,27.7,13.5
+20139,20,Oaxaca,139,San Francisco Chapulapa,Valor,18.2,13.3,8.4
+20140,20,Oaxaca,140,San Francisco Chindúa,Valor,13.4,25.3,23.3
+20141,20,Oaxaca,141,San Francisco del Mar,Valor,37,16.1,10.8
+20142,20,Oaxaca,142,San Francisco Huehuetlán,Valor,9.2,23.8,12.2
+20143,20,Oaxaca,143,San Francisco Ixhuatán,Valor,34.6,19.1,10.5
+20144,20,Oaxaca,144,San Francisco Jaltepetongo,Valor,26.6,23.9,12.1
+20145,20,Oaxaca,145,San Francisco Lachigoló,Valor,41,18.7,8.5
+20146,20,Oaxaca,146,San Francisco Logueche,Valor,18.6,11.3,6.9
+20147,20,Oaxaca,147,San Francisco Nuxaño,Valor,30.8,20.8,11.1
+20148,20,Oaxaca,148,San Francisco Ozolotepec,Valor,17.2,11.6,7.2
+20149,20,Oaxaca,149,San Francisco Sola,Valor,27.3,16.8,8
+20150,20,Oaxaca,150,San Francisco Telixtlahuaca,Valor,35.9,17.9,7.7
+20151,20,Oaxaca,151,San Francisco Teopan,Valor,34.6,22.4,11.2
+20152,20,Oaxaca,152,San Francisco Tlapancingo,Valor,12.1,16.9,7.4
+20153,20,Oaxaca,153,San Gabriel Mixtepec,Valor,30.9,13.3,7.6
+20154,20,Oaxaca,154,San Ildefonso Amatlán,Valor,21.4,15.9,9.1
+20155,20,Oaxaca,155,San Ildefonso Sola,Valor,29.2,15.4,7.6
+20156,20,Oaxaca,156,San Ildefonso Villa Alta,Valor,22.2,20.9,10.8
+20157,20,Oaxaca,157,San Jacinto Amilpas,Valor,34.8,18.2,7.6
+20158,20,Oaxaca,158,San Jacinto Tlacotepec,Valor,18.8,15,8.2
+20159,20,Oaxaca,159,San Jerónimo Coatlán,Valor,20.2,11.8,7.4
+20160,20,Oaxaca,160,San Jerónimo Silacayoapilla,Valor,23.9,20,10.5
+20161,20,Oaxaca,161,San Jerónimo Sosola,Valor,25.4,22.1,9.7
+20162,20,Oaxaca,162,San Jerónimo Taviche,Valor,18.1,10,7
+20163,20,Oaxaca,163,San Jerónimo Tecóatl,Valor,19.9,17.9,10
+20164,20,Oaxaca,164,San Jorge Nuchita,Valor,19.1,19.4,9.4
+20165,20,Oaxaca,165,San José Ayuquila,Valor,18,17.8,8.5
+20166,20,Oaxaca,166,San José Chiltepec,Valor,33.8,18.5,10.8
+20167,20,Oaxaca,167,San José del Peñasco,Valor,24.1,13.7,8.7
+20168,20,Oaxaca,168,San José Estancia Grande,Valor,21.7,18.6,8
+20169,20,Oaxaca,169,San José Independencia,Valor,20.5,15.4,9.2
+20170,20,Oaxaca,170,San José Lachiguiri,Valor,10.1,15.8,8.9
+20171,20,Oaxaca,171,San José Tenango,Valor,18.1,14.5,10
+20172,20,Oaxaca,172,San Juan Achiutla,Valor,17.1,27.4,14.1
+20173,20,Oaxaca,173,San Juan Atepec,Valor,15.5,23.1,11.1
+20174,20,Oaxaca,174,Ánimas Trujano,Valor,34.5,18.5,8.1
+20175,20,Oaxaca,175,San Juan Bautista Atatlahuca,Valor,21.2,19.3,9.4
+20176,20,Oaxaca,176,San Juan Bautista Coixtlahuaca,Valor,21.9,22.4,9.9
+20177,20,Oaxaca,177,San Juan Bautista Cuicatlán,Valor,32.8,18.1,11.2
+20178,20,Oaxaca,178,San Juan Bautista Guelache,Valor,32.1,18.3,9.1
+20179,20,Oaxaca,179,San Juan Bautista Jayacatlán,Valor,27.1,19.9,9.7
+20180,20,Oaxaca,180,San Juan Bautista Lo de Soto,Valor,29,20.3,9.2
+20181,20,Oaxaca,181,San Juan Bautista Suchitepec,Valor,15.3,26.8,12.2
+20182,20,Oaxaca,182,San Juan Bautista Tlacoatzintepec,Valor,22,17.5,9
+20183,20,Oaxaca,183,San Juan Bautista Tlachichilco,Valor,14.4,19.3,8.5
+20184,20,Oaxaca,184,San Juan Bautista Tuxtepec,Valor,36.5,18.7,11.3
+20185,20,Oaxaca,185,San Juan Cacahuatepec,Valor,25.5,17.1,8.8
+20186,20,Oaxaca,186,San Juan Cieneguilla,Valor,24.1,26.2,10.2
+20187,20,Oaxaca,187,San Juan Coatzóspam,Valor,23,16.1,10.9
+20188,20,Oaxaca,188,San Juan Colorado,Valor,25.9,15.9,9.8
+20189,20,Oaxaca,189,San Juan Comaltepec,Valor,20.1,13.3,7.5
+20190,20,Oaxaca,190,San Juan Cotzocón,Valor,28.7,16.8,11.5
+20191,20,Oaxaca,191,San Juan Chicomezúchil,Valor,34.9,22.6,10.9
+20192,20,Oaxaca,192,San Juan Chilateca,Valor,30.4,24.8,9.6
+20193,20,Oaxaca,193,San Juan del Estado,Valor,31.5,18.7,9.6
+20194,20,Oaxaca,194,San Juan del Río,Valor,14.1,23.3,13.2
+20195,20,Oaxaca,195,San Juan Diuxi,Valor,21.9,24.2,12.9
+20196,20,Oaxaca,196,San Juan Evangelista Analco,Valor,21.6,27.1,10.6
+20197,20,Oaxaca,197,San Juan Guelavía,Valor,33.2,18.6,11
+20198,20,Oaxaca,198,San Juan Guichicovi,Valor,23.8,18.5,12.6
+20199,20,Oaxaca,199,San Juan Ihualtepec,Valor,11.1,22.3,11.5
+20200,20,Oaxaca,200,San Juan Juquila Mixes,Valor,16.1,18.1,10.4
+20201,20,Oaxaca,201,San Juan Juquila Vijanos,Valor,17.7,13.5,8.3
+20202,20,Oaxaca,202,San Juan Lachao,Valor,20.5,11.6,7.8
+20203,20,Oaxaca,203,San Juan Lachigalla,Valor,23.7,10.7,7.7
+20204,20,Oaxaca,204,San Juan Lajarcia,Valor,12.5,21.1,11.2
+20205,20,Oaxaca,205,San Juan Lalana,Valor,23.8,16.1,12.7
+20206,20,Oaxaca,206,San Juan de los Cués,Valor,29.7,18.6,9.5
+20207,20,Oaxaca,207,San Juan Mazatlán,Valor,25.2,15.3,9.1
+20208,20,Oaxaca,208,San Juan Mixtepec,Valor,19,21.1,13.3
+20209,20,Oaxaca,209,San Juan Mixtepec,Valor,1.9,21.5,12
+20210,20,Oaxaca,210,San Juan Ñumí,Valor,13.7,17.4,9.8
+20211,20,Oaxaca,211,San Juan Ozolotepec,Valor,23.2,11.9,6.8
+20212,20,Oaxaca,212,San Juan Petlapa,Valor,19.4,13.4,8
+20213,20,Oaxaca,213,San Juan Quiahije,Valor,28.2,15.3,7
+20214,20,Oaxaca,214,San Juan Quiotepec,Valor,28.3,18.2,10.8
+20215,20,Oaxaca,215,San Juan Sayultepec,Valor,28.9,20.9,9.9
+20216,20,Oaxaca,216,San Juan Tabaá,Valor,15.7,18.9,8.8
+20217,20,Oaxaca,217,San Juan Tamazola,Valor,20.7,17.1,9
+20218,20,Oaxaca,218,San Juan Teita,Valor,17,19.7,11.5
+20219,20,Oaxaca,219,San Juan Teitipac,Valor,25.8,22.3,11.7
+20220,20,Oaxaca,220,San Juan Tepeuxila,Valor,28.2,17.1,10.2
+20221,20,Oaxaca,221,San Juan Teposcolula,Valor,28.6,23.3,10.8
+20222,20,Oaxaca,222,San Juan Yaeé,Valor,17.4,17.6,10.3
+20223,20,Oaxaca,223,San Juan Yatzona,Valor,12.4,17.4,9.5
+20224,20,Oaxaca,224,San Juan Yucuita,Valor,20.6,24.9,11.3
+20225,20,Oaxaca,225,San Lorenzo,Valor,21.3,13.8,8.8
+20226,20,Oaxaca,226,San Lorenzo Albarradas,Valor,36.9,17.7,10.6
+20227,20,Oaxaca,227,San Lorenzo Cacaotepec,Valor,36.5,18.4,8.6
+20228,20,Oaxaca,228,San Lorenzo Cuaunecuiltitla,Valor,24.4,16.6,8.6
+20229,20,Oaxaca,229,San Lorenzo Texmelúcan,Valor,16.3,9.7,7.8
+20230,20,Oaxaca,230,San Lorenzo Victoria,Valor,23.7,23.4,10.7
+20231,20,Oaxaca,231,San Lucas Camotlán,Valor,22.2,11.7,7.9
+20232,20,Oaxaca,232,San Lucas Ojitlán,Valor,31.6,12.2,10.4
+20233,20,Oaxaca,233,San Lucas Quiaviní,Valor,11.5,18,11.6
+20234,20,Oaxaca,234,San Lucas Zoquiápam,Valor,21.9,14.8,9.5
+20235,20,Oaxaca,235,San Luis Amatlán,Valor,16.2,17.5,10.2
+20236,20,Oaxaca,236,San Marcial Ozolotepec,Valor,19.9,13.1,8.2
+20237,20,Oaxaca,237,San Marcos Arteaga,Valor,18.4,21.9,10.2
+20238,20,Oaxaca,238,San Martín de los Cansecos,Valor,33.2,18.3,9.4
+20239,20,Oaxaca,239,San Martín Huamelúlpam,Valor,16.3,23.7,10.1
+20240,20,Oaxaca,240,San Martín Itunyoso,Valor,5.5,16.1,7.7
+20241,20,Oaxaca,241,San Martín Lachilá,Valor,16.8,21.6,9.9
+20242,20,Oaxaca,242,San Martín Peras,Valor,24.7,13.4,8.2
+20243,20,Oaxaca,243,San Martín Tilcajete,Valor,24.5,20.7,9.2
+20244,20,Oaxaca,244,San Martín Toxpalan,Valor,25.9,15.8,8
+20245,20,Oaxaca,245,San Martín Zacatepec,Valor,24.8,19.1,9.9
+20246,20,Oaxaca,246,San Mateo Cajonos,Valor,6.1,19.6,10.7
+20247,20,Oaxaca,247,Capulálpam de Méndez,Valor,22.4,21.1,7.7
+20248,20,Oaxaca,248,San Mateo del Mar,Valor,32.3,12.8,8.9
+20249,20,Oaxaca,249,San Mateo Yoloxochitlán,Valor,28.3,13.3,8.5
+20250,20,Oaxaca,250,San Mateo Etlatongo,Valor,31.1,18.8,9.2
+20251,20,Oaxaca,251,San Mateo Nejápam,Valor,18.3,15.6,8.6
+20252,20,Oaxaca,252,San Mateo Peñasco,Valor,13.1,17.8,9.8
+20253,20,Oaxaca,253,San Mateo Piñas,Valor,29.6,19.5,11.2
+20254,20,Oaxaca,254,San Mateo Río Hondo,Valor,20.4,15,9.6
+20255,20,Oaxaca,255,San Mateo Sindihui,Valor,14.3,16.9,9.7
+20256,20,Oaxaca,256,San Mateo Tlapiltepec,Valor,22.1,23.1,10.4
+20257,20,Oaxaca,257,San Melchor Betaza,Valor,17.4,19.8,11.5
+20258,20,Oaxaca,258,San Miguel Achiutla,Valor,13.6,25.5,11.3
+20259,20,Oaxaca,259,San Miguel Ahuehuetitlán,Valor,13.3,18.1,9.3
+20260,20,Oaxaca,260,San Miguel Aloápam,Valor,25,17.6,9.5
+20261,20,Oaxaca,261,San Miguel Amatitlán,Valor,17.4,15.6,7.7
+20262,20,Oaxaca,262,San Miguel Amatlán,Valor,25.2,19.8,9.7
+20263,20,Oaxaca,263,San Miguel Coatlán,Valor,24,12.4,8.1
+20264,20,Oaxaca,264,San Miguel Chicahua,Valor,5,19.3,9
+20265,20,Oaxaca,265,San Miguel Chimalapa,Valor,29.4,18.5,9.5
+20266,20,Oaxaca,266,San Miguel del Puerto,Valor,26.1,15,9.4
+20267,20,Oaxaca,267,San Miguel del Río,Valor,28.5,22.3,11.9
+20268,20,Oaxaca,268,San Miguel Ejutla,Valor,30.8,17.4,8.5
+20269,20,Oaxaca,269,San Miguel el Grande,Valor,22.6,25.2,8
+20270,20,Oaxaca,270,San Miguel Huautla,Valor,14.5,19.9,9.5
+20271,20,Oaxaca,271,San Miguel Mixtepec,Valor,22.2,13.5,7.8
+20272,20,Oaxaca,272,San Miguel Panixtlahuaca,Valor,24.8,14.5,7.3
+20273,20,Oaxaca,273,San Miguel Peras,Valor,19,12,7.6
+20274,20,Oaxaca,274,San Miguel Piedras,Valor,17.9,17,9.1
+20275,20,Oaxaca,275,San Miguel Quetzaltepec,Valor,27.2,15.4,11.2
+20276,20,Oaxaca,276,San Miguel Santa Flor,Valor,23,17.5,12.6
+20277,20,Oaxaca,277,Villa Sola de Vega,Valor,29.2,15.2,10.9
+20278,20,Oaxaca,278,San Miguel Soyaltepec,Valor,30,16.3,11.8
+20279,20,Oaxaca,279,San Miguel Suchixtepec,Valor,22.3,15.6,9.3
+20280,20,Oaxaca,280,Villa Talea de Castro,Valor,21.4,21.7,10.4
+20281,20,Oaxaca,281,San Miguel Tecomatlán,Valor,39.5,27.2,12.4
+20282,20,Oaxaca,282,San Miguel Tenango,Valor,34.8,16.6,9.8
+20283,20,Oaxaca,283,San Miguel Tequixtepec,Valor,30.1,17.4,10.1
+20284,20,Oaxaca,284,San Miguel Tilquiápam,Valor,19.1,14.7,9.8
+20285,20,Oaxaca,285,San Miguel Tlacamama,Valor,34.1,14.7,8
+20286,20,Oaxaca,286,San Miguel Tlacotepec,Valor,22.4,21.7,11
+20287,20,Oaxaca,287,San Miguel Tulancingo,Valor,0,29,12.9
+20288,20,Oaxaca,288,San Miguel Yotao,Valor,18.7,12.3,8.6
+20289,20,Oaxaca,289,San Nicolás,Valor,15,20.2,10.7
+20290,20,Oaxaca,290,San Nicolás Hidalgo,Valor,17.2,20.7,8.5
+20291,20,Oaxaca,291,San Pablo Coatlán,Valor,21.2,15.4,8.2
+20292,20,Oaxaca,292,San Pablo Cuatro Venados,Valor,21.5,14.6,7.1
+20293,20,Oaxaca,293,San Pablo Etla,Valor,35.6,18.5,7.2
+20294,20,Oaxaca,294,San Pablo Huitzo,Valor,32.8,21.6,9.7
+20295,20,Oaxaca,295,San Pablo Huixtepec,Valor,38.7,21.2,12.7
+20296,20,Oaxaca,296,San Pablo Macuiltianguis,Valor,22.9,23.4,11.3
+20297,20,Oaxaca,297,San Pablo Tijaltepec,Valor,10.1,13,7.3
+20298,20,Oaxaca,298,San Pablo Villa de Mitla,Valor,33.5,15.6,10.9
+20299,20,Oaxaca,299,San Pablo Yaganiza,Valor,12.7,16.7,9.8
+20300,20,Oaxaca,300,San Pedro Amuzgos,Valor,25.4,15.7,8.4
+20301,20,Oaxaca,301,San Pedro Apóstol,Valor,22.3,24,10.6
+20302,20,Oaxaca,302,San Pedro Atoyac,Valor,18,12.7,7.5
+20303,20,Oaxaca,303,San Pedro Cajonos,Valor,11.1,20.6,10.5
+20304,20,Oaxaca,304,San Pedro Coxcaltepec Cántaros,Valor,16.3,22.2,11.5
+20305,20,Oaxaca,305,San Pedro Comitancillo,Valor,34.3,23.4,8.6
+20306,20,Oaxaca,306,San Pedro el Alto,Valor,24.2,11.4,8.6
+20307,20,Oaxaca,307,San Pedro Huamelula,Valor,37.4,18,11.2
+20308,20,Oaxaca,308,San Pedro Huilotepec,Valor,40.7,13.8,9.1
+20309,20,Oaxaca,309,San Pedro Ixcatlán,Valor,24.6,13.3,10.5
+20310,20,Oaxaca,310,San Pedro Ixtlahuaca,Valor,36.6,14.3,8.7
+20311,20,Oaxaca,311,San Pedro Jaltepetongo,Valor,21.2,24.2,11.6
+20312,20,Oaxaca,312,San Pedro Jicayán,Valor,28.2,15.6,10.4
+20313,20,Oaxaca,313,San Pedro Jocotipac,Valor,11.6,22.9,12.5
+20314,20,Oaxaca,314,San Pedro Juchatengo,Valor,15.5,18.2,9.6
+20315,20,Oaxaca,315,San Pedro Mártir,Valor,18.5,18,10.4
+20316,20,Oaxaca,316,San Pedro Mártir Quiechapa,Valor,13.2,19.9,9.4
+20317,20,Oaxaca,317,San Pedro Mártir Yucuxaco,Valor,17.8,21.2,9.5
+20318,20,Oaxaca,318,San Pedro Mixtepec,Valor,37.1,13.9,9.4
+20319,20,Oaxaca,319,San Pedro Mixtepec,Valor,12.2,17.1,9.3
+20320,20,Oaxaca,320,San Pedro Molinos,Valor,12.1,23.3,10.5
+20321,20,Oaxaca,321,San Pedro Nopala,Valor,19.5,21.5,9.2
+20322,20,Oaxaca,322,San Pedro Ocopetatillo,Valor,13.4,18.9,10.6
+20323,20,Oaxaca,323,San Pedro Ocotepec,Valor,23.6,14.8,7.9
+20324,20,Oaxaca,324,San Pedro Pochutla,Valor,35.4,14.2,9.2
+20325,20,Oaxaca,325,San Pedro Quiatoni,Valor,34.2,12.8,10.5
+20326,20,Oaxaca,326,San Pedro Sochiápam,Valor,19.3,13.7,7.9
+20327,20,Oaxaca,327,San Pedro Tapanatepec,Valor,38.4,17.3,12.1
+20328,20,Oaxaca,328,San Pedro Taviche,Valor,19.7,10.3,7.9
+20329,20,Oaxaca,329,San Pedro Teozacoalco,Valor,18.2,19.4,9.5
+20330,20,Oaxaca,330,San Pedro Teutila,Valor,23.2,15.7,8.9
+20331,20,Oaxaca,331,San Pedro Tidaá,Valor,13.5,25.3,11.9
+20332,20,Oaxaca,332,San Pedro Topiltepec,Valor,20.7,26.2,12.3
+20333,20,Oaxaca,333,San Pedro Totolápam,Valor,28.8,19.4,10.5
+20334,20,Oaxaca,334,Villa de Tututepec,Valor,32.7,15.2,10.3
+20335,20,Oaxaca,335,San Pedro Yaneri,Valor,19.9,14.5,9
+20336,20,Oaxaca,336,San Pedro Yólox,Valor,23.3,16.6,10.7
+20337,20,Oaxaca,337,San Pedro y San Pablo Ayutla,Valor,16.9,18.6,11
+20338,20,Oaxaca,338,Villa de Etla,Valor,38.2,17.9,9.8
+20339,20,Oaxaca,339,San Pedro y San Pablo Teposcolula,Valor,27.7,21,8.7
+20340,20,Oaxaca,340,San Pedro y San Pablo Tequixtepec,Valor,13.9,27,12.1
+20341,20,Oaxaca,341,San Pedro Yucunama,Valor,25.8,24.5,9.6
+20342,20,Oaxaca,342,San Raymundo Jalpan,Valor,30.4,19.8,7.3
+20343,20,Oaxaca,343,San Sebastián Abasolo,Valor,32.2,17.9,10.5
+20344,20,Oaxaca,344,San Sebastián Coatlán,Valor,21.7,14.6,8.6
+20345,20,Oaxaca,345,San Sebastián Ixcapa,Valor,30.1,18.3,9.3
+20346,20,Oaxaca,346,San Sebastián Nicananduta,Valor,9.3,19.9,10.9
+20347,20,Oaxaca,347,San Sebastián Río Hondo,Valor,26.8,12.9,8.7
+20348,20,Oaxaca,348,San Sebastián Tecomaxtlahuaca,Valor,24.8,18.9,10.9
+20349,20,Oaxaca,349,San Sebastián Teitipac,Valor,23.5,21.2,9.9
+20350,20,Oaxaca,350,San Sebastián Tutla,Valor,32.5,18.6,7.7
+20351,20,Oaxaca,351,San Simón Almolongas,Valor,18.6,18.8,10.4
+20352,20,Oaxaca,352,San Simón Zahuatlán,Valor,30.7,11.2,6.3
+20353,20,Oaxaca,353,Santa Ana,Valor,22.8,16.4,8.2
+20354,20,Oaxaca,354,Santa Ana Ateixtlahuaca,Valor,12.8,19.7,10.4
+20355,20,Oaxaca,355,Santa Ana Cuauhtémoc,Valor,24.3,19.7,11.2
+20356,20,Oaxaca,356,Santa Ana del Valle,Valor,31.3,19.9,11.1
+20357,20,Oaxaca,357,Santa Ana Tavela,Valor,30.6,25.6,13.1
+20358,20,Oaxaca,358,Santa Ana Tlapacoyan,Valor,29.9,24.9,11.7
+20359,20,Oaxaca,359,Santa Ana Yareni,Valor,12.8,24.8,11.3
+20360,20,Oaxaca,360,Santa Ana Zegache,Valor,22.9,18.2,9.9
+20361,20,Oaxaca,361,Santa Catalina Quierí,Valor,7,16.6,10
+20362,20,Oaxaca,362,Santa Catarina Cuixtla,Valor,19.5,24,11.4
+20363,20,Oaxaca,363,Santa Catarina Ixtepeji,Valor,29.5,19.1,9.8
+20364,20,Oaxaca,364,Santa Catarina Juquila,Valor,31.4,14.1,9.6
+20365,20,Oaxaca,365,Santa Catarina Lachatao,Valor,26,18.8,11.2
+20366,20,Oaxaca,366,Santa Catarina Loxicha,Valor,28.1,13.2,8.1
+20367,20,Oaxaca,367,Santa Catarina Mechoacán,Valor,35.3,12.9,9.4
+20368,20,Oaxaca,368,Santa Catarina Minas,Valor,33.8,18.6,9.3
+20369,20,Oaxaca,369,Santa Catarina Quiané,Valor,29.5,20.8,10
+20370,20,Oaxaca,370,Santa Catarina Tayata,Valor,11.5,23,9.5
+20371,20,Oaxaca,371,Santa Catarina Ticuá,Valor,8.1,25.6,10.9
+20372,20,Oaxaca,372,Santa Catarina Yosonotú,Valor,12,23.3,11.3
+20373,20,Oaxaca,373,Santa Catarina Zapoquila,Valor,12.2,23.9,11.2
+20374,20,Oaxaca,374,Santa Cruz Acatepec,Valor,20.9,13.6,7.4
+20375,20,Oaxaca,375,Santa Cruz Amilpas,Valor,33.3,15.9,7.2
+20376,20,Oaxaca,376,Santa Cruz de Bravo,Valor,26.4,25.1,10.8
+20377,20,Oaxaca,377,Santa Cruz Itundujia,Valor,18.9,16.1,9.4
+20378,20,Oaxaca,378,Santa Cruz Mixtepec,Valor,23.9,18.1,8.6
+20379,20,Oaxaca,379,Santa Cruz Nundaco,Valor,12.7,17.6,7.9
+20380,20,Oaxaca,380,Santa Cruz Papalutla,Valor,34.5,17.7,10.1
+20381,20,Oaxaca,381,Santa Cruz Tacache de Mina,Valor,24,20.9,8.7
+20382,20,Oaxaca,382,Santa Cruz Tacahua,Valor,14.1,18.6,9.5
+20383,20,Oaxaca,383,Santa Cruz Tayata,Valor,26.2,19.4,9.1
+20384,20,Oaxaca,384,Santa Cruz Xitla,Valor,28.4,15.8,9.5
+20385,20,Oaxaca,385,Santa Cruz Xoxocotlán,Valor,42.1,16.4,8
+20386,20,Oaxaca,386,Santa Cruz Zenzontepec,Valor,18.7,11.7,7.3
+20387,20,Oaxaca,387,Santa Gertrudis,Valor,31,21.4,10.1
+20388,20,Oaxaca,388,Santa Inés del Monte,Valor,30.3,13.1,7.6
+20389,20,Oaxaca,389,Santa Inés Yatzeche,Valor,6.9,16.8,10.6
+20390,20,Oaxaca,390,Santa Lucía del Camino,Valor,38.4,15.8,8.8
+20391,20,Oaxaca,391,Santa Lucía Miahuatlán,Valor,26.7,9.6,8.4
+20392,20,Oaxaca,392,Santa Lucía Monteverde,Valor,15.4,16.5,9.2
+20393,20,Oaxaca,393,Santa Lucía Ocotlán,Valor,21,15.2,10.6
+20394,20,Oaxaca,394,Santa María Alotepec,Valor,20.6,21,9.9
+20395,20,Oaxaca,395,Santa María Apazco,Valor,9.8,25.4,11.4
+20396,20,Oaxaca,396,Santa María la Asunción,Valor,4.7,14.9,10.7
+20397,20,Oaxaca,397,Heroica Ciudad de Tlaxiaco,Valor,31,18.3,9.2
+20398,20,Oaxaca,398,Ayoquezco de Aldama,Valor,25,21,11.2
+20399,20,Oaxaca,399,Santa María Atzompa,Valor,39.5,16.4,7.6
+20400,20,Oaxaca,400,Santa María Camotlán,Valor,11.4,23.3,10.8
+20401,20,Oaxaca,401,Santa María Colotepec,Valor,37.9,12.3,8.7
+20402,20,Oaxaca,402,Santa María Cortijo,Valor,28.8,17.4,7.9
+20403,20,Oaxaca,403,Santa María Coyotepec,Valor,36.2,17.3,8
+20404,20,Oaxaca,404,Santa María Chachoápam,Valor,21.2,22.5,10.5
+20405,20,Oaxaca,405,Villa de Chilapa de Díaz,Valor,10.6,20.1,10.2
+20406,20,Oaxaca,406,Santa María Chilchotla,Valor,25,13.6,11.6
+20407,20,Oaxaca,407,Santa María Chimalapa,Valor,28.3,21.2,23.3
+20408,20,Oaxaca,408,Santa María del Rosario,Valor,30.8,21.4,9.6
+20409,20,Oaxaca,409,Santa María del Tule,Valor,34.2,19.5,8.9
+20410,20,Oaxaca,410,Santa María Ecatepec,Valor,25.4,19.6,8.7
+20411,20,Oaxaca,411,Santa María Guelacé,Valor,28.6,19.8,9.7
+20412,20,Oaxaca,412,Santa María Guienagati,Valor,29.7,14.2,8.9
+20413,20,Oaxaca,413,Santa María Huatulco,Valor,39.5,13.2,8.3
+20414,20,Oaxaca,414,Santa María Huazolotitlán,Valor,37.1,17.2,10.4
+20415,20,Oaxaca,415,Santa María Ipalapa,Valor,28.1,18,8
+20416,20,Oaxaca,416,Santa María Ixcatlán,Valor,16.4,23.2,12.5
+20417,20,Oaxaca,417,Santa María Jacatepec,Valor,22,19.3,11.9
+20418,20,Oaxaca,418,Santa María Jalapa del Marqués,Valor,34,18.8,10.3
+20419,20,Oaxaca,419,Santa María Jaltianguis,Valor,17.2,24.2,10.3
+20420,20,Oaxaca,420,Santa María Lachixío,Valor,13.1,13.5,7.3
+20421,20,Oaxaca,421,Santa María Mixtequilla,Valor,34.2,17.9,10
+20422,20,Oaxaca,422,Santa María Nativitas,Valor,14.4,22.8,10.6
+20423,20,Oaxaca,423,Santa María Nduayaco,Valor,19.9,25.8,13.3
+20424,20,Oaxaca,424,Santa María Ozolotepec,Valor,18.6,13,8.1
+20425,20,Oaxaca,425,Santa María Pápalo,Valor,23.5,14.5,9.9
+20426,20,Oaxaca,426,Santa María Peñoles,Valor,19,13.7,7.8
+20427,20,Oaxaca,427,Santa María Petapa,Valor,19,22.3,24.8
+20428,20,Oaxaca,428,Santa María Quiegolani,Valor,25.4,14.4,7.6
+20429,20,Oaxaca,429,Santa María Sola,Valor,23.7,20,9.7
+20430,20,Oaxaca,430,Santa María Tataltepec,Valor,17.8,25.8,13
+20431,20,Oaxaca,431,Santa María Tecomavaca,Valor,18.9,17.9,8.6
+20432,20,Oaxaca,432,Santa María Temaxcalapa,Valor,17.9,20.4,11.5
+20433,20,Oaxaca,433,Santa María Temaxcaltepec,Valor,14.1,11.5,7.6
+20434,20,Oaxaca,434,Santa María Teopoxco,Valor,11.5,16.1,8.7
+20435,20,Oaxaca,435,Santa María Tepantlali,Valor,20.6,14.2,9
+20436,20,Oaxaca,436,Santa María Texcatitlán,Valor,13.9,19.4,11
+20437,20,Oaxaca,437,Santa María Tlahuitoltepec,Valor,27.2,17.9,9.5
+20438,20,Oaxaca,438,Santa María Tlalixtac,Valor,21.9,13.2,9.1
+20439,20,Oaxaca,439,Santa María Tonameca,Valor,28.8,13.1,9
+20440,20,Oaxaca,440,Santa María Totolapilla,Valor,18.2,22.6,11.7
+20441,20,Oaxaca,441,Santa María Xadani,Valor,37.1,13.7,9.8
+20442,20,Oaxaca,442,Santa María Yalina,Valor,14.9,23.4,11.5
+20443,20,Oaxaca,443,Santa María Yavesía,Valor,12.3,24.2,10.6
+20444,20,Oaxaca,444,Santa María Yolotepec,Valor,20.6,21.3,9
+20445,20,Oaxaca,445,Santa María Yosoyúa,Valor,17.6,16,8
+20446,20,Oaxaca,446,Santa María Yucuhiti,Valor,19.5,17.4,10.8
+20447,20,Oaxaca,447,Santa María Zacatepec,Valor,21.3,14.7,10.3
+20448,20,Oaxaca,448,Santa María Zaniza,Valor,17.5,9.2,5.2
+20449,20,Oaxaca,449,Santa María Zoquitlán,Valor,19.7,18.7,11
+20450,20,Oaxaca,450,Santiago Amoltepec,Valor,16.9,9.5,6.7
+20451,20,Oaxaca,451,Santiago Apoala,Valor,11.1,23.9,12.9
+20452,20,Oaxaca,452,Santiago Apóstol,Valor,18.6,18.6,11
+20453,20,Oaxaca,453,Santiago Astata,Valor,31.1,16.9,8.9
+20454,20,Oaxaca,454,Santiago Atitlán,Valor,27.6,15.4,8.9
+20455,20,Oaxaca,455,Santiago Ayuquililla,Valor,19.7,15.3,8.6
+20456,20,Oaxaca,456,Santiago Cacaloxtepec,Valor,22.2,20.2,10.7
+20457,20,Oaxaca,457,Santiago Camotlán,Valor,23.6,14.6,8.8
+20458,20,Oaxaca,458,Santiago Comaltepec,Valor,18,24.1,11
+20459,20,Oaxaca,459,Villa de Santiago Chazumba,Valor,15.5,28,10.7
+20460,20,Oaxaca,460,Santiago Choápam,Valor,18.9,15.3,9
+20461,20,Oaxaca,461,Santiago del Río,Valor,17.7,28.2,13.6
+20462,20,Oaxaca,462,Santiago Huajolotitlán,Valor,16.4,20,9.5
+20463,20,Oaxaca,463,Santiago Huauclilla,Valor,20.1,27.5,12.5
+20464,20,Oaxaca,464,Santiago Ihuitlán Plumas,Valor,13.7,26.5,11.4
+20465,20,Oaxaca,465,Santiago Ixcuintepec,Valor,20.7,12.7,8.2
+20466,20,Oaxaca,466,Santiago Ixtayutla,Valor,18.5,10.1,7.5
+20467,20,Oaxaca,467,Santiago Jamiltepec,Valor,32.2,15.7,12
+20468,20,Oaxaca,468,Santiago Jocotepec,Valor,21.4,16.4,8.4
+20469,20,Oaxaca,469,Santiago Juxtlahuaca,Valor,23.7,15.9,9.9
+20470,20,Oaxaca,470,Santiago Lachiguiri,Valor,26.4,15.6,10.8
+20471,20,Oaxaca,471,Santiago Lalopa,Valor,26.9,18.9,8.3
+20472,20,Oaxaca,472,Santiago Laollaga,Valor,38,22.6,9.8
+20473,20,Oaxaca,473,Santiago Laxopa,Valor,14.2,19.9,9.4
+20474,20,Oaxaca,474,Santiago Llano Grande,Valor,25.2,18.9,9.5
+20475,20,Oaxaca,475,Santiago Matatlán,Valor,33.9,16.3,13
+20476,20,Oaxaca,476,Santiago Miltepec,Valor,17.4,21.7,10.2
+20477,20,Oaxaca,477,Santiago Minas,Valor,26.7,17.1,9.7
+20478,20,Oaxaca,478,Santiago Nacaltepec,Valor,18.3,26.3,12.1
+20479,20,Oaxaca,479,Santiago Nejapilla,Valor,40,26.9,14.4
+20480,20,Oaxaca,480,Santiago Nundiche,Valor,17.6,21.8,11
+20481,20,Oaxaca,481,Santiago Nuyoó,Valor,15.8,19.4,10.9
+20482,20,Oaxaca,482,Santiago Pinotepa Nacional,Valor,36,15.1,10.1
+20483,20,Oaxaca,483,Santiago Suchilquitongo,Valor,36.1,16.7,9
+20484,20,Oaxaca,484,Santiago Tamazola,Valor,19.5,18.9,8.7
+20485,20,Oaxaca,485,Santiago Tapextla,Valor,26.6,17.5,7.8
+20486,20,Oaxaca,486,Villa Tejúpam de la Unión,Valor,27.8,17.8,9.5
+20487,20,Oaxaca,487,Santiago Tenango,Valor,37.4,18.3,8.4
+20488,20,Oaxaca,488,Santiago Tepetlapa,Valor,31.4,25.2,13.5
+20489,20,Oaxaca,489,Santiago Tetepec,Valor,24.2,14.8,8.4
+20490,20,Oaxaca,490,Santiago Texcalcingo,Valor,18.3,13.6,8.1
+20491,20,Oaxaca,491,Santiago Textitlán,Valor,19.5,14.5,5.5
+20492,20,Oaxaca,492,Santiago Tilantongo,Valor,13.3,21.8,10.3
+20493,20,Oaxaca,493,Santiago Tillo,Valor,26.8,22.6,10.8
+20494,20,Oaxaca,494,Santiago Tlazoyaltepec,Valor,9.7,16.9,8.2
+20495,20,Oaxaca,495,Santiago Xanica,Valor,22.8,12.1,8
+20496,20,Oaxaca,496,Santiago Xiacuí,Valor,19.1,20.8,9
+20497,20,Oaxaca,497,Santiago Yaitepec,Valor,12.8,10,8.3
+20498,20,Oaxaca,498,Santiago Yaveo,Valor,32.6,15.7,9.7
+20499,20,Oaxaca,499,Santiago Yolomécatl,Valor,28.7,20.9,8.6
+20500,20,Oaxaca,500,Santiago Yosondúa,Valor,19.6,18.9,9.7
+20501,20,Oaxaca,501,Santiago Yucuyachi,Valor,16,26.2,11.6
+20502,20,Oaxaca,502,Santiago Zacatepec,Valor,30.8,16,9.8
+20503,20,Oaxaca,503,Santiago Zoochila,Valor,14.8,21.4,11.5
+20504,20,Oaxaca,504,Nuevo Zoquiápam,Valor,15.7,17.9,7.8
+20505,20,Oaxaca,505,Santo Domingo Ingenio,Valor,39,21.9,11.9
+20506,20,Oaxaca,506,Santo Domingo Albarradas,Valor,20,21.9,11
+20507,20,Oaxaca,507,Santo Domingo Armenta,Valor,27.5,18.4,8.5
+20508,20,Oaxaca,508,Santo Domingo Chihuitán,Valor,39.1,24.4,10.6
+20509,20,Oaxaca,509,Santo Domingo de Morelos,Valor,18.3,11.4,7.6
+20510,20,Oaxaca,510,Santo Domingo Ixcatlán,Valor,15.9,18.6,9.9
+20511,20,Oaxaca,511,Santo Domingo Nuxaá,Valor,22.6,17.6,7.5
+20512,20,Oaxaca,512,Santo Domingo Ozolotepec,Valor,14.7,16.2,8.2
+20513,20,Oaxaca,513,Santo Domingo Petapa,Valor,31.2,16.3,10.6
+20514,20,Oaxaca,514,Santo Domingo Roayaga,Valor,17.6,13.6,8.4
+20515,20,Oaxaca,515,Santo Domingo Tehuantepec,Valor,34.7,19.9,11.9
+20516,20,Oaxaca,516,Santo Domingo Teojomulco,Valor,23.6,15.4,8
+20517,20,Oaxaca,517,Santo Domingo Tepuxtepec,Valor,18,15.2,9.4
+20518,20,Oaxaca,518,Santo Domingo Tlatayápam,Valor,24.7,28.7,11.6
+20519,20,Oaxaca,519,Santo Domingo Tomaltepec,Valor,34.2,17.1,10
+20520,20,Oaxaca,520,Santo Domingo Tonalá,Valor,28.7,19.3,10.4
+20521,20,Oaxaca,521,Santo Domingo Tonaltepec,Valor,7.3,23.2,11.7
+20522,20,Oaxaca,522,Santo Domingo Xagacía,Valor,13.1,19,10
+20523,20,Oaxaca,523,Santo Domingo Yanhuitlán,Valor,25.1,21.4,10
+20524,20,Oaxaca,524,Santo Domingo Yodohino,Valor,17.6,25.6,13
+20525,20,Oaxaca,525,Santo Domingo Zanatepec,Valor,38.4,19.2,12.4
+20526,20,Oaxaca,526,Santos Reyes Nopala,Valor,29,14.2,8.8
+20527,20,Oaxaca,527,Santos Reyes Pápalo,Valor,19.8,12.3,7.7
+20528,20,Oaxaca,528,Santos Reyes Tepejillo,Valor,11.4,22.6,13
+20529,20,Oaxaca,529,Santos Reyes Yucuná,Valor,27.1,10.2,5.7
+20530,20,Oaxaca,530,Santo Tomás Jalieza,Valor,27.2,14.9,8.2
+20531,20,Oaxaca,531,Santo Tomás Mazaltepec,Valor,29.3,17.9,8.6
+20532,20,Oaxaca,532,Santo Tomás Ocotepec,Valor,11.9,18.9,9.1
+20533,20,Oaxaca,533,Santo Tomás Tamazulapan,Valor,30.8,16.9,8.9
+20534,20,Oaxaca,534,San Vicente Coatlán,Valor,12.3,13.9,8.4
+20535,20,Oaxaca,535,San Vicente Lachixío,Valor,13.1,13.1,7.3
+20536,20,Oaxaca,536,San Vicente Nuñú,Valor,22.6,23.9,12.4
+20537,20,Oaxaca,537,Silacayoápam,Valor,24.8,24.2,11.7
+20538,20,Oaxaca,538,Sitio de Xitlapehua,Valor,21,17.9,9.1
+20539,20,Oaxaca,539,Soledad Etla,Valor,38.7,17.1,8.6
+20540,20,Oaxaca,540,Villa de Tamazulápam del Progreso,Valor,29.9,18.1,8.9
+20541,20,Oaxaca,541,Tanetze de Zaragoza,Valor,25.9,21.3,11.2
+20542,20,Oaxaca,542,Taniche,Valor,29,19.7,11.2
+20543,20,Oaxaca,543,Tataltepec de Valdés,Valor,26,11.4,8.1
+20544,20,Oaxaca,544,Teococuilco de Marcos Pérez,Valor,16.8,23.4,11.3
+20545,20,Oaxaca,545,Teotitlán de Flores Magón,Valor,32.9,17.9,9.1
+20546,20,Oaxaca,546,Teotitlán del Valle,Valor,29.3,18.7,11.6
+20547,20,Oaxaca,547,Teotongo,Valor,18.4,25.7,10.3
+20548,20,Oaxaca,548,Tepelmeme Villa de Morelos,Valor,20.1,20.8,8.9
+20549,20,Oaxaca,549,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",Valor,18,21,12.3
+20550,20,Oaxaca,550,San Jerónimo Tlacochahuaya,Valor,31.7,18.2,10.2
+20551,20,Oaxaca,551,Tlacolula de Matamoros,Valor,36.1,15.6,12.3
+20552,20,Oaxaca,552,Tlacotepec Plumas,Valor,21.6,23.2,10
+20553,20,Oaxaca,553,Tlalixtac de Cabrera,Valor,37.7,16.3,9.9
+20554,20,Oaxaca,554,Totontepec Villa de Morelos,Valor,18.8,16.7,9.2
+20555,20,Oaxaca,555,Trinidad Zaachila,Valor,28.8,19.4,10
+20556,20,Oaxaca,556,La Trinidad Vista Hermosa,Valor,20.5,25.6,9.8
+20557,20,Oaxaca,557,Unión Hidalgo,Valor,40.7,19.1,13
+20558,20,Oaxaca,558,Valerio Trujano,Valor,27.2,20.6,9.8
+20559,20,Oaxaca,559,San Juan Bautista Valle Nacional,Valor,27.8,20.8,14.4
+20560,20,Oaxaca,560,Villa Díaz Ordaz,Valor,21.2,17.1,11.6
+20561,20,Oaxaca,561,Yaxe,Valor,22.4,13.8,8.2
+20562,20,Oaxaca,562,Magdalena Yodocono de Porfirio Díaz,Valor,24.8,17.1,8.8
+20563,20,Oaxaca,563,Yogana,Valor,16.9,19.6,12.2
+20564,20,Oaxaca,564,Yutanduchi de Guerrero,Valor,16.9,21.7,9.9
+20565,20,Oaxaca,565,Villa de Zaachila,Valor,34.4,14.9,8.3
+20566,20,Oaxaca,566,San Mateo Yucutindoo,Valor,20.4,15.3,8.5
+20567,20,Oaxaca,567,Zapotitlán Lagunas,Valor,15.6,18.9,9.8
+20568,20,Oaxaca,568,Zapotitlán Palmas,Valor,17.6,22.8,10.4
+20569,20,Oaxaca,569,Santa Inés de Zaragoza,Valor,19.1,26.3,10.4
+20570,20,Oaxaca,570,Zimatlán de Álvarez,Valor,30.7,18.6,11
+21001,21,Puebla,1,Acajete,Valor,32.9,13.6,9.2
+21002,21,Puebla,2,Acateno,Valor,39.1,16.7,10.9
+21003,21,Puebla,3,Acatlán,Valor,26.5,18.9,10.4
+21004,21,Puebla,4,Acatzingo,Valor,38,11.8,9.2
+21005,21,Puebla,5,Acteopan,Valor,19,13.8,9.6
+21006,21,Puebla,6,Ahuacatlán,Valor,23.5,15.8,8.4
+21007,21,Puebla,7,Ahuatlán,Valor,18.6,17.8,8.8
+21008,21,Puebla,8,Ahuazotepec,Valor,34.1,15.6,8.5
+21009,21,Puebla,9,Ahuehuetitla,Valor,18.5,21.3,9.4
+21010,21,Puebla,10,Ajalpan,Valor,27.8,11,8.8
+21011,21,Puebla,11,Albino Zertuche,Valor,11.8,17.9,8.6
+21012,21,Puebla,12,Aljojuca,Valor,29.1,17.5,9.5
+21013,21,Puebla,13,Altepexi,Valor,33.8,12.7,10.2
+21014,21,Puebla,14,Amixtlán,Valor,22.9,16.2,8.9
+21015,21,Puebla,15,Amozoc,Valor,35.9,12.4,7
+21016,21,Puebla,16,Aquixtla,Valor,29.3,17.1,9.3
+21017,21,Puebla,17,Atempan,Valor,27.5,13.3,7.2
+21018,21,Puebla,18,Atexcal,Valor,18.3,20.7,8.6
+21019,21,Puebla,19,Atlixco,Valor,32.2,20.6,11.8
+21020,21,Puebla,20,Atoyatempan,Valor,33.5,14.1,8.7
+21021,21,Puebla,21,Atzala,Valor,24,17.8,7.8
+21022,21,Puebla,22,Atzitzihuacán,Valor,21.9,15.6,9.6
+21023,21,Puebla,23,Atzitzintla,Valor,28,12.7,9.4
+21024,21,Puebla,24,Axutla,Valor,14.6,24.1,10.9
+21025,21,Puebla,25,Ayotoxco de Guerrero,Valor,35.8,14.8,10.2
+21026,21,Puebla,26,Calpan,Valor,29.3,17.6,12.5
+21027,21,Puebla,27,Caltepec,Valor,12.4,20.9,9.6
+21028,21,Puebla,28,Camocuautla,Valor,26,13.3,7.8
+21029,21,Puebla,29,Caxhuacan,Valor,23.5,16.5,8.9
+21030,21,Puebla,30,Coatepec,Valor,16.8,22.7,8.6
+21031,21,Puebla,31,Coatzingo,Valor,29.5,18.2,9.6
+21032,21,Puebla,32,Cohetzala,Valor,23,21.3,9.7
+21033,21,Puebla,33,Cohuecan,Valor,27.2,14.2,8.1
+21034,21,Puebla,34,Coronango,Valor,36.3,13.4,8.8
+21035,21,Puebla,35,Coxcatlán,Valor,29.8,16.5,8.5
+21036,21,Puebla,36,Coyomeapan,Valor,17.8,12.6,8.3
+21037,21,Puebla,37,Coyotepec,Valor,24.8,26.6,10.4
+21038,21,Puebla,38,Cuapiaxtla de Madero,Valor,38.1,11.6,8.5
+21039,21,Puebla,39,Cuautempan,Valor,26.7,15.7,9
+21040,21,Puebla,40,Cuautinchán,Valor,34.1,12.8,7.4
+21041,21,Puebla,41,Cuautlancingo,Valor,37.7,15.1,7.1
+21042,21,Puebla,42,Cuayuca de Andrade,Valor,17.9,20.9,9.4
+21043,21,Puebla,43,Cuetzalan del Progreso,Valor,32.3,13.9,8.9
+21044,21,Puebla,44,Cuyoaco,Valor,30.6,15.5,9.1
+21045,21,Puebla,45,Chalchicomula de Sesma,Valor,33,15.7,11.1
+21046,21,Puebla,46,Chapulco,Valor,27.7,12.9,7.2
+21047,21,Puebla,47,Chiautla,Valor,30.5,18.1,10.2
+21048,21,Puebla,48,Chiautzingo,Valor,29.9,16,9.6
+21049,21,Puebla,49,Chiconcuautla,Valor,24,11.4,7
+21050,21,Puebla,50,Chichiquila,Valor,26.6,12.5,7.8
+21051,21,Puebla,51,Chietla,Valor,31.3,18.5,10.5
+21052,21,Puebla,52,Chigmecatitlán,Valor,19.9,21.4,10.8
+21053,21,Puebla,53,Chignahuapan,Valor,33.9,6.3,2.1
+21054,21,Puebla,54,Chignautla,Valor,34.1,12.2,7.6
+21055,21,Puebla,55,Chila,Valor,15.9,18.7,8.4
+21056,21,Puebla,56,Chila de la Sal,Valor,18.8,20.2,10.7
+21057,21,Puebla,57,Honey,Valor,25,14.7,9.5
+21058,21,Puebla,58,Chilchotla,Valor,35.8,12.5,11.6
+21059,21,Puebla,59,Chinantla,Valor,24.8,20.6,8.7
+21060,21,Puebla,60,Domingo Arenas,Valor,24.8,14.6,8
+21061,21,Puebla,61,Eloxochitlán,Valor,20.7,11.1,7.5
+21062,21,Puebla,62,Epatlán,Valor,27.7,17.9,8.5
+21063,21,Puebla,63,Esperanza,Valor,32.5,14.8,9.8
+21064,21,Puebla,64,Francisco Z. Mena,Valor,30,17.3,9.2
+21065,21,Puebla,65,General Felipe Ángeles,Valor,31.2,13,10
+21066,21,Puebla,66,Guadalupe,Valor,20.9,19.8,10.2
+21067,21,Puebla,67,Guadalupe Victoria,Valor,32.7,14.8,9.4
+21068,21,Puebla,68,Hermenegildo Galeana,Valor,24.8,14.5,9.7
+21069,21,Puebla,69,Huaquechula,Valor,26.7,16.3,11.5
+21070,21,Puebla,70,Huatlatlauca,Valor,16.3,16.9,11.9
+21071,21,Puebla,71,Huauchinango,Valor,30.6,15.4,9.3
+21072,21,Puebla,72,Huehuetla,Valor,26.5,12.9,9.6
+21073,21,Puebla,73,Huehuetlán el Chico,Valor,29.3,18.2,10.2
+21074,21,Puebla,74,Huejotzingo,Valor,35.6,15.7,8.8
+21075,21,Puebla,75,Hueyapan,Valor,32.7,12.4,7.2
+21076,21,Puebla,76,Hueytamalco,Valor,33,15.2,9.1
+21077,21,Puebla,77,Hueytlalpan,Valor,22.8,15.2,8.9
+21078,21,Puebla,78,Huitzilan de Serdán,Valor,33.5,11.2,8.3
+21079,21,Puebla,79,Huitziltepec,Valor,33.7,15.9,8.6
+21080,21,Puebla,80,Atlequizayan,Valor,19.5,18.2,9.4
+21081,21,Puebla,81,Ixcamilpa de Guerrero,Valor,16.7,18.2,9.4
+21082,21,Puebla,82,Ixcaquixtla,Valor,30.6,17.6,7.5
+21083,21,Puebla,83,Ixtacamaxtitlán,Valor,28,16.7,9.5
+21084,21,Puebla,84,Ixtepec,Valor,27.6,14,9.6
+21085,21,Puebla,85,Izúcar de Matamoros,Valor,30.9,16.8,10.6
+21086,21,Puebla,86,Jalpan,Valor,30.8,15.3,10.3
+21087,21,Puebla,87,Jolalpan,Valor,25.9,15.8,10.1
+21088,21,Puebla,88,Jonotla,Valor,28.5,16.8,9.4
+21089,21,Puebla,89,Jopala,Valor,29.4,15.2,9
+21090,21,Puebla,90,Juan C. Bonilla,Valor,30.6,14.6,8.5
+21091,21,Puebla,91,Juan Galindo,Valor,30.4,17.6,9.4
+21092,21,Puebla,92,Juan N. Méndez,Valor,22,16.9,8.2
+21093,21,Puebla,93,Lafragua,Valor,30.1,16.7,11
+21094,21,Puebla,94,Libres,Valor,32.9,14.5,8.2
+21095,21,Puebla,95,La Magdalena Tlatlauquitepec,Valor,27.6,17.3,7.7
+21096,21,Puebla,96,Mazapiltepec de Juárez,Valor,31.5,14,7.9
+21097,21,Puebla,97,Mixtla,Valor,26.8,17.6,7.3
+21098,21,Puebla,98,Molcaxac,Valor,24.8,17.5,9.3
+21099,21,Puebla,99,Cañada Morelos,Valor,30.3,14.4,9.6
+21100,21,Puebla,100,Naupan,Valor,19.9,12.9,10.7
+21101,21,Puebla,101,Nauzontla,Valor,22.5,17.7,9.3
+21102,21,Puebla,102,Nealtican,Valor,30.9,14.2,8.4
+21103,21,Puebla,103,Nicolás Bravo,Valor,28.3,14.1,8.7
+21104,21,Puebla,104,Nopalucan,Valor,33.9,12.1,8
+21105,21,Puebla,105,Ocotepec,Valor,28.9,17.9,8.7
+21106,21,Puebla,106,Ocoyucan,Valor,26,13.8,7.9
+21107,21,Puebla,107,Olintla,Valor,26.1,14.8,10
+21108,21,Puebla,108,Oriental,Valor,34.1,13.8,9.1
+21109,21,Puebla,109,Pahuatlán,Valor,26.2,14.8,8.9
+21110,21,Puebla,110,Palmar de Bravo,Valor,33.2,12.6,8.7
+21111,21,Puebla,111,Pantepec,Valor,24.1,17,12.1
+21112,21,Puebla,112,Petlalcingo,Valor,20.3,18.1,9.8
+21113,21,Puebla,113,Piaxtla,Valor,22.4,22.6,10.9
+21114,21,Puebla,114,Puebla,Valor,36.7,16.6,8.7
+21115,21,Puebla,115,Quecholac,Valor,32.8,12.5,8.7
+21116,21,Puebla,116,Quimixtlán,Valor,31.3,13.7,9
+21117,21,Puebla,117,Rafael Lara Grajales,Valor,36.6,14.6,10.4
+21118,21,Puebla,118,Los Reyes de Juárez,Valor,32.3,11.9,8
+21119,21,Puebla,119,San Andrés Cholula,Valor,41.2,16,7.7
+21120,21,Puebla,120,San Antonio Cañada,Valor,18.4,11.3,7.5
+21121,21,Puebla,121,San Diego la Mesa Tochimiltzingo,Valor,22.8,15.1,8.7
+21122,21,Puebla,122,San Felipe Teotlalcingo,Valor,34.2,16.2,11.4
+21123,21,Puebla,123,San Felipe Tepatlán,Valor,29.3,15.4,9
+21124,21,Puebla,124,San Gabriel Chilac,Valor,32.2,13.9,11.6
+21125,21,Puebla,125,San Gregorio Atzompa,Valor,35.5,16.9,8.6
+21126,21,Puebla,126,San Jerónimo Tecuanipan,Valor,25.9,13.3,7.6
+21127,21,Puebla,127,San Jerónimo Xayacatlán,Valor,13.7,23.3,10.4
+21128,21,Puebla,128,San José Chiapa,Valor,36.5,14.2,9.4
+21129,21,Puebla,129,San José Miahuatlán,Valor,31.2,15,10.8
+21130,21,Puebla,130,San Juan Atenco,Valor,26.8,19,9.1
+21131,21,Puebla,131,San Juan Atzompa,Valor,26.2,15.4,7.4
+21132,21,Puebla,132,San Martín Texmelucan,Valor,39.1,15.3,8.9
+21133,21,Puebla,133,San Martín Totoltepec,Valor,22.2,19.5,7.9
+21134,21,Puebla,134,San Matías Tlalancaleca,Valor,33.4,16,8.3
+21135,21,Puebla,135,San Miguel Ixitlán,Valor,12.8,31,12.4
+21136,21,Puebla,136,San Miguel Xoxtla,Valor,37.3,14.7,8.8
+21137,21,Puebla,137,San Nicolás Buenos Aires,Valor,34.2,13.3,10.5
+21138,21,Puebla,138,San Nicolás de los Ranchos,Valor,21.6,22.6,25.7
+21139,21,Puebla,139,San Pablo Anicano,Valor,23.5,17.5,8.4
+21140,21,Puebla,140,San Pedro Cholula,Valor,30.1,15.6,9.3
+21141,21,Puebla,141,San Pedro Yeloixtlahuaca,Valor,25.6,20.1,8.7
+21142,21,Puebla,142,San Salvador el Seco,Valor,37,13.6,10.9
+21143,21,Puebla,143,San Salvador el Verde,Valor,36.6,13.2,8.6
+21144,21,Puebla,144,San Salvador Huixcolotla,Valor,39.8,13.6,10.1
+21145,21,Puebla,145,San Sebastián Tlacotepec,Valor,23,13.2,8.7
+21146,21,Puebla,146,Santa Catarina Tlaltempan,Valor,29.6,25.6,11.5
+21147,21,Puebla,147,Santa Inés Ahuatempan,Valor,23,20,8.7
+21148,21,Puebla,148,Santa Isabel Cholula,Valor,29.4,13.5,9.4
+21149,21,Puebla,149,Santiago Miahuatlán,Valor,32.1,12.4,7.8
+21150,21,Puebla,150,Huehuetlán el Grande,Valor,25.1,17.2,9.8
+21151,21,Puebla,151,Santo Tomás Hueyotlipan,Valor,30.1,15.5,8
+21152,21,Puebla,152,Soltepec,Valor,33.6,16.7,9.1
+21153,21,Puebla,153,Tecali de Herrera,Valor,31.8,14.8,8.2
+21154,21,Puebla,154,Tecamachalco,Valor,32,16,8.9
+21155,21,Puebla,155,Tecomatlán,Valor,31.4,23.3,10.1
+21156,21,Puebla,156,Tehuacán,Valor,31.8,14.4,9.3
+21157,21,Puebla,157,Tehuitzingo,Valor,27.1,20.2,11.6
+21158,21,Puebla,158,Tenampulco,Valor,29.7,18.1,10.6
+21159,21,Puebla,159,Teopantlán,Valor,14.6,21.6,12.1
+21160,21,Puebla,160,Teotlalco,Valor,30.5,17.9,9.3
+21161,21,Puebla,161,Tepanco de López,Valor,28.8,15.5,7.9
+21162,21,Puebla,162,Tepango de Rodríguez,Valor,28.5,14.8,9.1
+21163,21,Puebla,163,Tepatlaxco de Hidalgo,Valor,37.7,12.5,12.6
+21164,21,Puebla,164,Tepeaca,Valor,32.3,14.2,8.8
+21165,21,Puebla,165,Tepemaxalco,Valor,25,16.3,6.5
+21166,21,Puebla,166,Tepeojuma,Valor,27,17.5,12.5
+21167,21,Puebla,167,Tepetzintla,Valor,20.2,14,8.7
+21168,21,Puebla,168,Tepexco,Valor,27.7,14.8,8.8
+21169,21,Puebla,169,Tepexi de Rodríguez,Valor,33.7,16.8,9.1
+21170,21,Puebla,170,Tepeyahualco,Valor,34.1,14.1,9
+21171,21,Puebla,171,Tepeyahualco de Cuauhtémoc,Valor,28.4,16.2,7.7
+21172,21,Puebla,172,Tetela de Ocampo,Valor,29.3,14.1,9.4
+21173,21,Puebla,173,Teteles de Avila Castillo,Valor,26.9,16.8,7.1
+21174,21,Puebla,174,Teziutlán,Valor,33.2,15,10.4
+21175,21,Puebla,175,Tianguismanalco,Valor,32.3,14.5,9.6
+21176,21,Puebla,176,Tilapa,Valor,29.7,17,9.3
+21177,21,Puebla,177,Tlacotepec de Benito Juárez,Valor,29,12.7,8.5
+21178,21,Puebla,178,Tlacuilotepec,Valor,31,16.6,10.8
+21179,21,Puebla,179,Tlachichuca,Valor,32.6,14.6,9.5
+21180,21,Puebla,180,Tlahuapan,Valor,36.1,14.9,8.6
+21181,21,Puebla,181,Tlaltenango,Valor,33.4,14.6,7.8
+21182,21,Puebla,182,Tlanepantla,Valor,29.3,12.6,7.8
+21183,21,Puebla,183,Tlaola,Valor,25.3,12.6,8
+21184,21,Puebla,184,Tlapacoya,Valor,24.9,14.3,8.5
+21185,21,Puebla,185,Tlapanalá,Valor,29.2,16,11.2
+21186,21,Puebla,186,Tlatlauquitepec,Valor,29.7,15.1,9
+21187,21,Puebla,187,Tlaxco,Valor,26.4,15.5,9.4
+21188,21,Puebla,188,Tochimilco,Valor,26.1,15.1,11.1
+21189,21,Puebla,189,Tochtepec,Valor,31.6,14.6,9.8
+21190,21,Puebla,190,Totoltepec de Guerrero,Valor,12.7,24.2,9.2
+21191,21,Puebla,191,Tulcingo,Valor,25.2,18,10.8
+21192,21,Puebla,192,Tuzamapan de Galeana,Valor,28,17.9,10.3
+21193,21,Puebla,193,Tzicatlacoyan,Valor,25.6,15.1,9.3
+21194,21,Puebla,194,Venustiano Carranza,Valor,31.1,16,9.6
+21195,21,Puebla,195,Vicente Guerrero,Valor,22.6,13,8.6
+21196,21,Puebla,196,Xayacatlán de Bravo,Valor,11.9,24.2,9.2
+21197,21,Puebla,197,Xicotepec,Valor,21.8,12.3,8.9
+21198,21,Puebla,198,Xicotlán,Valor,17.2,17.1,8.5
+21199,21,Puebla,199,Xiutetelco,Valor,32,12.1,8.4
+21200,21,Puebla,200,Xochiapulco,Valor,16.2,20,9.4
+21201,21,Puebla,201,Xochiltepec,Valor,21.5,17.5,8.9
+21202,21,Puebla,202,Xochitlán de Vicente Suárez,Valor,27.6,11.6,9.1
+21203,21,Puebla,203,Xochitlán Todos Santos,Valor,25.1,14.7,9
+21204,21,Puebla,204,Yaonáhuac,Valor,32.8,15,8.8
+21205,21,Puebla,205,Yehualtepec,Valor,33,13.9,8.3
+21206,21,Puebla,206,Zacapala,Valor,20.8,18.2,9.2
+21207,21,Puebla,207,Zacapoaxtla,Valor,30.2,15.3,9.7
+21208,21,Puebla,208,Zacatlán,Valor,30.7,16.4,8.1
+21209,21,Puebla,209,Zapotitlán,Valor,15.9,17.2,8.8
+21210,21,Puebla,210,Zapotitlán de Méndez,Valor,32.4,16.2,8.5
+21211,21,Puebla,211,Zaragoza,Valor,30,17.4,9.1
+21212,21,Puebla,212,Zautla,Valor,19.4,14.9,9
+21213,21,Puebla,213,Zihuateutla,Valor,29,14.3,9.3
+21214,21,Puebla,214,Zinacatepec,Valor,33.3,13.8,11.1
+21215,21,Puebla,215,Zongozotla,Valor,33.8,16.3,10.2
+21216,21,Puebla,216,Zoquiapan,Valor,22.5,17.7,9.2
+21217,21,Puebla,217,Zoquitlán,Valor,23.1,14.1,9.3
+22001,22,Querétaro,1,Amealco de Bonfil,Valor,25.5,18.2,8.2
+22002,22,Querétaro,2,Pinal de Amoles,Valor,17,18.4,7.3
+22003,22,Querétaro,3,Arroyo Seco,Valor,23.5,23,9.1
+22004,22,Querétaro,4,Cadereyta de Montes,Valor,26.5,16.5,8.3
+22005,22,Querétaro,5,Colón,Valor,33.1,14.6,7.4
+22006,22,Querétaro,6,Corregidora,Valor,33,20.1,6.3
+22007,22,Querétaro,7,Ezequiel Montes,Valor,28,17.6,8
+22008,22,Querétaro,8,Huimilpan,Valor,34.8,17.1,7.5
+22009,22,Querétaro,9,Jalpan de Serra,Valor,24,12.4,8.4
+22010,22,Querétaro,10,Landa de Matamoros,Valor,22.5,25.1,8.1
+22011,22,Querétaro,11,El Marqués,Valor,29,14.1,6.4
+22012,22,Querétaro,12,Pedro Escobedo,Valor,33.7,18.1,7.7
+22013,22,Querétaro,13,Peñamiller,Valor,24.9,19.5,7.3
+22014,22,Querétaro,14,Querétaro,Valor,31.3,18.7,7.4
+22015,22,Querétaro,15,San Joaquín,Valor,23.3,19.5,8
+22016,22,Querétaro,16,San Juan del Río,Valor,32.6,18.2,8.6
+22017,22,Querétaro,17,Tequisquiapan,Valor,31.1,16.6,8.4
+22018,22,Querétaro,18,Tolimán,Valor,26.2,15.7,7.8
+23001,23,Quintana Roo,1,Cozumel,Valor,58.5,13.4,8.4
+23002,23,Quintana Roo,2,Felipe Carrillo Puerto,Valor,45,16.7,11
+23003,23,Quintana Roo,3,Isla Mujeres,Valor,56.8,13,8.4
+23004,23,Quintana Roo,4,Othón P. Blanco,Valor,48.5,16.3,9.2
+23005,23,Quintana Roo,5,Benito Juárez,Valor,55.2,14.5,7.5
+23006,23,Quintana Roo,6,José María Morelos,Valor,53.1,22.3,7.8
+23007,23,Quintana Roo,7,Lázaro Cárdenas,Valor,48.7,16.2,8.9
+23008,23,Quintana Roo,8,Solidaridad,Valor,56.2,11.8,8
+23009,23,Quintana Roo,9,Tulum,Valor,57.6,11,7.5
+23010,23,Quintana Roo,10,Bacalar,Valor,45.4,15.3,8.7
+24001,24,San Luis Potosí,1,Ahualulco,Valor,25.1,19.1,9.8
+24002,24,San Luis Potosí,2,Alaquines,Valor,26.9,22.1,12.6
+24003,24,San Luis Potosí,3,Aquismón,Valor,26.3,15,9.5
+24004,24,San Luis Potosí,4,Armadillo de los Infante,Valor,30.5,23.8,11.9
+24005,24,San Luis Potosí,5,Cárdenas,Valor,29.3,22.6,11.1
+24006,24,San Luis Potosí,6,Catorce,Valor,30,19.2,11.2
+24007,24,San Luis Potosí,7,Cedral,Valor,34.2,19.8,9.8
+24008,24,San Luis Potosí,8,Cerritos,Valor,31.2,22,12
+24009,24,San Luis Potosí,9,Cerro de San Pedro,Valor,37.7,19.2,8.5
+24010,24,San Luis Potosí,10,Ciudad del Maíz,Valor,29.5,19.4,11
+24011,24,San Luis Potosí,11,Ciudad Fernández,Valor,31.2,20.3,10.8
+24012,24,San Luis Potosí,12,Tancanhuitz,Valor,28,18.6,10.5
+24013,24,San Luis Potosí,13,Ciudad Valles,Valor,36.1,15,14.3
+24014,24,San Luis Potosí,14,Coxcatlán,Valor,30,21.2,12.7
+24015,24,San Luis Potosí,15,Charcas,Valor,32.5,19.6,10.9
+24016,24,San Luis Potosí,16,Ebano,Valor,35,22.2,11.8
+24017,24,San Luis Potosí,17,Guadalcázar,Valor,32.4,19.3,11.7
+24018,24,San Luis Potosí,18,Huehuetlán,Valor,26.7,17.5,9.9
+24019,24,San Luis Potosí,19,Lagunillas,Valor,24,25.1,12.7
+24020,24,San Luis Potosí,20,Matehuala,Valor,34.6,17.7,10
+24021,24,San Luis Potosí,21,Mexquitic de Carmona,Valor,26,18.2,9.2
+24022,24,San Luis Potosí,22,Moctezuma,Valor,26.8,18.6,10.6
+24023,24,San Luis Potosí,23,Rayón,Valor,29.8,22,12.1
+24024,24,San Luis Potosí,24,Rioverde,Valor,34.3,23.8,13.2
+24025,24,San Luis Potosí,25,Salinas,Valor,28.7,19.1,10.3
+24026,24,San Luis Potosí,26,San Antonio,Valor,25.8,19.1,9.7
+24027,24,San Luis Potosí,27,San Ciro de Acosta,Valor,32.1,23.1,12.4
+24028,24,San Luis Potosí,28,San Luis Potosí,Valor,35.7,20,11.1
+24029,24,San Luis Potosí,29,San Martín Chalchicuautla,Valor,27.8,22.1,11.3
+24030,24,San Luis Potosí,30,San Nicolás Tolentino,Valor,18.3,27.1,12.2
+24031,24,San Luis Potosí,31,Santa Catarina,Valor,18.2,15.4,11
+24032,24,San Luis Potosí,32,Santa María del Río,Valor,25.1,27.7,10.9
+24033,24,San Luis Potosí,33,Santo Domingo,Valor,26.6,20.1,10.8
+24034,24,San Luis Potosí,34,San Vicente Tancuayalab,Valor,33.8,19.1,10.7
+24035,24,San Luis Potosí,35,Soledad de Graciano Sánchez,Valor,34.7,18.8,9.3
+24036,24,San Luis Potosí,36,Tamasopo,Valor,32.8,17.4,11.1
+24037,24,San Luis Potosí,37,Tamazunchale,Valor,28,22.1,11.7
+24038,24,San Luis Potosí,38,Tampacán,Valor,26.8,23.4,10.6
+24039,24,San Luis Potosí,39,Tampamolón Corona,Valor,29.3,19.9,10.2
+24040,24,San Luis Potosí,40,Tamuín,Valor,35.4,16.8,10.8
+24041,24,San Luis Potosí,41,Tanlajás,Valor,28,17.3,9.6
+24042,24,San Luis Potosí,42,Tanquián de Escobedo,Valor,32.6,19.4,11
+24043,24,San Luis Potosí,43,Tierra Nueva,Valor,23.3,20.9,11
+24044,24,San Luis Potosí,44,Vanegas,Valor,33.3,17,9.6
+24045,24,San Luis Potosí,45,Venado,Valor,29.3,20.3,10.6
+24046,24,San Luis Potosí,46,Villa de Arriaga,Valor,33.9,17.7,10
+24047,24,San Luis Potosí,47,Villa de Guadalupe,Valor,30.3,21.5,13.6
+24048,24,San Luis Potosí,48,Villa de la Paz,Valor,36,19.1,10
+24049,24,San Luis Potosí,49,Villa de Ramos,Valor,31.2,19.9,10.1
+24050,24,San Luis Potosí,50,Villa de Reyes,Valor,34.2,15.4,9.4
+24051,24,San Luis Potosí,51,Villa Hidalgo,Valor,29.7,21,11.4
+24052,24,San Luis Potosí,52,Villa Juárez,Valor,29.2,22.5,12.4
+24053,24,San Luis Potosí,53,Axtla de Terrazas,Valor,31.5,19.4,11.5
+24054,24,San Luis Potosí,54,Xilitla,Valor,28.5,17.6,9.2
+24055,24,San Luis Potosí,55,Zaragoza,Valor,28.7,15.9,8.7
+24056,24,San Luis Potosí,56,Villa de Arista,Valor,33.3,16.8,8.6
+24057,24,San Luis Potosí,57,Matlapa,Valor,29.8,17,9.7
+24058,24,San Luis Potosí,58,El Naranjo,Valor,35.7,17.4,11.4
+25001,25,Sinaloa,1,Ahome,Valor,39.8,16.1,9.9
+25002,25,Sinaloa,2,Angostura,Valor,40.1,20.2,12.1
+25003,25,Sinaloa,3,Badiraguato,Valor,38.5,17.5,10.7
+25004,25,Sinaloa,4,Concordia,Valor,39.2,17.8,11.8
+25005,25,Sinaloa,5,Cosalá,Valor,38.6,17,9.5
+25006,25,Sinaloa,6,Culiacán,Valor,37.4,14.4,10.2
+25007,25,Sinaloa,7,Choix,Valor,45.2,18.1,11
+25008,25,Sinaloa,8,Elota,Valor,44.4,12.4,9.8
+25009,25,Sinaloa,9,Escuinapa,Valor,50.1,13.2,10.1
+25010,25,Sinaloa,10,El Fuerte,Valor,40.6,19.2,10.6
+25011,25,Sinaloa,11,Guasave,Valor,38.2,19.6,11.1
+25012,25,Sinaloa,12,Mazatlán,Valor,40.6,16.6,11.6
+25013,25,Sinaloa,13,Mocorito,Valor,43.3,18.9,12
+25014,25,Sinaloa,14,Rosario,Valor,43.4,10.5,10.8
+25015,25,Sinaloa,15,Salvador Alvarado,Valor,47.1,17.4,11.5
+25016,25,Sinaloa,16,San Ignacio,Valor,41.7,19.3,11.6
+25017,25,Sinaloa,17,Sinaloa,Valor,40.6,19,10.9
+25018,25,Sinaloa,18,Navolato,Valor,42.3,14.9,10.7
+26001,26,Sonora,1,Aconchi,Valor,48.3,24.9,12.6
+26002,26,Sonora,2,Agua Prieta,Valor,46.8,23.3,10.4
+26003,26,Sonora,3,Alamos,Valor,48.5,25.4,14.4
+26004,26,Sonora,4,Altar,Valor,46,19.4,9.8
+26005,26,Sonora,5,Arivechi,Valor,44.5,28.8,14.1
+26006,26,Sonora,6,Arizpe,Valor,49.2,29,13.7
+26007,26,Sonora,7,Atil,Valor,48.6,32.4,13.5
+26008,26,Sonora,8,Bacadéhuachi,Valor,53.5,27.4,15.6
+26009,26,Sonora,9,Bacanora,Valor,45,29.3,15.3
+26010,26,Sonora,10,Bacerac,Valor,50.9,56,12.3
+26011,26,Sonora,11,Bacoachi,Valor,46.1,31.8,14.8
+26012,26,Sonora,12,Bácum,Valor,46.5,25.4,12.9
+26013,26,Sonora,13,Banámichi,Valor,47.5,29.3,12.7
+26014,26,Sonora,14,Baviácora,Valor,46.4,28.3,13.4
+26015,26,Sonora,15,Bavispe,Valor,51.1,29,12.1
+26016,26,Sonora,16,Benjamín Hill,Valor,41.6,25.8,12.4
+26017,26,Sonora,17,Caborca,Valor,48.7,42.5,12
+26018,26,Sonora,18,Cajeme,Valor,43,29.2,12.9
+26019,26,Sonora,19,Cananea,Valor,43.2,23.6,10.1
+26020,26,Sonora,20,Carbó,Valor,53.4,22.9,11.8
+26021,26,Sonora,21,La Colorada,Valor,65.7,28.5,14.5
+26022,26,Sonora,22,Cucurpe,Valor,60.9,27.9,14
+26023,26,Sonora,23,Cumpas,Valor,47,28.5,12.8
+26024,26,Sonora,24,Divisaderos,Valor,43.8,31.6,14.1
+26025,26,Sonora,25,Empalme,Valor,43.8,25,11.5
+26026,26,Sonora,26,Etchojoa,Valor,45.6,23.8,11.8
+26027,26,Sonora,27,Fronteras,Valor,50.5,21.2,10.6
+26028,26,Sonora,28,Granados,Valor,47.7,30.8,13.1
+26029,26,Sonora,29,Guaymas,Valor,44.5,23.9,13.6
+26030,26,Sonora,30,Hermosillo,Valor,49.7,26,10.6
+26031,26,Sonora,31,Huachinera,Valor,45.6,29.2,13.5
+26032,26,Sonora,32,Huásabas,Valor,48.2,30.8,13.6
+26033,26,Sonora,33,Huatabampo,Valor,43.1,25.7,13.9
+26034,26,Sonora,34,Huépac,Valor,46.7,31.6,15.4
+26035,26,Sonora,35,Imuris,Valor,46.5,21.7,13
+26036,26,Sonora,36,Magdalena,Valor,44.6,23.1,12.2
+26037,26,Sonora,37,Mazatán,Valor,57.8,31.1,14.4
+26038,26,Sonora,38,Moctezuma,Valor,44.3,27.8,10.1
+26039,26,Sonora,39,Naco,Valor,45.5,20.6,9.7
+26040,26,Sonora,40,Nácori Chico,Valor,51.9,27.2,14.1
+26041,26,Sonora,41,Nacozari de García,Valor,47.5,19.7,11.3
+26042,26,Sonora,42,Navojoa,Valor,42.6,26.8,13.1
+26043,26,Sonora,43,Nogales,Valor,46.6,23,10.4
+26044,26,Sonora,44,Onavas,Valor,58.6,24.4,13.3
+26045,26,Sonora,45,Opodepe,Valor,51.4,25.9,13.6
+26046,26,Sonora,46,Oquitoa,Valor,43.4,31.2,15.1
+26047,26,Sonora,47,Pitiquito,Valor,50,23.2,11.3
+26048,26,Sonora,48,Puerto Peñasco,Valor,48.9,20.3,10.8
+26049,26,Sonora,49,Quiriego,Valor,54.1,27,14
+26050,26,Sonora,50,Rayón,Valor,51.6,31.2,15.7
+26051,26,Sonora,51,Rosario,Valor,47.1,26.5,13.5
+26052,26,Sonora,52,Sahuaripa,Valor,46.6,27.5,14.1
+26053,26,Sonora,53,San Felipe de Jesús,Valor,41.4,31.1,13
+26054,26,Sonora,54,San Javier,Valor,79.5,20.1,12.1
+26055,26,Sonora,55,San Luis Río Colorado,Valor,48.1,25.2,13.4
+26056,26,Sonora,56,San Miguel de Horcasitas,Valor,58.1,16,10.5
+26057,26,Sonora,57,San Pedro de la Cueva,Valor,51.8,32.3,15.9
+26058,26,Sonora,58,Santa Ana,Valor,46.2,25.7,12.5
+26059,26,Sonora,59,Santa Cruz,Valor,48.3,22.1,10.4
+26060,26,Sonora,60,Sáric,Valor,50.1,27.7,12.6
+26061,26,Sonora,61,Soyopa,Valor,54.6,27.4,15.1
+26062,26,Sonora,62,Suaqui Grande,Valor,55.5,25.5,13.4
+26063,26,Sonora,63,Tepache,Valor,50.2,31.6,15.4
+26064,26,Sonora,64,Trincheras,Valor,58.4,26.7,13.8
+26065,26,Sonora,65,Tubutama,Valor,49.8,28.2,14.1
+26066,26,Sonora,66,Ures,Valor,49,28.6,16
+26067,26,Sonora,67,Villa Hidalgo,Valor,51.1,28,15
+26068,26,Sonora,68,Villa Pesqueira,Valor,56.1,30.1,15.6
+26069,26,Sonora,69,Yécora,Valor,45.7,23.6,12.4
+26070,26,Sonora,70,General Plutarco Elías Calles,Valor,30.2,27.1,31.7
+26071,26,Sonora,71,Benito Juárez,Valor,44.8,24.8,13.2
+26072,26,Sonora,72,San Ignacio Río Muerto,Valor,51.2,23.7,12.1
+27001,27,Tabasco,1,Balancán,Valor,46.7,22.6,11.9
+27002,27,Tabasco,2,Cárdenas,Valor,42.6,24,12.3
+27003,27,Tabasco,3,Centla,Valor,49.2,20.9,10.6
+27004,27,Tabasco,4,Centro,Valor,52.7,22,13.3
+27005,27,Tabasco,5,Comalcalco,Valor,42.2,22.8,11.6
+27006,27,Tabasco,6,Cunduacán,Valor,45.3,21.2,11.5
+27007,27,Tabasco,7,Emiliano Zapata,Valor,42.2,20.1,13
+27008,27,Tabasco,8,Huimanguillo,Valor,45.3,22.8,10.6
+27009,27,Tabasco,9,Jalapa,Valor,43.9,20.7,12.6
+27010,27,Tabasco,10,Jalpa de Méndez,Valor,40.9,19.1,10
+27011,27,Tabasco,11,Jonuta,Valor,40.4,19.1,12.2
+27012,27,Tabasco,12,Macuspana,Valor,47.2,21.6,13
+27013,27,Tabasco,13,Nacajuca,Valor,44.3,20.3,9.2
+27014,27,Tabasco,14,Paraíso,Valor,47.4,22,11
+27015,27,Tabasco,15,Tacotalpa,Valor,37.2,20.2,10.8
+27016,27,Tabasco,16,Teapa,Valor,45.1,18.2,12.5
+27017,27,Tabasco,17,Tenosique,Valor,38.9,19.6,11.8
+28001,28,Tamaulipas,1,Abasolo,Valor,41.6,21.6,13.5
+28002,28,Tamaulipas,2,Aldama,Valor,44.8,21,15.6
+28003,28,Tamaulipas,3,Altamira,Valor,46.7,20.7,11.8
+28004,28,Tamaulipas,4,Antiguo Morelos,Valor,43.5,23,14.9
+28005,28,Tamaulipas,5,Burgos,Valor,50.3,24.5,13.9
+28006,28,Tamaulipas,6,Bustamante,Valor,38.2,20.7,13.5
+28007,28,Tamaulipas,7,Camargo,Valor,48.2,22,13.5
+28008,28,Tamaulipas,8,Casas,Valor,53.1,21.4,13.1
+28009,28,Tamaulipas,9,Ciudad Madero,Valor,41.1,25.2,15
+28010,28,Tamaulipas,10,Cruillas,Valor,45.6,24.7,14.4
+28011,28,Tamaulipas,11,Gómez Farías,Valor,47.8,23.5,14.1
+28012,28,Tamaulipas,12,González,Valor,42.2,20.1,13.8
+28013,28,Tamaulipas,13,Güémez,Valor,51.9,19.4,15.2
+28014,28,Tamaulipas,14,Guerrero,Valor,51.9,21.9,13.4
+28015,28,Tamaulipas,15,Gustavo Díaz Ordaz,Valor,49.6,22.9,15.4
+28016,28,Tamaulipas,16,Hidalgo,Valor,49.7,22.8,16.8
+28017,28,Tamaulipas,17,Jaumave,Valor,43,23.7,14.6
+28018,28,Tamaulipas,18,Jiménez,Valor,45.1,23,14.5
+28019,28,Tamaulipas,19,Llera,Valor,46.3,25.5,16.7
+28020,28,Tamaulipas,20,Mainero,Valor,45.9,26.1,15
+28021,28,Tamaulipas,21,El Mante,Valor,46.6,22.3,16.8
+28022,28,Tamaulipas,22,Matamoros,Valor,44.8,19.9,13.8
+28023,28,Tamaulipas,23,Méndez,Valor,51.6,22.2,14.8
+28024,28,Tamaulipas,24,Mier,Valor,42.6,25.7,14.1
+28025,28,Tamaulipas,25,Miguel Alemán,Valor,47.5,21.1,13.6
+28026,28,Tamaulipas,26,Miquihuana,Valor,33.1,22.6,12.8
+28027,28,Tamaulipas,27,Nuevo Laredo,Valor,45.9,17.7,12.8
+28028,28,Tamaulipas,28,Nuevo Morelos,Valor,51.3,21.5,12.4
+28029,28,Tamaulipas,29,Ocampo,Valor,45.5,24.6,15.5
+28030,28,Tamaulipas,30,Padilla,Valor,45.9,20.5,13.9
+28031,28,Tamaulipas,31,Palmillas,Valor,42.6,25.5,14
+28032,28,Tamaulipas,32,Reynosa,Valor,42.1,15.2,13.7
+28033,28,Tamaulipas,33,Río Bravo,Valor,48.5,19.2,12.9
+28034,28,Tamaulipas,34,San Carlos,Valor,39.8,22.2,16.5
+28035,28,Tamaulipas,35,San Fernando,Valor,46.4,19.5,14.1
+28036,28,Tamaulipas,36,San Nicolás,Valor,35.9,17.4,12.8
+28037,28,Tamaulipas,37,Soto la Marina,Valor,48.3,15.4,13.9
+28038,28,Tamaulipas,38,Tampico,Valor,40.8,25.6,14.9
+28039,28,Tamaulipas,39,Tula,Valor,37.4,22.2,14.1
+28040,28,Tamaulipas,40,Valle Hermoso,Valor,44.1,20.8,14.9
+28041,28,Tamaulipas,41,Victoria,Valor,46.2,18.9,13
+28042,28,Tamaulipas,42,Villagrán,Valor,46.4,24.6,15.9
+28043,28,Tamaulipas,43,Xicoténcatl,Valor,46.1,23.6,14.9
+29001,29,Tlaxcala,1,Amaxac de Guerrero,Valor,31.5,12.8,7
+29002,29,Tlaxcala,2,Apetatitlán de Antonio Carvajal,Valor,35.4,13.7,8.3
+29003,29,Tlaxcala,3,Atlangatepec,Valor,32,14.3,7.7
+29004,29,Tlaxcala,4,Atltzayanca,Valor,33.1,13.2,9.2
+29005,29,Tlaxcala,5,Apizaco,Valor,32.4,15.1,8.8
+29006,29,Tlaxcala,6,Calpulalpan,Valor,35.4,13.5,9.3
+29007,29,Tlaxcala,7,El Carmen Tequexquitla,Valor,35.2,11.8,8.9
+29008,29,Tlaxcala,8,Cuapiaxtla,Valor,35.8,11.8,8.7
+29009,29,Tlaxcala,9,Cuaxomulco,Valor,36.2,13.3,7.2
+29010,29,Tlaxcala,10,Chiautempan,Valor,29.6,14.2,8.8
+29011,29,Tlaxcala,11,Muñoz de Domingo Arenas,Valor,31.6,13.5,7.1
+29012,29,Tlaxcala,12,Españita,Valor,34.1,14.4,9.7
+29013,29,Tlaxcala,13,Huamantla,Valor,29.9,9.7,8.7
+29014,29,Tlaxcala,14,Hueyotlipan,Valor,32.7,13.9,8.9
+29015,29,Tlaxcala,15,Ixtacuixtla de Mariano Matamoros,Valor,33,11.4,8.7
+29016,29,Tlaxcala,16,Ixtenco,Valor,30.8,16.5,9.9
+29017,29,Tlaxcala,17,Mazatecochco de José María Morelos,Valor,34.7,11.9,9.6
+29018,29,Tlaxcala,18,Contla de Juan Cuamatzi,Valor,37.6,11.7,9.1
+29019,29,Tlaxcala,19,Tepetitla de Lardizábal,Valor,29.6,13,8.3
+29020,29,Tlaxcala,20,Sanctórum de Lázaro Cárdenas,Valor,35.4,14,10.4
+29021,29,Tlaxcala,21,Nanacamilpa de Mariano Arista,Valor,34.4,15,10
+29022,29,Tlaxcala,22,Acuamanala de Miguel Hidalgo,Valor,31.9,14.1,7.1
+29023,29,Tlaxcala,23,Natívitas,Valor,30.7,15,10.9
+29024,29,Tlaxcala,24,Panotla,Valor,31.6,16.9,8.8
+29025,29,Tlaxcala,25,San Pablo del Monte,Valor,35.6,11.1,10.1
+29026,29,Tlaxcala,26,Santa Cruz Tlaxcala,Valor,32.9,12.9,8
+29027,29,Tlaxcala,27,Tenancingo,Valor,34.3,14.7,12.1
+29028,29,Tlaxcala,28,Teolocholco,Valor,29.9,12.7,7.7
+29029,29,Tlaxcala,29,Tepeyanco,Valor,36.1,15,10.2
+29030,29,Tlaxcala,30,Terrenate,Valor,31.9,12.2,8.6
+29031,29,Tlaxcala,31,Tetla de la Solidaridad,Valor,36,14.6,8.2
+29032,29,Tlaxcala,32,Tetlatlahuca,Valor,31.3,15.5,9.4
+29033,29,Tlaxcala,33,Tlaxcala,Valor,34.1,13.5,14.8
+29034,29,Tlaxcala,34,Tlaxco,Valor,30.4,11.4,8.5
+29035,29,Tlaxcala,35,Tocatlán,Valor,36.7,14.3,7.5
+29036,29,Tlaxcala,36,Totolac,Valor,31.5,16.4,9.1
+29037,29,Tlaxcala,37,Ziltlaltépec de Trinidad Sánchez Santos,Valor,26.9,12.8,10.8
+29038,29,Tlaxcala,38,Tzompantepec,Valor,37.2,11,12.1
+29039,29,Tlaxcala,39,Xaloztoc,Valor,35,9.4,7.7
+29040,29,Tlaxcala,40,Xaltocan,Valor,32.1,6.1,9.7
+29041,29,Tlaxcala,41,Papalotla de Xicohténcatl,Valor,31.4,14.5,9.5
+29042,29,Tlaxcala,42,Xicohtzinco,Valor,37.3,16.9,10.2
+29043,29,Tlaxcala,43,Yauhquemehcan,Valor,33.9,12.4,7.7
+29044,29,Tlaxcala,44,Zacatelco,Valor,31.7,15,9.3
+29045,29,Tlaxcala,45,Benito Juárez,Valor,33.6,12,7.6
+29046,29,Tlaxcala,46,Emiliano Zapata,Valor,30,9,7.5
+29047,29,Tlaxcala,47,Lázaro Cárdenas,Valor,33.3,12.7,7
+29048,29,Tlaxcala,48,La Magdalena Tlaltelulco,Valor,28.5,12,7
+29049,29,Tlaxcala,49,San Damián Texóloc,Valor,34.2,15.8,8.6
+29050,29,Tlaxcala,50,San Francisco Tetlanohcan,Valor,29.4,12.7,8
+29051,29,Tlaxcala,51,San Jerónimo Zacualpan,Valor,26.5,16.6,7.7
+29052,29,Tlaxcala,52,San José Teacalco,Valor,30.5,14.4,8.7
+29053,29,Tlaxcala,53,San Juan Huactzinco,Valor,29.1,15.3,7.7
+29054,29,Tlaxcala,54,San Lorenzo Axocomanitla,Valor,30.5,13.7,8.5
+29055,29,Tlaxcala,55,San Lucas Tecopilco,Valor,24.8,16.4,8.1
+29056,29,Tlaxcala,56,Santa Ana Nopalucan,Valor,31.4,14,9.3
+29057,29,Tlaxcala,57,Santa Apolonia Teacalco,Valor,25.5,16.6,7.7
+29058,29,Tlaxcala,58,Santa Catarina Ayometla,Valor,28,16.1,9
+29059,29,Tlaxcala,59,Santa Cruz Quilehtla,Valor,30.4,13.8,7.4
+29060,29,Tlaxcala,60,Santa Isabel Xiloxoxtla,Valor,29.7,13.9,7.3
+30001,30,Veracruz de Ignacio de la Llave,1,Acajete,Valor,42,20.2,10.7
+30002,30,Veracruz de Ignacio de la Llave,2,Acatlán,Valor,34.7,22.4,8.9
+30003,30,Veracruz de Ignacio de la Llave,3,Acayucan,Valor,35.7,26.5,11.6
+30004,30,Veracruz de Ignacio de la Llave,4,Actopan,Valor,38.4,26.7,14.2
+30005,30,Veracruz de Ignacio de la Llave,5,Acula,Valor,42.4,25.2,11.7
+30006,30,Veracruz de Ignacio de la Llave,6,Acultzingo,Valor,35.7,18.8,8.9
+30007,30,Veracruz de Ignacio de la Llave,7,Camarón de Tejeda,Valor,38.1,25.5,11.4
+30008,30,Veracruz de Ignacio de la Llave,8,Alpatláhuac,Valor,30.3,21.7,9.4
+30009,30,Veracruz de Ignacio de la Llave,9,Alto Lucero de Gutiérrez Barrios,Valor,38.1,27.6,14.1
+30010,30,Veracruz de Ignacio de la Llave,10,Altotonga,Valor,32.4,18.6,9.7
+30011,30,Veracruz de Ignacio de la Llave,11,Alvarado,Valor,40.7,26.6,12.1
+30012,30,Veracruz de Ignacio de la Llave,12,Amatitlán,Valor,35.4,28.2,14.1
+30013,30,Veracruz de Ignacio de la Llave,13,Naranjos Amatlán,Valor,36.7,26.4,11.5
+30014,30,Veracruz de Ignacio de la Llave,14,Amatlán de los Reyes,Valor,36.5,23.5,10.2
+30015,30,Veracruz de Ignacio de la Llave,15,Angel R. Cabada,Valor,38.1,36.7,15.4
+30016,30,Veracruz de Ignacio de la Llave,16,La Antigua,Valor,42.6,23.7,14.8
+30017,30,Veracruz de Ignacio de la Llave,17,Apazapan,Valor,37.2,27.7,11.2
+30018,30,Veracruz de Ignacio de la Llave,18,Aquila,Valor,26.5,16.6,8.7
+30019,30,Veracruz de Ignacio de la Llave,19,Astacinga,Valor,20.6,19.5,7.9
+30020,30,Veracruz de Ignacio de la Llave,20,Atlahuilco,Valor,27.1,15.9,9.8
+30021,30,Veracruz de Ignacio de la Llave,21,Atoyac,Valor,36.2,24.1,7.5
+30022,30,Veracruz de Ignacio de la Llave,22,Atzacan,Valor,37.8,18.6,10.9
+30023,30,Veracruz de Ignacio de la Llave,23,Atzalan,Valor,36.8,20.8,11.2
+30024,30,Veracruz de Ignacio de la Llave,24,Tlaltetela,Valor,40.2,21.1,10.3
+30025,30,Veracruz de Ignacio de la Llave,25,Ayahualulco,Valor,33.9,17.7,11.6
+30026,30,Veracruz de Ignacio de la Llave,26,Banderilla,Valor,37.3,22.2,10
+30027,30,Veracruz de Ignacio de la Llave,27,Benito Juárez,Valor,24.5,25.8,11
+30028,30,Veracruz de Ignacio de la Llave,28,Boca del Río,Valor,37.8,22.2,11.7
+30029,30,Veracruz de Ignacio de la Llave,29,Calcahualco,Valor,31.2,18.2,10.2
+30030,30,Veracruz de Ignacio de la Llave,30,Camerino Z. Mendoza,Valor,33.7,24.3,11
+30031,30,Veracruz de Ignacio de la Llave,31,Carrillo Puerto,Valor,39.8,20.8,12
+30032,30,Veracruz de Ignacio de la Llave,32,Catemaco,Valor,38.5,26.8,13.1
+30033,30,Veracruz de Ignacio de la Llave,33,Cazones de Herrera,Valor,37.5,24.2,12.2
+30034,30,Veracruz de Ignacio de la Llave,34,Cerro Azul,Valor,38.2,27.2,12.9
+30035,30,Veracruz de Ignacio de la Llave,35,Citlaltépetl,Valor,38.6,27.8,11.4
+30036,30,Veracruz de Ignacio de la Llave,36,Coacoatzintla,Valor,38,17.7,8.9
+30037,30,Veracruz de Ignacio de la Llave,37,Coahuitlán,Valor,35.7,17.7,9.6
+30038,30,Veracruz de Ignacio de la Llave,38,Coatepec,Valor,38.5,23.3,11.2
+30039,30,Veracruz de Ignacio de la Llave,39,Coatzacoalcos,Valor,43,24.5,12
+30040,30,Veracruz de Ignacio de la Llave,40,Coatzintla,Valor,39,23,11
+30041,30,Veracruz de Ignacio de la Llave,41,Coetzala,Valor,32.6,23.1,9.4
+30042,30,Veracruz de Ignacio de la Llave,42,Colipa,Valor,34.6,25.2,11.2
+30043,30,Veracruz de Ignacio de la Llave,43,Comapa,Valor,41,21.2,11.3
+30044,30,Veracruz de Ignacio de la Llave,44,Córdoba,Valor,37.4,23.6,12.4
+30045,30,Veracruz de Ignacio de la Llave,45,Cosamaloapan de Carpio,Valor,40.3,25.7,15.5
+30046,30,Veracruz de Ignacio de la Llave,46,Cosautlán de Carvajal,Valor,37.5,21.7,12.4
+30047,30,Veracruz de Ignacio de la Llave,47,Coscomatepec,Valor,36.3,18.5,10.5
+30048,30,Veracruz de Ignacio de la Llave,48,Cosoleacaque,Valor,41.3,24.4,10.5
+30049,30,Veracruz de Ignacio de la Llave,49,Cotaxtla,Valor,41.5,19.2,12
+30050,30,Veracruz de Ignacio de la Llave,50,Coxquihui,Valor,34.9,20.6,11.7
+30051,30,Veracruz de Ignacio de la Llave,51,Coyutla,Valor,31.4,20.4,11.6
+30052,30,Veracruz de Ignacio de la Llave,52,Cuichapa,Valor,32.1,23.9,10
+30053,30,Veracruz de Ignacio de la Llave,53,Cuitláhuac,Valor,35,37.9,11.8
+30054,30,Veracruz de Ignacio de la Llave,54,Chacaltianguis,Valor,37.8,27.8,13.2
+30055,30,Veracruz de Ignacio de la Llave,55,Chalma,Valor,35.1,27.9,11.1
+30056,30,Veracruz de Ignacio de la Llave,56,Chiconamel,Valor,32.7,27.2,9.5
+30057,30,Veracruz de Ignacio de la Llave,57,Chiconquiaco,Valor,33,18.1,10.3
+30058,30,Veracruz de Ignacio de la Llave,58,Chicontepec,Valor,31.1,29.4,12.7
+30059,30,Veracruz de Ignacio de la Llave,59,Chinameca,Valor,39.2,22.3,12
+30060,30,Veracruz de Ignacio de la Llave,60,Chinampa de Gorostiza,Valor,41.1,22.8,12.1
+30061,30,Veracruz de Ignacio de la Llave,61,Las Choapas,Valor,36.7,20.5,11
+30062,30,Veracruz de Ignacio de la Llave,62,Chocamán,Valor,39.8,20,9.7
+30063,30,Veracruz de Ignacio de la Llave,63,Chontla,Valor,40,27.8,13.3
+30064,30,Veracruz de Ignacio de la Llave,64,Chumatlán,Valor,31.1,19.8,9.1
+30065,30,Veracruz de Ignacio de la Llave,65,Emiliano Zapata,Valor,39.3,23.5,9.6
+30066,30,Veracruz de Ignacio de la Llave,66,Espinal,Valor,36,22.9,12
+30067,30,Veracruz de Ignacio de la Llave,67,Filomeno Mata,Valor,35.8,12.2,7.4
+30068,30,Veracruz de Ignacio de la Llave,68,Fortín,Valor,34.9,23.5,9.8
+30069,30,Veracruz de Ignacio de la Llave,69,Gutiérrez Zamora,Valor,34,26.5,13.7
+30070,30,Veracruz de Ignacio de la Llave,70,Hidalgotitlán,Valor,36.2,24.8,11.7
+30071,30,Veracruz de Ignacio de la Llave,71,Huatusco,Valor,36,21.5,10.2
+30072,30,Veracruz de Ignacio de la Llave,72,Huayacocotla,Valor,33,23.4,10.5
+30073,30,Veracruz de Ignacio de la Llave,73,Hueyapan de Ocampo,Valor,33.6,24.2,12.4
+30074,30,Veracruz de Ignacio de la Llave,74,Huiloapan de Cuauhtémoc,Valor,35.6,22.7,9.6
+30075,30,Veracruz de Ignacio de la Llave,75,Ignacio de la Llave,Valor,34.7,26.3,14.6
+30076,30,Veracruz de Ignacio de la Llave,76,Ilamatlán,Valor,19.9,22.1,10.1
+30077,30,Veracruz de Ignacio de la Llave,77,Isla,Valor,41.7,21.6,13.7
+30078,30,Veracruz de Ignacio de la Llave,78,Ixcatepec,Valor,37.2,26.9,11.8
+30079,30,Veracruz de Ignacio de la Llave,79,Ixhuacán de los Reyes,Valor,38.9,18.9,11
+30080,30,Veracruz de Ignacio de la Llave,80,Ixhuatlán del Café,Valor,38.7,21.7,10.6
+30081,30,Veracruz de Ignacio de la Llave,81,Ixhuatlancillo,Valor,36.4,20.7,10.1
+30082,30,Veracruz de Ignacio de la Llave,82,Ixhuatlán del Sureste,Valor,44.3,21,11
+30083,30,Veracruz de Ignacio de la Llave,83,Ixhuatlán de Madero,Valor,25.2,23.2,11.2
+30084,30,Veracruz de Ignacio de la Llave,84,Ixmatlahuacan,Valor,40.7,25.8,11.8
+30085,30,Veracruz de Ignacio de la Llave,85,Ixtaczoquitlán,Valor,38.6,22.3,10.1
+30086,30,Veracruz de Ignacio de la Llave,86,Jalacingo,Valor,35.5,16.7,9.5
+30087,30,Veracruz de Ignacio de la Llave,87,Xalapa,Valor,37.9,21.7,9.9
+30088,30,Veracruz de Ignacio de la Llave,88,Jalcomulco,Valor,38.6,24.9,12.5
+30089,30,Veracruz de Ignacio de la Llave,89,Jáltipan,Valor,37.5,24.5,12.4
+30090,30,Veracruz de Ignacio de la Llave,90,Jamapa,Valor,41.7,23.2,13
+30091,30,Veracruz de Ignacio de la Llave,91,Jesús Carranza,Valor,34.9,22.6,10.3
+30092,30,Veracruz de Ignacio de la Llave,92,Xico,Valor,37.1,17.6,11.3
+30093,30,Veracruz de Ignacio de la Llave,93,Jilotepec,Valor,37.4,21.5,11.4
+30094,30,Veracruz de Ignacio de la Llave,94,Juan Rodríguez Clara,Valor,38.8,23.8,11.3
+30095,30,Veracruz de Ignacio de la Llave,95,Juchique de Ferrer,Valor,36.6,24.7,13.2
+30096,30,Veracruz de Ignacio de la Llave,96,Landero y Coss,Valor,22,26.7,11.6
+30097,30,Veracruz de Ignacio de la Llave,97,Lerdo de Tejada,Valor,36,27.5,16.7
+30098,30,Veracruz de Ignacio de la Llave,98,Magdalena,Valor,36.4,18,7.3
+30099,30,Veracruz de Ignacio de la Llave,99,Maltrata,Valor,32.9,20.7,10.3
+30100,30,Veracruz de Ignacio de la Llave,100,Manlio Fabio Altamirano,Valor,40.2,24.1,12.7
+30101,30,Veracruz de Ignacio de la Llave,101,Mariano Escobedo,Valor,32.1,19.3,8.3
+30102,30,Veracruz de Ignacio de la Llave,102,Martínez de la Torre,Valor,31.5,23.9,12.6
+30103,30,Veracruz de Ignacio de la Llave,103,Mecatlán,Valor,33.8,16,10.5
+30104,30,Veracruz de Ignacio de la Llave,104,Mecayapan,Valor,32.6,20.1,13.2
+30105,30,Veracruz de Ignacio de la Llave,105,Medellín de Bravo,Valor,39.9,21.8,10.1
+30106,30,Veracruz de Ignacio de la Llave,106,Miahuatlán,Valor,32.8,18.7,9.7
+30107,30,Veracruz de Ignacio de la Llave,107,Las Minas,Valor,34.3,16.1,7.9
+30108,30,Veracruz de Ignacio de la Llave,108,Minatitlán,Valor,42.7,22.8,14.3
+30109,30,Veracruz de Ignacio de la Llave,109,Misantla,Valor,39,25.7,11.9
+30110,30,Veracruz de Ignacio de la Llave,110,Mixtla de Altamirano,Valor,30.5,13.9,9
+30111,30,Veracruz de Ignacio de la Llave,111,Moloacán,Valor,38.5,22.4,10.5
+30112,30,Veracruz de Ignacio de la Llave,112,Naolinco,Valor,38.2,23.4,10.9
+30113,30,Veracruz de Ignacio de la Llave,113,Naranjal,Valor,33.4,20.6,9.6
+30114,30,Veracruz de Ignacio de la Llave,114,Nautla,Valor,36,27.6,12.1
+30115,30,Veracruz de Ignacio de la Llave,115,Nogales,Valor,37.3,23.1,12.3
+30116,30,Veracruz de Ignacio de la Llave,116,Oluta,Valor,40,22,13.4
+30117,30,Veracruz de Ignacio de la Llave,117,Omealca,Valor,32.1,23.2,11.2
+30118,30,Veracruz de Ignacio de la Llave,118,Orizaba,Valor,34.1,27.4,14.5
+30119,30,Veracruz de Ignacio de la Llave,119,Otatitlán,Valor,36.4,26.5,11
+30120,30,Veracruz de Ignacio de la Llave,120,Oteapan,Valor,39.3,19.9,10.6
+30121,30,Veracruz de Ignacio de la Llave,121,Ozuluama de Mascareñas,Valor,46.9,25.1,11.6
+30122,30,Veracruz de Ignacio de la Llave,122,Pajapan,Valor,37.2,19.1,11.1
+30123,30,Veracruz de Ignacio de la Llave,123,Pánuco,Valor,42.1,25.2,10
+30124,30,Veracruz de Ignacio de la Llave,124,Papantla,Valor,38.5,22.8,12.5
+30125,30,Veracruz de Ignacio de la Llave,125,Paso del Macho,Valor,41.2,21.8,11.8
+30126,30,Veracruz de Ignacio de la Llave,126,Paso de Ovejas,Valor,41,24.4,12.6
+30127,30,Veracruz de Ignacio de la Llave,127,La Perla,Valor,31.1,12.5,7.6
+30128,30,Veracruz de Ignacio de la Llave,128,Perote,Valor,41,18,9.3
+30129,30,Veracruz de Ignacio de la Llave,129,Platón Sánchez,Valor,35.5,26.8,10.7
+30130,30,Veracruz de Ignacio de la Llave,130,Playa Vicente,Valor,33.7,23.6,12.5
+30131,30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,Valor,41.3,23.5,14.3
+30132,30,Veracruz de Ignacio de la Llave,132,Las Vigas de Ramírez,Valor,37.9,18.6,8.9
+30133,30,Veracruz de Ignacio de la Llave,133,Pueblo Viejo,Valor,44.5,23.1,9.8
+30134,30,Veracruz de Ignacio de la Llave,134,Puente Nacional,Valor,39.4,25.2,12.9
+30135,30,Veracruz de Ignacio de la Llave,135,Rafael Delgado,Valor,37,16.7,9.4
+30136,30,Veracruz de Ignacio de la Llave,136,Rafael Lucio,Valor,36.3,16.9,8.6
+30137,30,Veracruz de Ignacio de la Llave,137,Los Reyes,Valor,32.4,17.8,8.2
+30138,30,Veracruz de Ignacio de la Llave,138,Río Blanco,Valor,38.6,25.2,15
+30139,30,Veracruz de Ignacio de la Llave,139,Saltabarranca,Valor,36.9,26.1,13.2
+30140,30,Veracruz de Ignacio de la Llave,140,San Andrés Tenejapan,Valor,27.1,16.2,8.1
+30141,30,Veracruz de Ignacio de la Llave,141,San Andrés Tuxtla,Valor,35.8,23,13.4
+30142,30,Veracruz de Ignacio de la Llave,142,San Juan Evangelista,Valor,38.2,24.3,12.4
+30143,30,Veracruz de Ignacio de la Llave,143,Santiago Tuxtla,Valor,33.7,27,13.8
+30144,30,Veracruz de Ignacio de la Llave,144,Sayula de Alemán,Valor,37,23.3,12.2
+30145,30,Veracruz de Ignacio de la Llave,145,Soconusco,Valor,38.3,21.5,10.4
+30146,30,Veracruz de Ignacio de la Llave,146,Sochiapa,Valor,40.4,20.8,8.6
+30147,30,Veracruz de Ignacio de la Llave,147,Soledad Atzompa,Valor,36.2,13.2,9.9
+30148,30,Veracruz de Ignacio de la Llave,148,Soledad de Doblado,Valor,40.8,24.1,13.2
+30149,30,Veracruz de Ignacio de la Llave,149,Soteapan,Valor,31.3,16.8,9.9
+30150,30,Veracruz de Ignacio de la Llave,150,Tamalín,Valor,43.2,23.9,12
+30151,30,Veracruz de Ignacio de la Llave,151,Tamiahua,Valor,40,27.7,12.8
+30152,30,Veracruz de Ignacio de la Llave,152,Tampico Alto,Valor,49.9,26,13.2
+30153,30,Veracruz de Ignacio de la Llave,153,Tancoco,Valor,35.5,28.2,11
+30154,30,Veracruz de Ignacio de la Llave,154,Tantima,Valor,41.9,28.1,13
+30155,30,Veracruz de Ignacio de la Llave,155,Tantoyuca,Valor,38.5,24.3,10
+30156,30,Veracruz de Ignacio de la Llave,156,Tatatila,Valor,39,17,8.6
+30157,30,Veracruz de Ignacio de la Llave,157,Castillo de Teayo,Valor,39.4,24.9,12.5
+30158,30,Veracruz de Ignacio de la Llave,158,Tecolutla,Valor,38.1,24.4,12.2
+30159,30,Veracruz de Ignacio de la Llave,159,Tehuipango,Valor,30.7,9.7,9.2
+30160,30,Veracruz de Ignacio de la Llave,160,Álamo Temapache,Valor,39.7,23.1,12.3
+30161,30,Veracruz de Ignacio de la Llave,161,Tempoal,Valor,38.1,25.1,11.7
+30162,30,Veracruz de Ignacio de la Llave,162,Tenampa,Valor,31,22.2,10.7
+30163,30,Veracruz de Ignacio de la Llave,163,Tenochtitlán,Valor,26.2,21.3,9.9
+30164,30,Veracruz de Ignacio de la Llave,164,Teocelo,Valor,36.4,23.7,10.3
+30165,30,Veracruz de Ignacio de la Llave,165,Tepatlaxco,Valor,36.4,19.9,11.5
+30166,30,Veracruz de Ignacio de la Llave,166,Tepetlán,Valor,37.5,22.8,12.2
+30167,30,Veracruz de Ignacio de la Llave,167,Tepetzintla,Valor,38.1,24.9,12.4
+30168,30,Veracruz de Ignacio de la Llave,168,Tequila,Valor,30,17.1,8.5
+30169,30,Veracruz de Ignacio de la Llave,169,José Azueta,Valor,38.4,24,13.1
+30170,30,Veracruz de Ignacio de la Llave,170,Texcatepec,Valor,24.1,19.4,9.2
+30171,30,Veracruz de Ignacio de la Llave,171,Texhuacán,Valor,31.2,18.8,8.8
+30172,30,Veracruz de Ignacio de la Llave,172,Texistepec,Valor,37.8,23,11.2
+30173,30,Veracruz de Ignacio de la Llave,173,Tezonapa,Valor,33.2,21.1,10.8
+30174,30,Veracruz de Ignacio de la Llave,174,Tierra Blanca,Valor,38.9,24.8,12.8
+30175,30,Veracruz de Ignacio de la Llave,175,Tihuatlán,Valor,38.9,21.2,10.1
+30176,30,Veracruz de Ignacio de la Llave,176,Tlacojalpan,Valor,37.9,24.6,11
+30177,30,Veracruz de Ignacio de la Llave,177,Tlacolulan,Valor,34.7,16.6,9.7
+30178,30,Veracruz de Ignacio de la Llave,178,Tlacotalpan,Valor,44.6,23.6,14.4
+30179,30,Veracruz de Ignacio de la Llave,179,Tlacotepec de Mejía,Valor,38.8,23.4,9.7
+30180,30,Veracruz de Ignacio de la Llave,180,Tlachichilco,Valor,23.5,24.8,10.7
+30181,30,Veracruz de Ignacio de la Llave,181,Tlalixcoyan,Valor,39.8,25.5,14.1
+30182,30,Veracruz de Ignacio de la Llave,182,Tlalnelhuayocan,Valor,39.7,17,8.9
+30183,30,Veracruz de Ignacio de la Llave,183,Tlapacoyan,Valor,38.5,20.2,11.6
+30184,30,Veracruz de Ignacio de la Llave,184,Tlaquilpa,Valor,22.5,20.8,9.5
+30185,30,Veracruz de Ignacio de la Llave,185,Tlilapan,Valor,33.9,18.1,8.4
+30186,30,Veracruz de Ignacio de la Llave,186,Tomatlán,Valor,38.4,25.7,10.3
+30187,30,Veracruz de Ignacio de la Llave,187,Tonayán,Valor,30.6,17.5,7.7
+30188,30,Veracruz de Ignacio de la Llave,188,Totutla,Valor,38.5,21.9,11.6
+30189,30,Veracruz de Ignacio de la Llave,189,Tuxpan,Valor,42.6,23.3,11.4
+30190,30,Veracruz de Ignacio de la Llave,190,Tuxtilla,Valor,34.7,30.2,12
+30191,30,Veracruz de Ignacio de la Llave,191,Ursulo Galván,Valor,40.9,25.7,13.1
+30192,30,Veracruz de Ignacio de la Llave,192,Vega de Alatorre,Valor,38.7,25.3,12.6
+30193,30,Veracruz de Ignacio de la Llave,193,Veracruz,Valor,43.1,23.6,12.5
+30194,30,Veracruz de Ignacio de la Llave,194,Villa Aldama,Valor,34,16.2,8.1
+30195,30,Veracruz de Ignacio de la Llave,195,Xoxocotla,Valor,38.4,15.5,8.2
+30196,30,Veracruz de Ignacio de la Llave,196,Yanga,Valor,32.9,26.4,11.8
+30197,30,Veracruz de Ignacio de la Llave,197,Yecuatla,Valor,38,25.5,13.9
+30198,30,Veracruz de Ignacio de la Llave,198,Zacualpan,Valor,31,23.4,10.8
+30199,30,Veracruz de Ignacio de la Llave,199,Zaragoza,Valor,39.6,17.6,9.7
+30200,30,Veracruz de Ignacio de la Llave,200,Zentla,Valor,41.2,24.3,12.2
+30201,30,Veracruz de Ignacio de la Llave,201,Zongolica,Valor,30.7,18.6,10.2
+30202,30,Veracruz de Ignacio de la Llave,202,Zontecomatlán de López y Fuentes,Valor,21.4,18.9,9.2
+30203,30,Veracruz de Ignacio de la Llave,203,Zozocolco de Hidalgo,Valor,35.9,19.6,10.6
+30204,30,Veracruz de Ignacio de la Llave,204,Agua Dulce,Valor,39.3,23.7,10.4
+30205,30,Veracruz de Ignacio de la Llave,205,El Higo,Valor,44.5,26.9,12.3
+30206,30,Veracruz de Ignacio de la Llave,206,Nanchital de Lázaro Cárdenas del Río,Valor,41.1,22.5,9.9
+30207,30,Veracruz de Ignacio de la Llave,207,Tres Valles,Valor,38.5,24.4,11.6
+30208,30,Veracruz de Ignacio de la Llave,208,Carlos A. Carrillo,Valor,38.5,25.7,13.3
+30209,30,Veracruz de Ignacio de la Llave,209,Tatahuicapan de Juárez,Valor,32.7,19.9,10.9
+30210,30,Veracruz de Ignacio de la Llave,210,Uxpanapa,Valor,33.2,19.4,9.6
+30211,30,Veracruz de Ignacio de la Llave,211,San Rafael,Valor,40.4,25,13.7
+30212,30,Veracruz de Ignacio de la Llave,212,Santiago Sochiapan,Valor,28,23.1,10.9
+31001,31,Yucatán,1,Abalá,Valor,48.6,17.3,11.4
+31002,31,Yucatán,2,Acanceh,Valor,45.5,18.2,11
+31003,31,Yucatán,3,Akil,Valor,38.5,15.5,10.2
+31004,31,Yucatán,4,Baca,Valor,42.9,21.1,11.2
+31005,31,Yucatán,5,Bokobá,Valor,45.9,20.2,11.1
+31006,31,Yucatán,6,Buctzotz,Valor,43.2,18.5,11.7
+31007,31,Yucatán,7,Cacalchén,Valor,46.6,18.8,10.9
+31008,31,Yucatán,8,Calotmul,Valor,41.6,21.4,11.9
+31009,31,Yucatán,9,Cansahcab,Valor,42.1,23,11.7
+31010,31,Yucatán,10,Cantamayec,Valor,47.1,15.2,8.8
+31011,31,Yucatán,11,Celestún,Valor,50.4,14.8,10
+31012,31,Yucatán,12,Cenotillo,Valor,39.1,22.9,11.8
+31013,31,Yucatán,13,Conkal,Valor,47.8,20.4,10.1
+31014,31,Yucatán,14,Cuncunul,Valor,45.1,17.5,9.3
+31015,31,Yucatán,15,Cuzamá,Valor,47,16.2,10.2
+31016,31,Yucatán,16,Chacsinkín,Valor,42.8,14.5,8.6
+31017,31,Yucatán,17,Chankom,Valor,40.4,16,9.8
+31018,31,Yucatán,18,Chapab,Valor,42,19.8,10.5
+31019,31,Yucatán,19,Chemax,Valor,41,11.2,8.5
+31020,31,Yucatán,20,Chicxulub Pueblo,Valor,50.3,18.8,10
+31021,31,Yucatán,21,Chichimilá,Valor,37.9,14.5,8.2
+31022,31,Yucatán,22,Chikindzonot,Valor,39.1,13.5,8.9
+31023,31,Yucatán,23,Chocholá,Valor,47,20.6,10.1
+31024,31,Yucatán,24,Chumayel,Valor,40.6,17.2,10.5
+31025,31,Yucatán,25,Dzán,Valor,39.2,18.4,9.6
+31026,31,Yucatán,26,Dzemul,Valor,46.1,24.4,11.5
+31027,31,Yucatán,27,Dzidzantún,Valor,47.1,27.7,13
+31028,31,Yucatán,28,Dzilam de Bravo,Valor,52.3,18.7,9.9
+31029,31,Yucatán,29,Dzilam González,Valor,49.1,21.3,12.3
+31030,31,Yucatán,30,Dzitás,Valor,43.9,16.5,11
+31031,31,Yucatán,31,Dzoncauich,Valor,37.7,22.8,12.1
+31032,31,Yucatán,32,Espita,Valor,42.3,16,10.9
+31033,31,Yucatán,33,Halachó,Valor,44.6,17.2,11.8
+31034,31,Yucatán,34,Hocabá,Valor,44.7,18.2,11.1
+31035,31,Yucatán,35,Hoctún,Valor,39.6,18.7,10.9
+31036,31,Yucatán,36,Homún,Valor,46.5,16.8,10.3
+31037,31,Yucatán,37,Huhí,Valor,47.1,19.1,10.1
+31038,31,Yucatán,38,Hunucmá,Valor,44.8,20.1,10.1
+31039,31,Yucatán,39,Ixil,Valor,46.4,17.9,9.7
+31040,31,Yucatán,40,Izamal,Valor,42.5,20.3,10.2
+31041,31,Yucatán,41,Kanasín,Valor,46,20.1,9.4
+31042,31,Yucatán,42,Kantunil,Valor,41.7,19.3,10.3
+31043,31,Yucatán,43,Kaua,Valor,44.4,15.4,8.6
+31044,31,Yucatán,44,Kinchil,Valor,44.6,16.3,9.8
+31045,31,Yucatán,45,Kopomá,Valor,44.5,19.4,10.8
+31046,31,Yucatán,46,Mama,Valor,33.5,17.3,10.4
+31047,31,Yucatán,47,Maní,Valor,38,18.6,10.2
+31048,31,Yucatán,48,Maxcanú,Valor,45,16.9,12.1
+31049,31,Yucatán,49,Mayapán,Valor,42.6,13.3,8.5
+31050,31,Yucatán,50,Mérida,Valor,49.2,26.9,11.7
+31051,31,Yucatán,51,Mocochá,Valor,45.6,19.7,10.7
+31052,31,Yucatán,52,Motul,Valor,42.7,19.7,11
+31053,31,Yucatán,53,Muna,Valor,38.9,18.2,10.9
+31054,31,Yucatán,54,Muxupip,Valor,39.3,20.4,11.3
+31055,31,Yucatán,55,Opichén,Valor,46.5,16.9,10.3
+31056,31,Yucatán,56,Oxkutzcab,Valor,34.5,16.9,11.4
+31057,31,Yucatán,57,Panabá,Valor,45.4,20.3,11.7
+31058,31,Yucatán,58,Peto,Valor,40.6,17.4,10.2
+31059,31,Yucatán,59,Progreso,Valor,45,20.6,9.7
+31060,31,Yucatán,60,Quintana Roo,Valor,42.9,20,11.4
+31061,31,Yucatán,61,Río Lagartos,Valor,52.8,18.9,10
+31062,31,Yucatán,62,Sacalum,Valor,48,17.6,9.9
+31063,31,Yucatán,63,Samahil,Valor,46.3,16.6,10.6
+31064,31,Yucatán,64,Sanahcat,Valor,43.4,20.1,10.7
+31065,31,Yucatán,65,San Felipe,Valor,53.2,19.5,10.8
+31066,31,Yucatán,66,Santa Elena,Valor,34.1,18.7,9.5
+31067,31,Yucatán,67,Seyé,Valor,49.3,18,13.3
+31068,31,Yucatán,68,Sinanché,Valor,50.6,23,11.5
+31069,31,Yucatán,69,Sotuta,Valor,43.6,17.2,10.2
+31070,31,Yucatán,70,Sucilá,Valor,45,21.8,11
+31071,31,Yucatán,71,Sudzal,Valor,43.1,17.9,10
+31072,31,Yucatán,72,Suma,Valor,45.4,22.8,12.2
+31073,31,Yucatán,73,Tahdziú,Valor,38.5,10.2,6.8
+31074,31,Yucatán,74,Tahmek,Valor,46.6,21.6,11.4
+31075,31,Yucatán,75,Teabo,Valor,41.6,15.7,10
+31076,31,Yucatán,76,Tecoh,Valor,44.6,16,11.7
+31077,31,Yucatán,77,Tekal de Venegas,Valor,42.1,19.7,10.7
+31078,31,Yucatán,78,Tekantó,Valor,43,20.5,11
+31079,31,Yucatán,79,Tekax,Valor,40.3,19.3,9.3
+31080,31,Yucatán,80,Tekit,Valor,44.3,14.9,10.9
+31081,31,Yucatán,81,Tekom,Valor,38,17.3,9.1
+31082,31,Yucatán,82,Telchac Pueblo,Valor,46.9,24.5,11.4
+31083,31,Yucatán,83,Telchac Puerto,Valor,54.7,21.2,10.9
+31084,31,Yucatán,84,Temax,Valor,45.2,20.2,12
+31085,31,Yucatán,85,Temozón,Valor,41.9,15.4,10.9
+31086,31,Yucatán,86,Tepakán,Valor,42.7,19.8,12
+31087,31,Yucatán,87,Tetiz,Valor,40.2,18.3,10.7
+31088,31,Yucatán,88,Teya,Valor,40.6,19.1,11.1
+31089,31,Yucatán,89,Ticul,Valor,42.3,18.8,10.7
+31090,31,Yucatán,90,Timucuy,Valor,45.5,18.7,10.9
+31091,31,Yucatán,91,Tinum,Valor,46.3,16.9,9.6
+31092,31,Yucatán,92,Tixcacalcupul,Valor,39.7,14.3,9
+31093,31,Yucatán,93,Tixkokob,Valor,45.1,22.3,12.7
+31094,31,Yucatán,94,Tixmehuac,Valor,39.1,19.3,9.1
+31095,31,Yucatán,95,Tixpéhual,Valor,43.6,21.4,11.4
+31096,31,Yucatán,96,Tizimín,Valor,42.1,18.5,10.1
+31097,31,Yucatán,97,Tunkás,Valor,42.6,20.4,10.8
+31098,31,Yucatán,98,Tzucacab,Valor,42.6,20,10.7
+31099,31,Yucatán,99,Uayma,Valor,41,14.4,9.7
+31100,31,Yucatán,100,Ucú,Valor,47.4,19,10.2
+31101,31,Yucatán,101,Umán,Valor,47.2,17,10.4
+31102,31,Yucatán,102,Valladolid,Valor,48.7,17,9.5
+31103,31,Yucatán,103,Xocchel,Valor,45.6,18,10.5
+31104,31,Yucatán,104,Yaxcabá,Valor,43.2,16.4,9.8
+31105,31,Yucatán,105,Yaxkukul,Valor,45.2,20.9,10.2
+31106,31,Yucatán,106,Yobaín,Valor,47.8,22.6,10.4
+32001,32,Zacatecas,1,Apozol,Valor,29.4,20.9,10.8
+32002,32,Zacatecas,2,Apulco,Valor,18.9,18.7,9.9
+32003,32,Zacatecas,3,Atolinga,Valor,23.1,25.5,13
+32004,32,Zacatecas,4,Benito Juárez,Valor,34.7,20.8,9.9
+32005,32,Zacatecas,5,Calera,Valor,37.7,16.1,8.6
+32006,32,Zacatecas,6,Cañitas de Felipe Pescador,Valor,30.7,18.3,9.7
+32007,32,Zacatecas,7,Concepción del Oro,Valor,38.6,18.2,12.6
+32008,32,Zacatecas,8,Cuauhtémoc,Valor,30.1,17,9
+32009,32,Zacatecas,9,Chalchihuites,Valor,33,21.4,12
+32010,32,Zacatecas,10,Fresnillo,Valor,32,17.2,10.7
+32011,32,Zacatecas,11,Trinidad García de la Cadena,Valor,29.9,22.3,12.1
+32012,32,Zacatecas,12,Genaro Codina,Valor,30.5,16.7,9.2
+32013,32,Zacatecas,13,General Enrique Estrada,Valor,34.7,18.6,9.3
+32014,32,Zacatecas,14,General Francisco R. Murguía,Valor,26,11.1,12.3
+32015,32,Zacatecas,15,El Plateado de Joaquín Amaro,Valor,26.4,26.6,14.9
+32016,32,Zacatecas,16,General Pánfilo Natera,Valor,29.6,18,11.2
+32017,32,Zacatecas,17,Guadalupe,Valor,37.3,17.1,8.4
+32018,32,Zacatecas,18,Huanusco,Valor,22,22.1,11.5
+32019,32,Zacatecas,19,Jalpa,Valor,30.5,19.8,11.5
+32020,32,Zacatecas,20,Jerez,Valor,32.4,21.6,13.3
+32021,32,Zacatecas,21,Jiménez del Teul,Valor,20.3,19.1,9.2
+32022,32,Zacatecas,22,Juan Aldama,Valor,32.2,18.6,11.6
+32023,32,Zacatecas,23,Juchipila,Valor,29.7,24.8,14.2
+32024,32,Zacatecas,24,Loreto,Valor,33.8,16.8,9.8
+32025,32,Zacatecas,25,Luis Moya,Valor,33,16.4,11.8
+32026,32,Zacatecas,26,Mazapil,Valor,35.2,18.7,11.2
+32027,32,Zacatecas,27,Melchor Ocampo,Valor,33.7,17.5,11.2
+32028,32,Zacatecas,28,Mezquital del Oro,Valor,24.3,20.2,11.1
+32029,32,Zacatecas,29,Miguel Auza,Valor,34.2,19.1,9.5
+32030,32,Zacatecas,30,Momax,Valor,32,22.8,11.6
+32031,32,Zacatecas,31,Monte Escobedo,Valor,31.9,18.6,13.2
+32032,32,Zacatecas,32,Morelos,Valor,36.5,19.6,9.6
+32033,32,Zacatecas,33,Moyahua de Estrada,Valor,23.9,25.5,13.1
+32034,32,Zacatecas,34,Nochistlán de Mejía,Valor,30,22.2,12.5
+32035,32,Zacatecas,35,Noria de Ángeles,Valor,30.9,18.4,9.2
+32036,32,Zacatecas,36,Ojocaliente,Valor,30.7,16.7,10.1
+32037,32,Zacatecas,37,Pánuco,Valor,35.2,15.9,10.1
+32038,32,Zacatecas,38,Pinos,Valor,34,17,10.3
+32039,32,Zacatecas,39,Río Grande,Valor,34.4,23.9,13
+32040,32,Zacatecas,40,Sain Alto,Valor,26.6,18.2,10
+32041,32,Zacatecas,41,El Salvador,Valor,29.8,21,12
+32042,32,Zacatecas,42,Sombrerete,Valor,34.5,19.8,11.5
+32043,32,Zacatecas,43,Susticacán,Valor,21.5,23.6,11.6
+32044,32,Zacatecas,44,Tabasco,Valor,29.7,19.3,11.7
+32045,32,Zacatecas,45,Tepechitlán,Valor,26.5,23.4,12.6
+32046,32,Zacatecas,46,Tepetongo,Valor,26.4,23.9,14.6
+32047,32,Zacatecas,47,Teúl de González Ortega,Valor,30.2,21.5,11
+32048,32,Zacatecas,48,Tlaltenango de Sánchez Román,Valor,33.8,19.8,10.3
+32049,32,Zacatecas,49,Valparaíso,Valor,29.4,21.9,11.3
+32050,32,Zacatecas,50,Vetagrande,Valor,33,16.7,9
+32051,32,Zacatecas,51,Villa de Cos,Valor,32.8,17.7,11.8
+32052,32,Zacatecas,52,Villa García,Valor,33.3,17.5,8.7
+32053,32,Zacatecas,53,Villa González Ortega,Valor,28.5,18.5,10.3
+32054,32,Zacatecas,54,Villa Hidalgo,Valor,31.1,16.9,9.9
+32055,32,Zacatecas,55,Villanueva,Valor,30.5,21.7,12.1
+32056,32,Zacatecas,56,Zacatecas,Valor,36.8,20,11.8
+32057,32,Zacatecas,57,Trancoso,Valor,32.5,15.9,8.1
+32058,32,Zacatecas,58,Santa María de la Paz,Valor,25.4,21.2,11.4
