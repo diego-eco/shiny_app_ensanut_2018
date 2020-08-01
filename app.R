@@ -21,7 +21,6 @@ pacman::p_load(tidyverse,
 mun_nac <- st_read("data/municipal.shp")
 mun_nac <- mun_nac %>%
     dplyr::select(CVEGEO,NOM_ENT,NOM_MUN)
-glimpse(mun_nac)
 
 # Datos de ensanut a nivel municipal
 ensanut_ap <- read.csv(file = "data/ensanut_areas_peq.csv", 
@@ -145,7 +144,7 @@ server <- function(input, output){
                  y = NULL,
                  title = "Prevalencia en México",
                  subtitle = "% de población de 20 años y más con diagnóstico previo",
-                 caption = "Fuente: Elaborado con datos de INEGI/ENSANUT a nivel muncipal.",
+                 caption = "Fuente: Elaborado por Diego López con datos de INEGI/ENSANUT a nivel muncipal.",
                  fill = "%") +
              theme_bw()
         
