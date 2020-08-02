@@ -4,27 +4,40 @@ pacman::p_load(tidyverse,
                ggplot2,
                shiny,
                viridis,
-               sf,
-               ggspatial,
-               colorspace)
+               sf
+               #gmodels,
+               #tmap,
+               #leaflet,
+               #foreign,
+               #expss,
+               #fishualize,
+               #raster,
+               #cowplot
+               #ggspatial,
+               #colorspace
+            )
 
 
 #Shape Municipal
 mun_nac <- st_read("data/municipal.shp")
+
 mun_nac <- mun_nac %>%
     dplyr::select(CVEGEO,NOM_ENT,NOM_MUN)
 
 # Datos de ensanut a nivel municipal
+
 ensanut_ap <- read.csv(file = "data/ensanut_areas_peq.csv", 
                        sep=",", 
                        colClasses=c(rep('factor', 6), 'numeric','numeric','numeric')
-)
+                        )
 
-#ensanut_ap <- ensanut_ap %>%
-#    dplyr::rename(CVEGEO = mun,Obesidad=obesidad,Hipertension=hipertension,Diabetes=diabetes)
+ensanut_ap <- ensanut_ap %>%
+    rename(CVEGEO = mun,Obesidad=obesidad,Hipertension=hipertension,Diabetes=diabetes)
 
 #Unir ambas bases
-datos <- dplyr::inner_join(mun_nac, ensanut_ap,by = "CVEGEO")
+
+datos <- dplyr::left_join(x=mun_nac, y=ensanut_ap, by=c("CVEGEO"))
+
 
 #### End Global R frame 
 
