@@ -3,41 +3,40 @@
 pacman::p_load(tidyverse,
                ggplot2,
                shiny,
+               gmodels,
+               tmap,
+               leaflet,
+               foreign,
+               expss,
+               fishualize,
                viridis,
-               sf
-               #gmodels,
-               #tmap,
-               #leaflet,
-               #foreign,
-               #expss,
-               #fishualize,
-               #raster,
-               #cowplot
-               #ggspatial,
-               #colorspace
-            )
+               raster,
+               cowplot,
+               sf,
+               ggspatial,
+               colorspace)
 
 
 #Shape Municipal
 mun_nac <- st_read("data/municipal.shp")
-
 mun_nac <- mun_nac %>%
     dplyr::select(CVEGEO,NOM_ENT,NOM_MUN)
 
 # Datos de ensanut a nivel municipal
-
 ensanut_ap <- read.csv(file = "data/ensanut_areas_peq.csv", 
                        sep=",", 
                        colClasses=c(rep('factor', 6), 'numeric','numeric','numeric')
-                        )
+)
 
-ensanut_ap <- ensanut_ap %>%
-    rename(CVEGEO = mun,Obesidad=obesidad,Hipertension=hipertension,Diabetes=diabetes)
+#ensanut_ap <- ensanut_ap %>%
+#    rename(CVEGEO = mun,Obesidad=obesidad,Hipertensión=hipertension,Diabetes=diabetes)
+
+# puse así los nombres
+names(ensanut_ap) <- c("CVEGEO", "ent", "ent_nom", "mun_clave", "mun_nom", 
+                       "estimador", "Obesidad", "Hipertension", "Diabetes")
 
 #Unir ambas bases
-
-datos <- dplyr::left_join(x=mun_nac, y=ensanut_ap, by=c("CVEGEO"))
-
+datos <- dplyr::left_join(mun_nac, ensanut_ap,by = "CVEGEO")
 
 #### End Global R frame 
 
@@ -53,8 +52,8 @@ ui <- fluidPage( theme = "bootswatch-cerulean.css",
             selectInput("var", 
                         label = "Enfermedad",
                         choices = c("Diabetes", 
-                                    "Hipertension",
-                                    "Obesidad"),
+                                    "Hipertension", # cambie aquí para que concordara con el nombre que puse
+                                    "Obesidad"),    # cambie aquí para que concordara con el nombre que puse
                         selected = "Hipertension"),
             
             sliderInput(inputId = "class", 
@@ -147,8 +146,8 @@ server <- function(input, output){
             # Agregar títulos
             labs(x = NULL,
                  y = NULL,
-                 title = "% de población de 20 años y más con diagnóstico previo",
-                 subtitle = "",
+                 title = "Prevalencia en México",
+                 subtitle = "% de población de 20 años y más con diagnóstico previo",
                  caption = "Fuente: Elaborado por Diego López con datos de INEGI/ENSANUT a nivel muncipal.",
                  fill = "%") +
              theme_bw()
